@@ -1,0 +1,1296 @@
+{
+  "run_id": "P13__B-research__2026-06-07T21-59-45Z",
+  "prompt_id": "P13",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:59:45.871651+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Complete Governance and Appointments Picture \u2013 Q1/Q2 2026\n\nThis answer draws on three memos that directly address governance and appointments (JAN-003, APR-013, MAR-015) and one that covers staff vacancies (JAN-010). The remaining memos in the set are not relevant to this question.\n\n---\n\n### 1. Boards and Commissions \u2013 Vacancy Scale\n\nThe memos suggest a persistent and large-scale vacancy problem across City advisory bodies.\n\n**As of January 1, 2026** (JAN-003), 18 boards and commissions were covered, with roughly 50+ open seats across them, including:\n- Access Advisory Board: **6 vacancies**\n- Reno City Charter Committee: **9 vacancies** (the single largest gap)\n- Senior Residents Advisory Board: **4 vacancies**\n- Ward 4 NAB: **5 vacancies**\n- Ward 6 NAB: **6 vacancies**\n- Ward 1 NAB: **4 vacancies**\n- Ward 2 NAB: **2 current + 3 upcoming**\n- Ward 3 NAB: **2 vacancies**\n- Ward 5 NAB: **2 current + 1 upcoming**\n- Financial Advisory Board: **1 current + 1 upcoming**\n- Youth City Council: **3 vacancies**\n\n**As of April 1, 2026** (APR-013), the problem had not been resolved \u2014 approximately **37 open positions** remained across 19 boards (one more body than in January). Notably:\n- The Reno City Charter Committee had dropped from 9 vacancies to **1**, suggesting significant appointments were made in the intervening quarter.\n- The Access Advisory Board and Ward 4 and Ward 6 NABs remained at **6 vacancies each** \u2014 no apparent progress there.\n- A new body appeared: the **Urban Forestry Commission** with **4 vacancies** (not listed in JAN-003).\n- Ward 2 NAB still showed **3 vacancies**, consistent with the upcoming expirations flagged in January.\n\n**Cross-document pattern:** The Charter Committee vacancy was dramatically reduced (9 \u2192 1), but Access Advisory Board and several Ward NABs showed no improvement between January and April. The overall open-seat count remained high (~37 in April vs. a larger but less precisely totaled number in January), suggesting appointments activity was uneven across bodies.\n\n---\n\n### 2. Named Term Expirations Requiring Action\n\nJAN-003 identified five specific individuals whose terms were expiring by March 31, 2026, requiring Council action:\n\n| Person | Board | Expiration |\n|---|---|---|\n| Roman Schomberg | Ward 2 NAB | January 31, 2026 |\n| Jillian Keller | Financial Advisory Board | February 28, 2026 |\n| Stanley Dowdy | Ward 2 NAB | March 31, 2026 |\n| Patrick Fisher | Ward 2 NAB | March 31, 2026 |\n| Bryce Chisholm | Ward 5 NAB | March 31, 2026 |\n\nAPR-013 then identified **10 additional named individuals** across 6 bodies with terms expiring April 30 or May 31, 2026, covering the Historical Resources Commission, Civil Service Commission, Building Enterprise Fund Advisory Committee, Arts and Culture Advisory Board, and Ward 2 and Ward 4 NABs. The memo does not list those individuals by name in the summary provided, but flags them as requiring imminent Council action (APR-013).\n\n**Cross-document pattern:** The Ward 2 NAB appears in both memos as a recurring pressure point \u2014 three term expirations in Q1 (JAN-003) and more upcoming in Q2 (APR-013) \u2014 yet the board still showed 3 vacancies in April, suggesting the Q1 expirations may not all have been filled.\n\n---\n\n### 3. Reno Tahoe Airport Authority \u2013 High-Profile External Board Vacancies\n\nSeparate from the internal boards-and-commissions process, MAR-015 reports two resignations on the **Reno Tahoe Airport Authority Board of Trustees** \u2014 Edward Ableser and Kitty Jung \u2014 creating two vacancies with unexpired terms running to **June 30, 2029** and **June 30, 2027**, respectively. With 34 applications on file and the portal closing April 6, 2026, the Council was expected to make appointments at its **April 22, 2026 meeting**.\n\nA **third RTAA vacancy** exists but falls outside Council's authority \u2014 it must be filled by the Reno Sparks Convention and Visitor's Authority (MAR-015).\n\nThis is structurally different from the NAB/advisory board vacancies: it involves a regional authority, has a defined applicant pool, and a hard appointment deadline tied to a specific Council meeting date.\n\n---\n\n### 4. Staff (FTE) Vacancies \u2013 Separate Track\n\nJAN-010 covers a different category of vacancy: **City staff positions**, not appointed boards. As of December 15, 2025, **109.75 FTE positions** were vacant out of 1,538.50 adopted FTEs. The breakdown:\n- 19.75 frozen/unfunded at adoption\n- 8.00 frozen via reduction-in-force\n- 26.00 actively recruiting\n- 44.00 otherwise vacant\n- 12.00 Public Safety pending next academy\n\nThe memo is informational \u2014 no Council action was requested. The City Manager (Jackie Bryant) holds authority over recruitment decisions; any increase to the total FTE count requires Council approval through the quarterly budget process (JAN-010).\n\n---\n\n### 5. Key Tensions and Gaps\n\n- **Chronic vs. resolved vacancies:** The Charter Committee vacancy collapsed from 9 to 1 between January and April, but Access Advisory Board and several Ward NABs showed no movement \u2014 the memos do not explain why some boards were prioritized over others (JAN-003, APR-013).\n- **Process dependency:** Both board vacancy reports note that staff will meet *individually* with each Council Member to work through appointments. This means the pace of filling vacancies is tied to Council Member engagement, creating a potential bottleneck the memos acknowledge but do not resolve (JAN-003, APR-013).\n- **Urban Forestry Commission** appears in APR-013 with 4 vacancies but was entirely absent from JAN-003 \u2014 it is unclear whether this body was newly created, newly added to the tracking list, or simply omitted earlier.\n- **RTAA appointments** (MAR-015) were on a faster, more structured track than the internal board vacancies, with a defined applicant pool and a specific Council meeting date \u2014 a contrast to the more open-ended advisory board process.",
+    "cited_sources": [
+      {
+        "memo_id": "JAN-003",
+        "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95257/639038034123830000"
+      },
+      {
+        "memo_id": "APR-013",
+        "title": "City of Reno Boards and Commissions 2026 Q4 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95758/639137588987600000"
+      },
+      {
+        "memo_id": "MAR-015",
+        "title": "Reno Tahoe Airport Authority Board of Trustees Appointments Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95606/639095347402470000"
+      },
+      {
+        "memo_id": "JAN-010",
+        "title": "Approved Position Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95296/639046886640970000"
+      },
+      {
+        "memo_id": "JAN-005",
+        "title": "2026 Park Vandalism Incidents",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95268/639040050085370000"
+      },
+      {
+        "memo_id": "FEB-012",
+        "title": "Quarterly Financial Report \u2013 December 31, 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95492/639070216121470000"
+      },
+      {
+        "memo_id": "MAR-011",
+        "title": "Update on Lear Community Meeting and Survey",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95595/639093344509200000"
+      },
+      {
+        "memo_id": "APR-010",
+        "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639137587253200000"
+      },
+      {
+        "memo_id": "APR-003",
+        "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-008",
+        "title": "Vintage at the Crossings Community Meeting Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95746/639137583776800000"
+      },
+      {
+        "memo_id": "APR-015",
+        "title": "Clean and Safe Team Homeless Actions and Outcomes - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639137591712200000"
+      },
+      {
+        "memo_id": "FEB-002",
+        "title": "Planned Tree Removals at Lear Theater",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95341/639056480242370000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "APR-013",
+            "JAN-003",
+            "JAN-010",
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-008",
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Police Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Fire Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-013",
+            "APR-015",
+            "FEB-002",
+            "FEB-012",
+            "JAN-003",
+            "JAN-005",
+            "JAN-010",
+            "MAR-011",
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "City of Reno Boards and Commissions Vacancy Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Bryce Chisholm (Ward 5 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Cali Shy, Agenda Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Brandi Anderson (Council Liaison: Access Advisory Board, Arts and Culture Advisory Board, Financial Advisory Board, Ward 6 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Devon Reese (Council Liaison: Ward 5 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Kathleen Taylor (Council Liaison: Building Enterprise Fund Advisory Committee, Ward 1 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Meghan Ebert",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Naomi Duerr",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Jillian Keller (Financial Advisory Board, term ends February 28, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Mayor Hillary Schieve",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Patrick Fisher (Ward 2 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Roman Schomberg (Ward 2 NAB, term ends January 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Stanley Dowdy (Ward 2 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Tyler Shaw, Agenda Manager",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003",
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Vice Mayor Miguel Martinez (Council Liaison: Parks and Recreation Advisory Board, Ward 3 NAB, Youth City Council)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013",
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "City Manager's Office - Security",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Graffiti Abatement Team",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Parks Maintenance Division",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015",
+            "FEB-002",
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Parks and Recreation \u2013 Park and River Rangers",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Matt Brezina, Parks Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002",
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Nathan Ullyot, Director of Parks and Recreation",
+          "type": "people",
+          "memo_ids": [
+            "JAN-005"
+          ]
+        },
+        {
+          "name": "Housing and Neighborhood Development",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Izabella Baumann, Senior Engagement Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "FEB-012",
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Civil Service Commission",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Public Safety departments",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Redevelopment Agency",
+          "type": "departments",
+          "memo_ids": [
+            "APR-015",
+            "JAN-010",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Budget augmentation process",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Fiscal Year 2026 Annual Budget Book \u2013 Personnel Changes",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Lynsey Hatfield, Budget Manager",
+          "type": "people",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Public Works",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Business License",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Development Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Maintenance and Operations",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Parking Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Utility Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "ServiceNow",
+          "type": "projects",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Noemi Gomez Martinez, Community Relationships Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Reno Fire Department \u2013 Fire Prevention Division",
+          "type": "departments",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Urban Forestry Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Lear Theater",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-002",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Lucas Proctor, certified Tree Risk Assessor",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Basile, Urban Forester",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Taylor, Assistant Finance Director",
+          "type": "people",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Arts and Culture",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Licensing and Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Community Action and Outreach",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Mobile Engagement Team",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Kaytlin Canner, Clean and Safe Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Clean and Safe Team",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Housing Authority Motel Assistance Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Safe Camp",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "2025-26 Quarterly Financial Report \u2013 2nd Quarter Ending December 31, 2025",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Reno Tahoe Airport fire personnel regionalization",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Vintage at the Crossings Community Meeting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "City of Reno and Cares Campus Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "City of Reno and NDOT Interlocal Agreement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Downtown Reno Partnership Security and Safety Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Fusus Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "HUD-VASH Voucher Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Karma Box Project",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Mobile Camera Trailer Pilot Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Rapid Rehousing Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "School of Public Health Street Health Collaborative",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Washoe County Outreach Case Conferencing",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Historical Resources Commission (HRC)",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Historic Structure Report (HSR)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Dr. Alicia Barber (community meeting facilitator/historian)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Megan Berner, Arts & Culture Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Reno-Sparks Convention and Visitors Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Reno Tahoe Airport Authority Board of Trustees Appointments",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Edward Ableser, former RTAA Board of Trustees member",
+          "type": "people",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Kitty Jung, former RTAA Board of Trustees member",
+          "type": "people",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Regional Alliance to End Homelessness (RAH)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "14-day notice process",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Electronic ADA access installation (north and south exterior doors and community room courtyard entrance)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Expanded snow removal coordination",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Full building unit inspection",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Health, wellness, and educational programming engagement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Parking lot speed bump installation",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Pet relief area improvements",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Smoking area upgrades",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Bradley Carlson (Historical Resources Commission, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Charla Honey (Civil Service Commission, term ends May 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Constance Hightower (Arts and Culture Advisory Board, term ends May 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Douglas Hunter (Building Enterprise Fund Advisory Committee, term ends May 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Hal Taylor (Ward 2 NAB, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Rebecca Flannery (Ward 4 NAB, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Stacey Shinn (Ward 2 NAB, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Tina Davis (Historical Resources Commission, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Will Durham (Historical Resources Commission, term ends April 30, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Yevonne Allen (Civil Service Commission, term ends May 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "APR-013"
+          ]
+        },
+        {
+          "name": "Community Homelessness Advisory Board (CHAB)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Our Place",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "UNR StreetMed Team",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "Memo A (APR-003, 2026-04-06) covers February 2026 Reno Direct data (323 service requests related to homeless concerns) and precedes Memo B (APR-010, 2026-04-21), which covers March 2026 Reno Direct service request activity citywide. The February report logically and temporally precedes the March rep"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Regional Alliance to End Homelessness (RAH), Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "precedes",
+          "evidence": "Memo A is the February 2026 Clean and Safe Team report (APR-003, dated 2026-04-06) and Memo B is the March 2026 report (APR-015, dated 2026-04-22) covering the same recurring interdepartmental homelessness program. Memo A's decisions and actions\u2014such as continuing the Mobile Camera Trailer Pilot Pro"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A reports January 2026 City Walk outcomes (MAR-003, dated 2026-03-05) covering operations and metrics from January, while Memo B reports February 2026 Clean and Safe Team outcomes (APR-003, dated 2026-04-06). Both concern the same Clean and Safe interdepartmental program addressing homelessness"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): City of Reno and Cares Campus Collaboration, City of Reno and NDOT Interlocal Agreement, Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Fusus Program, HUD-VASH Voucher Program, Karma Box Project, Mobile Camera Trailer Pilot Program, Rapid Rehousing Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, School of Public Health Street Health Collaborative, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-004, 2026-03-05) covers January 2026 Clean and Safe Team activities and decisions\u2014including the Council-approved NDOT interlocal agreement on January 28\u2014which logically and temporally precede Memo B (APR-003, 2026-04-06), which covers February 2026 and explicitly references the operation"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-017, issued 2026-03-23) reports February 2026 Reno Direct service request data citywide, and Memo B (APR-003, issued 2026-04-06) draws on that same Reno Direct data \u2014 citing 323 service requests related to homeless concerns \u2014 making A's reporting temporally and logically prior to B's use"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers January 2026 Reno Direct service request data (including homeless-related requests), which temporally precedes and provides the baseline comparison referenced in Memo B, which notes the February 2026 figure of 323 homeless-related Reno Direct service requests represents 'a 1% decrease "
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Vintage at the Crossings Community Meeting"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-014, 2026-02-18) documents the initial community meeting held February 10, 2026, and the corrective actions committed to by Asset Living and the Community Engagement and Services Department. Memo B (APR-008, 2026-04-15) explicitly describes itself as a follow-up to that same February 10 "
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-010",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-017 covers February 2026 service request data while APR-010 covers March 2026, making the February report a temporal predecessor to the March report in the same recurring monthly series."
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-018 covers January 2026 service request data while APR-010 covers March 2026 data; the January report temporally precedes the March report in the same recurring monthly reporting series."
+        },
+        {
+          "source_id": "JAN-003",
+          "target_id": "APR-013",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): City of Reno Boards and Commissions Vacancy Report"
+        },
+        {
+          "source_id": "JAN-003",
+          "target_id": "APR-013",
+          "rel_type": "precedes",
+          "evidence": "Memo A is the Q3 2025 vacancy report dated January 11, 2026, while Memo B is the Q4 2026 vacancy report dated April 22, 2026. Memo A's reporting cycle and appointment decisions temporally and logically precede Memo B's subsequent quarterly vacancy reporting and appointment planning process for the s"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-015",
+          "rel_type": "precedes",
+          "evidence": "Memo A reports February 2026 service request data, which Memo B explicitly uses as a baseline, noting a '9% increase over February' in service requests \u2014 establishing that Memo A's reporting period and data logically and temporally precede Memo B's March 2026 analysis."
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-002",
+          "target_id": "MAR-011",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Lear Theater"
+        }
+      ],
+      "fields": {
+        "JAN-003": {
+          "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+          "department": "City Manager's Office",
+          "category": "Boards and Commissions",
+          "tldr": "This memo reports current and anticipated vacancies on City of Reno boards and commissions as of January 1, 2026, covering the third quarter of 2025. Significant vacancies exist across multiple bodies, including the Access Advisory Board (6 openings), Reno City Charter Committee (9 openings), Senior Residents Advisory Board (4 openings), and Ward 4 and Ward 6 Neighborhood Advisory Boards (5\u20136 openings each). Staff will meet individually with each Council Member during the quarter to review vacancies and applications for boards they oversee. The report is intended to help the Mayor and Council plan timely appointments and reappointments.",
+          "key_stats": "Total boards/commissions covered: 18. Access Advisory Board: 6 current vacancies. Reno City Charter Committee: 9 current vacancies. Senior Residents Advisory Board: 4 current vacancies. Ward 4 Neighborhood Advisory Board: 5 current vacancies. Ward 6 Neighborhood Advisory Board: 6 current vacancies. Ward 1 Neighborhood Advisory Board: 4 current vacancies. Ward 2 Neighborhood Advisory Board: 2 current vacancies plus 3 upcoming. Ward 3 Neighborhood Advisory Board: 2 current vacancies. Ward 5 Neighborhood Advisory Board: 2 current vacancies plus 1 upcoming. Financial Advisory Board: 1 current vacancy plus 1 upcoming. Youth City Council: 3 current vacancies.",
+          "key_decisions": "Council must make appointments and reappointments to fill current and upcoming vacancies across 18 boards and commissions. Upcoming term expirations requiring action by March 31, 2026 include: Jillian Keller (Financial Advisory Board, February 28, 2026); Roman Schomberg (Ward 2 NAB, January 31, 2026); Stanley Dowdy (Ward 2 NAB, March 31, 2026); Patrick Fisher (Ward 2 NAB, March 31, 2026); Bryce Chisholm (Ward 5 NAB, March 31, 2026).",
+          "action_items": "Staff will meet individually with each Council Member throughout Q1 2026 to review vacancies and applications for boards each Council Member recommends appointments to, ensuring timely appointments and reappointments as vacancies occur."
+        },
+        "APR-013": {
+          "title": "City of Reno Boards and Commissions 2026 Q4 Vacancy Report",
+          "department": "City Manager's Office",
+          "category": "Boards and Commissions",
+          "tldr": "This memo provides the City of Reno's Q4 2026 vacancy report for internal boards and commissions as of April 1, 2026. It covers current vacancies and those anticipated within the next 90 days across 19 boards and commissions. The report is intended to help the Mayor and City Council plan upcoming appointments and reappointments. Staff will also meet individually with each Council Member during the quarter to review vacancies and applications.",
+          "key_stats": "Current vacancies total approximately 37 open positions across multiple boards, including 6 on the Access Advisory Board, 4 on the Senior Residents Advisory Board, 4 on the Urban Forestry Commission, 4 on the Ward 1 NAB, 3 on the Ward 2 NAB, 6 on the Ward 4 NAB, 1 on the Ward 5 NAB, 6 on the Ward 6 NAB, 2 on the Ward 3 NAB, and 1 on the Reno City Charter Committee. Upcoming vacancies within 90 days include 10 named individuals across 6 boards with terms ending April 30 or May 31, 2026.",
+          "key_decisions": "The Mayor and City Council need to fill current vacancies and plan reappointments or new appointments for 10 upcoming term expirations across the Historical Resources Commission, Civil Service Commission, Building Enterprise Fund Advisory Committee, Arts and Culture Advisory Board, and Ward 2 and Ward 4 Neighborhood Advisory Boards.",
+          "action_items": "Council Members should meet individually with staff during Q4 to review vacancies and applications for boards they liaison; appointments and reappointments should be made for all current and upcoming vacancies, particularly those expiring April 30 and May 31, 2026."
+        },
+        "MAR-015": {
+          "title": "Reno Tahoe Airport Authority Board of Trustees Appointments Update",
+          "department": "City Manager's Office",
+          "category": "Appointments",
+          "tldr": "Two vacancies have opened on the Reno Tahoe Airport Authority Board of Trustees following resignations from Edward Ableser and Kitty Jung. The City of Reno's application portal is open through April 6, 2026, with 34 applications currently on file. The Reno City Council is expected to make appointments at its April 22, 2026 meeting to fill the remainder of each trustee's unexpired term. A separate third vacancy on the RTAA Board must be filled by the Reno Sparks Convention and Visitor's Authority.",
+          "key_stats": "34 applications on file for 2 vacant positions; application portal open through 5:00 PM April 6, 2026; unexpired terms run through June 30, 2029 (Ableser seat) and June 30, 2027 (Jung seat)",
+          "key_decisions": "Reno City Council must appoint two individuals to fill the remainder of Edward Ableser's and Kitty Jung's unexpired terms on the RTAA Board of Trustees, anticipated at the April 22, 2026 Council meeting.",
+          "action_items": "City Manager's Office staff to bring appointment item forward for Council consideration at the April 22, 2026 Reno City Council meeting; staff are communicating with all applicants regarding the application timeline and anticipated consideration date."
+        },
+        "JAN-010": {
+          "title": "Approved Position Update",
+          "department": "Finance",
+          "category": "Human Resources / Workforce",
+          "tldr": "This memo updates the Mayor and Council on the City of Reno's current vacant positions as of December 15, 2025, and explains the process for determining whether and when vacancies are filled. The City has adopted 1,538.50 combined FTEs for FY26. As of the reporting date, 109.75 FTE positions are vacant across various statuses, including frozen/unfunded, RIF-related, actively recruiting, and pending academy. Departments must submit critical vacancy requests through the City Manager's Office, which coordinates review with Human Resources and Finance before the City Manager makes a final determination.",
+          "key_stats": "FY26 adopted FTEs: 1,528.25 (City of Reno) + 10.25 (RDA) = 1,538.50 combined. Total vacant positions as of December 15, 2025: 109.75 FTE. Breakdown: 19.75 frozen/unfunded at adoption, 8.00 frozen via RIF, 26.00 in active recruitment, 44.00 otherwise vacant, 12.00 Public Safety positions pending next academy.",
+          "key_decisions": "The City Manager (Jackie Bryant) makes the final determination on whether to proceed with recruitment for any identified critical vacancy. Any increase to the overall approved FTE count requires Mayor and Council review and approval through the quarterly budget augmentation process.",
+          "action_items": "No specific action items are requested of the Mayor and Council in this memo; it is provided as an informational update on current vacancies and the vacancy review process."
+        },
+        "JAN-005": {
+          "title": "2026 Park Vandalism Incidents",
+          "department": "Parks and Recreation",
+          "category": "Parks and Recreation",
+          "tldr": "Between January 1\u20135, 2026, vandalism occurred at six City of Reno parks, including gate damage, restroom break-ins, a restroom fire, theft from a donation box, and graffiti at two locations. Incidents were discovered by Park Rangers, Park Maintenance Staff, City Security, and Allied Security. Staff have made immediate repairs and filed police reports where applicable. Ongoing work includes door modifications at Double Diamond Park and decontamination of the burned restroom at Teglia's Paradise Park.",
+          "key_stats": "Six parks affected: Oxbow Nature Study Area, Double Diamond Park, Horseman's Park, Teglia's Paradise Park, Barbara Bennett Park, and Idlewild Park. Incidents spanned January 1\u20135, 2026. Damage types include gate collision, forced restroom entry, donation box theft, restroom fire (baby changing station a complete loss), and spray paint graffiti at two locations. Significant labor and materials costs noted but not quantified.",
+          "key_decisions": "Staff secured damaged doors at Double Diamond Park and are developing door modifications to prevent future forced entry. Graffiti at Barbara Bennett Park and Idlewild Park was immediately painted over. Staff will contact the donation center regarding the damaged clothes donation box at Horseman's Park.",
+          "action_items": "1. Complete door modifications at Double Diamond Park restroom to prevent future forced entry. 2. Perform decontamination and cleaning of burned restroom at Teglia's Paradise Park before reopening. 3. Contact donation center to address damaged clothes donation box at Horseman's Park. 4. Online police reports filed for Barbara Bennett Park and Idlewild Park graffiti incidents."
+        },
+        "FEB-012": {
+          "title": "Quarterly Financial Report \u2013 December 31, 2025",
+          "department": "Finance",
+          "category": "Financial Report",
+          "tldr": "The City of Reno's second quarter financial report for FY2025-26 (October 1 \u2013 December 31, 2025) shows total General Fund revenues at 44.7% of budget, up from 40.0% at the same point last year, representing a 7.81% year-over-year increase. Property tax, business licenses, charges for services, and fines and forfeits are all trending favorably. Expenditures are at 46.8% of budget, within expected range for the midpoint of the fiscal year. Ongoing challenges with the Nevada Department of Taxation's new financial system continue to complicate CTax distribution reporting and revenue projections.",
+          "key_stats": "Total General Fund revenues: $139,899,319 (44.7% of $313,119,191 amended budget); Total General Fund expenditures: $153,401,600 (46.8% of $327,567,822 amended budget); Revenue growth year-over-year: 7.81%; Property tax actuals: $47,902,919 (up 10.5% YoY); Consolidated Tax actuals: $35,614,370 (up 7.5% YoY); Charges for Services actuals: $15,103,344 (up 23.8% YoY); Franchise Fees actuals: $9,767,427 (down 23.8% YoY); Intergovernmental actuals: $4,446,485 (down 27.6% YoY)",
+          "key_decisions": "No formal decisions requested; report is informational. Council is being updated on fiscal status and budget-to-actual performance for Q2 FY2025-26.",
+          "action_items": "Report to be published on reno.gov for public review. City management should continue monitoring revenue and expenditure variances, particularly CTax distributions affected by the Department of Taxation's new financial system, to support accurate projections for the remainder of FY2025-26 and next year's budget."
+        },
+        "MAR-011": {
+          "title": "Update on Lear Community Meeting and Survey",
+          "department": "Public Works",
+          "category": "Arts & Culture / Historic Preservation",
+          "tldr": "Staff conducted a community meeting and survey in January 2026 regarding the historic Lear property, drawing 180 attendees and 441 survey responses. The Historical Resources Commission reviewed public feedback and forwarded five advisory recommendations to Council, including prioritizing stabilization, conducting a feasibility study, and establishing an HRC subcommittee. Planning-level cost estimates range from $1.6 million for near-term stabilization to $22 million for a full performing arts venue. Council is scheduled to consider authorization for stabilization work, a feasibility study, and an advisory subcommittee on April 8, 2026.",
+          "key_stats": "125 in-person and 55 online attendees at January 10, 2026 community meeting; 441 survey responses (January 10\u201331, 2026); near-term stabilization estimate ~$1.6M; code-compliant building reopening ~$15M; flexible events space ~$18M; performing arts venue ~$22M.",
+          "key_decisions": "Council to consider on April 8, 2026: (1) authorization for near-term Lear stabilization and security improvements, (2) approval to proceed with a feasibility study, and (3) establishment of an HRC advisory board or subcommittee for the Lear property.",
+          "action_items": "April 8, 2026 Council meeting: authorize near-term stabilization/security improvements, approve feasibility study, and establish HRC advisory board/subcommittee; Arts & Culture staff to continue community engagement and provide updates; explore Redevelopment Agency participation in stabilization funding through budget process."
+        },
+        "APR-010": {
+          "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "The March 2026 Reno Direct report summarizes constituent interactions and service request activity across all city departments. The centralized customer service center handled 2,819 total interactions and received 2,978 new service requests citywide, while closing 3,030 requests. Illegal/abandoned parking was the top service request type both citywide and in every individual ward.",
+          "key_stats": "Total constituent interactions: 2,819 (1,963 calls answered, 401 voicemails, 439 emails, 16 online chats); New service requests: 2,978; Closed service requests: 3,030; Top request citywide: Parking Illegally/Abandoned (951); Largest department by new requests: Reno Police & Parking Enforcement (1,376 new, 1,472 closed).",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "APR-003": {
+          "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+          "department": "Community Engagement and Services",
+          "category": "Public Safety & Community Services",
+          "tldr": "The Clean and Safe Team's February 2026 report details interdepartmental efforts to address homelessness in Reno, including 55 outreach interactions resulting in 11 housing arrangements and 2 shelter arrangements. Enforcement activities included 91 citations, 80 arrests, 23 encampment clean-ups, and 127 yards of trash collected. Reno Direct received 323 service requests related to homeless concerns, occupied vehicles, trespassing, and camping, a 1% decrease from January. Key program updates include 7 individuals facilitated into the Reno Housing Authority Motel Assistance Program and ongoing deployment of Mobile Camera Trailers at chronic hotspot locations.",
+          "key_stats": "55 outreach interactions; 11 housing arrangements; 2 shelter arrangements; 91 citations; 80 arrests (17 felony, 63 misdemeanor); 2 large and 21 smaller encampment clean-ups; 127 yards of trash collected; 42 occupied vehicles posted; 10 vehicles towed; 1 park exclusion; 43 Code Enforcement cases; 104 Allied Universal Security site visits; 761 Park and River Ranger site visits; 71 Ranger interactions with unsheltered individuals; 323 Reno Direct service requests; 7 individuals facilitated into Motel Assistance Program; 4 individuals transitioned from Motel Assistance to permanent housing",
+          "key_decisions": "Established a response process under the City of Reno and NDOT Interlocal Agreement (ILA) to address encampments on NDOT Right-of-Ways; Washoe County Guardian's Office agreed to take over motel payments for two clients who reached the limit of the Reno Housing Authority Motel Assistance Program; City of Reno and Cares Campus Collaboration meetings (launched Fall 2025) continued to streamline transitions of shelter clients with income into permanent housing",
+          "action_items": "Continue Mobile Camera Trailer Pilot Program at Spokane Street and Galletti Way locations; deliver Verification of Homelessness letter to individual at Wells Avenue & Kuenzli Street; submit Motel Assistance paperwork for client met at CARES Campus; identify and submit alternative housing applications for couple evicted from Cheryl Apartments and moved to EconoLodge; follow up on housing plan for client whose living arrangement with mother was ruled out at Competency Court hearing"
+        },
+        "APR-008": {
+          "title": "Vintage at the Crossings Community Meeting Update",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "This memo updates the Mayor and Council on follow-up actions taken after a February 10, 2026, community meeting at Vintage at the Crossings Apartments, a senior housing community at 11565 Old Virginia Road. City departments including Community Engagement and Services, Code Enforcement, and Reno Fire Department have conducted outreach, delivered updated materials, and presented fire safety information to residents. Property management (Vintage at the Crossings and Asset Living) has completed multiple maintenance work orders and reinstated or improved several resident services. Additional enhancements including ADA door access, parking lot speed bumps, and expanded health programming are planned or underway.",
+          "key_stats": "Approximately 30 residents attended the March 26, 2026, Reno Fire Department fire safety presentation. Overnight security presence extended to cover 9:00 p.m. to 5:00 a.m., seven days per week. Two fire inspections completed by Summit Fire and Security (annual on February 9; five-year on February 26).",
+          "key_decisions": "No formal council decisions requested; memo is informational. City staff will continue collaborating with Vintage at the Crossings and Asset Living management to address resident concerns and coordinate City department assistance as needed.",
+          "action_items": "Reno Fire Department Fire Prevention is developing a more detailed evacuation plan for the property. Community Engagement and Services staff will continue working with Vintage at the Crossings and Asset Living on outstanding and emerging resident concerns. Planned property improvements include electronic ADA access installation, pet relief area improvements, smoking area upgrades, full building unit inspection, parking lot speed bumps, expanded snow removal coordination, and outside vendor health/wellness programming."
+        },
+        "APR-015": {
+          "title": "Clean and Safe Team Homeless Actions and Outcomes - March 2026",
+          "department": "Community Engagement and Services",
+          "category": "Public Safety & Community Services",
+          "tldr": "The Clean and Safe Team's March 2026 report summarizes interdepartmental efforts to address homelessness in Reno, including 41 outreach interactions, 4 housing arrangements, 96 arrests, and 22 encampment clean-ups. Service requests totaled 351, a 9% increase over February, driven largely by a 35% rise in Occupied Vehicle Nuisance reports. Outreach facilitated motel assistance placements, Safe Camp referrals, and coordination with regional partners. Mobile camera trailers continue to deter chronic encampment activity at key locations.",
+          "key_stats": "41 outreach interactions; 4 housing arrangements; 1 shelter arrangement; 176 citations; 96 arrests; 3 large and 19 smaller encampment clean-ups; 164 yards of trash collected; 50 occupied vehicles posted; 15 occupied vehicles towed; 6 park exclusions; 33 Code Enforcement cases; 138 Allied Security site visits; 351 total Reno Direct service requests (9% increase over February); Occupied Vehicle Nuisance requests up 35% (148 to 200); Camping in City Parks down 47% (17 to 9)",
+          "key_decisions": "Mobile Camera Trailer Pilot Program remains ongoing at Spokane Street and Galletti Way; 1 individual facilitated into Reno Housing Authority Motel Assistance Program; 1 individual transitioned from Motel Assistance Program into permanent housing; 2 individuals referred to and approved for Safe Camp; collaboration initiated with University of Nevada Reno Police Department regarding problem areas surrounding the university",
+          "action_items": "UNR StreetMed Team to follow up and treat wounds of Siegel Suites - Nevadan client enrolled in Reno Housing Authority Motel Assistance Program; continued monitoring of Our Place waitlist status for daughter and granddaughter; ongoing mobile camera trailer deployment at Spokane Street and Galletti Way locations"
+        },
+        "FEB-002": {
+          "title": "Planned Tree Removals at Lear Theater",
+          "department": "Parks and Recreation",
+          "category": "Parks and Recreation",
+          "tldr": "The City of Reno's Urban Forestry Division is recommending the removal of two American Linden trees in the parkway strip along Ralston Street adjacent to the Lear Theater at 528 W 1st Street. Despite five rounds of pruning since 2000 and supplemental irrigation efforts, the trees have continued to decline due to severe dieback, poor soil conditions, and inadequate irrigation. A certified Tree Risk Assessor confirmed a moderate risk of branch failure, posing potential hazards to parked cars and pedestrians. Removal is scheduled to be completed by the end of April 2026.",
+          "key_stats": "Two American Linden (Tilia americana) trees; largest of their species in the City of Reno; pruned five times since 2000, most recently in 2024; moderate risk of branch failure identified; removal scheduled by end of April 2026.",
+          "key_decisions": "Approval of the planned removal of two American Linden trees located in the parkway strip along Ralston Street adjacent to the Lear Theater, based on declining health and public safety risk.",
+          "action_items": "Remove the two American Linden trees by the end of April 2026."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "JAN-003",
+      "APR-013",
+      "MAR-015",
+      "JAN-010",
+      "JAN-005",
+      "FEB-012",
+      "MAR-011",
+      "APR-010",
+      "APR-003",
+      "APR-008",
+      "APR-015",
+      "FEB-002"
+    ]
+  },
+  "error": null
+}

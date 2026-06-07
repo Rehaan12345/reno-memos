@@ -1,0 +1,102 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Run Record",
+  "description": "One record per (prompt x system) execution. Append-only: never overwrite. Stored as individual JSON files in eval/runs/ or appended to a JSONL file. Outputs are stored VERBATIM. No editing, no post-processing, no scoring.",
+  "type": "object",
+  "required": [
+    "run_id",
+    "prompt_id",
+    "system_id",
+    "experiment",
+    "timestamp",
+    "generation_model_version",
+    "config_hash",
+    "output"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "run_id": {
+      "type": "string",
+      "description": "Unique ID for this single execution, e.g. P04__A-vanilla__2026-06-06T14-22-01Z"
+    },
+    "prompt_id": {
+      "type": "string",
+      "description": "References prompts.json id, e.g. P04"
+    },
+    "system_id": {
+      "type": "string",
+      "enum": ["A-research", "A-vanilla", "B-research", "B-vanilla"]
+    },
+    "experiment": {
+      "type": "string",
+      "enum": ["A", "B"]
+    },
+    "timestamp": {
+      "type": "string",
+      "format": "date-time",
+      "description": "UTC ISO 8601 of when the run executed"
+    },
+    "generation_model_version": {
+      "type": "string",
+      "description": "Exact model string used for generation, captured at run time, e.g. claude-haiku-4-5-20251001"
+    },
+    "config_hash": {
+      "type": "string",
+      "description": "Hash of this system's entry in systems.config.json at run time. Lets you detect if config changed between runs."
+    },
+    "document_set_hash": {
+      "type": ["string", "null"],
+      "description": "For Experiment B only: hash of the resolved document set both B systems consumed. Must be identical across B-research and B-vanilla for a comparison to be valid. Null for Experiment A."
+    },
+    "output": {
+      "type": "object",
+      "description": "Stored VERBATIM as the system produced it.",
+      "required": ["answer", "cited_sources"],
+      "additionalProperties": false,
+      "properties": {
+        "answer": {
+          "type": "string",
+          "description": "The prose answer, exactly as produced. No edits."
+        },
+        "cited_sources": {
+          "type": "array",
+          "description": "Sources the system cited or retrieved. May be empty for vanilla systems that don't cite.",
+          "items": {
+            "type": "object",
+            "properties": {
+              "memo_id": { "type": ["string", "null"] },
+              "title": { "type": ["string", "null"] },
+              "source_url": { "type": ["string", "null"] }
+            }
+          }
+        },
+        "extracted_data": {
+          "type": ["object", "null"],
+          "description": "Experiment B only. The structured representation the system built from raw PDFs, so the expert can inspect extraction quality. Null for Experiment A and for B-vanilla if it does no extraction.",
+          "properties": {
+            "entities": {
+              "type": "array",
+              "items": { "type": "object" }
+            },
+            "relationships": {
+              "type": "array",
+              "items": { "type": "object" }
+            },
+            "fields": {
+              "type": "object"
+            }
+          }
+        },
+        "retrieved_chunk_ids": {
+          "type": ["array", "null"],
+          "description": "Optional: IDs/indices of chunks or memos retrieved, for your own miss-detection against prompts.json reference_key. Never shown to expert.",
+          "items": { "type": "string" }
+        }
+      }
+    },
+    "error": {
+      "type": ["string", "null"],
+      "description": "If the run failed, the error. A failed run is still recorded, never silently dropped."
+    }
+  }
+}

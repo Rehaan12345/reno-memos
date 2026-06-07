@@ -1,0 +1,103 @@
+{
+  "_comment": "The four systems under comparison. The two systems in each pair (A-research/A-vanilla, B-research/B-vanilla) MUST be identical except for 'grounding' and what that implies. Within a pair, model, embedding_model, chunk_size, overlap, and top_k must match exactly so the only variable is research grounding. Fill A-research from the ACTUAL configuration of the already-built system before running anything. Do not invent values.",
+  "version": "1.0",
+  "shared": {
+    "generation_model": "claude-sonnet-4-6",
+    "_generation_model_note": "Confirmed by user 2026-06-06: A-research's code (query.py MODEL) generates with claude-sonnet-4-6. The 'Haiku API key' was the user's name for the key, not the model. All four systems use this same model so the only variable within a pair is research grounding.",
+    "max_tokens": 2048,
+    "temperature": 0
+  },
+  "pair_invariants": {
+    "_comment": "These fields MUST be identical between the two systems within each pair. The runner should assert this before running and halt if violated.",
+    "experiment_A": ["generation_model", "embedding_model", "chunk_size", "overlap", "top_k", "data_source"],
+    "experiment_B": ["generation_model", "embedding_model", "chunk_size", "overlap", "top_k", "data_source", "document_set_hash"]
+  },
+  "systems": [
+    {
+      "id": "A-research",
+      "experiment": "A",
+      "status": "ALREADY_BUILT",
+      "data_source": "spreadsheet",
+      "spreadsheet_path": "CityThread_Q1_2026_Master.xlsx",
+      "grounding": true,
+      "grounding_files": ["CLAUDE.md", "ARCHITECTURE.md"],
+      "generation_model": "claude-sonnet-4-6",
+      "retrieval": "research_pipeline",
+      "_retrieval_note": "FTS5 keyword + one-hop relationship graph walk + thread/flag/decision direct lookup, per ARCHITECTURE.md. Values below reflect the actual built system: query.py uses FTS5 (no embeddings), indexes whole-memo search_text (no fixed chunking), keyword_search LIMIT 8, context capped at MAX_CONTEXT_MEMOS=12.",
+      "embedding_model": "none",
+      "chunk_size": "memo_level",
+      "overlap": "n/a",
+      "top_k": 8
+    },
+    {
+      "id": "A-vanilla",
+      "experiment": "A",
+      "status": "TO_BUILD",
+      "data_source": "spreadsheet",
+      "spreadsheet_path": "CityThread_Q1_2026_Master.xlsx",
+      "grounding": false,
+      "grounding_files": [],
+      "generation_model": "claude-sonnet-4-6",
+      "retrieval": "vanilla",
+      "_retrieval_note": "Truly standard RAG. Flatten spreadsheet rows to text, fixed-size chunk, embed, top-k cosine, stuff into generic prompt. NO entity normalization, NO relationship graph, NO bounded vocab, NO thread/flag awareness, NO citation requirement, NO structured reasoning prompt. Do not improve it.",
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "_embedding_note": "Confirmed by user 2026-06-06: local off-the-shelf sentence-transformers model (no API key, runs offline). A-vanilla and B-vanilla use the SAME model. This is the exact model string loaded at run time.",
+      "chunk_size": 512,
+      "overlap": 64,
+      "top_k": 8,
+      "generic_prompt": "Answer the question using only the context below. If the answer is not in the context, say so.\n\nContext:\n{context}\n\nQuestion: {question}"
+    },
+    {
+      "id": "B-research",
+      "experiment": "B",
+      "status": "TO_BUILD",
+      "data_source": "pdf_urls",
+      "source_page": "https://www.reno.gov/government/city-council/memos-to-the-mayor-and-council",
+      "grounding": true,
+      "grounding_files": ["CLAUDE.md", "ARCHITECTURE.md"],
+      "generation_model": "claude-sonnet-4-6",
+      "retrieval": "research_pipeline",
+      "_retrieval_note": "Run full ARCHITECTURE.md extraction on raw PDFs (normalization, coreference, sequential bounded-vocab extraction, memo-level chunking) building a structured knowledge base, then retrieve and reason over that.",
+      "embedding_model": "none",
+      "chunk_size": "memo_level",
+      "_chunk_note": "Per ARCHITECTURE.md: never chunk below a full memo section. Memo-level chunking for relation extraction.",
+      "overlap": "n/a",
+      "top_k": 8
+    },
+    {
+      "id": "B-vanilla",
+      "experiment": "B",
+      "status": "TO_BUILD",
+      "data_source": "pdf_urls",
+      "source_page": "https://www.reno.gov/government/city-council/memos-to-the-mayor-and-council",
+      "grounding": false,
+      "grounding_files": [],
+      "generation_model": "claude-sonnet-4-6",
+      "retrieval": "vanilla",
+      "_retrieval_note": "Chunk raw PDF text, embed, top-k cosine, stuff into generic prompt. NO extraction step at all. The LLM sees raw chunks of memo text, not structured fields. Do not improve it.",
+      "embedding_model": "sentence-transformers/all-MiniLM-L6-v2",
+      "_embedding_note": "Must match A-vanilla's embedding model exactly. Confirmed local sentence-transformers, same string as A-vanilla.",
+      "chunk_size": 512,
+      "overlap": 64,
+      "top_k": 8,
+      "generic_prompt": "Answer the question using only the context below. If the answer is not in the context, say so.\n\nContext:\n{context}\n\nQuestion: {question}"
+    }
+  ],
+  "experiment_B_ingestion": {
+    "_comment": "Both B systems consume the SAME resolved document set. Resolve once, confirm, then both ingest the byte-identical set.",
+    "source_page": "https://www.reno.gov/government/city-council/memos-to-the-mayor-and-council",
+    "page_is_javascript_rendered": true,
+    "page_note": "Plain HTTP fetch returns only nav chrome. Render with headless browser OR find the document-listing endpoint. Memos served via showpublisheddocument/{id}/... URLs, not static anchors.",
+    "filters": {
+      "year": 2026,
+      "date_ceiling_inclusive": "2026-04-26",
+      "date_ceiling_note": "Corrected from 2026-04-16 by user 2026-06-07. The premise that the spreadsheet ends 2026-04-16 was factually wrong: the spreadsheet's own date_published runs through 2026-04-26 (8 memos APR-009..016 dated Apr 21-26). Using the Apr 16 ceiling would itself cause the A-vs-B window mismatch it was meant to prevent (A would cover through Apr 26, B only through Apr 16). The ceiling is set to the spreadsheet's TRUE last date so both experiments cover the identical window. Exclude every memo dated after this ceiling.",
+      "restrict_to_spreadsheet_docset": true,
+      "restrict_note": "Set true by user 2026-06-07. Within the year+ceiling window the website lists 79 memos; the spreadsheet's human curators included only 77 of them (they omitted 2 weekly-report memos, doc ids 95838 + 95840). Restricting B to the spreadsheet's exact 77 doc ids makes A and B cover the byte-identical curated document set, not just the same time window. The spreadsheet doc ids are read from reno.db memos.source_url. Memos in-window but not in the spreadsheet set are excluded with reason 'not_in_spreadsheet'."
+    },
+    "expected_count_reference": 77,
+    "expected_count_note": "Spreadsheet lists 77 memos through 2026-04-26 (its true end). With restrict_to_spreadsheet_docset=true the B set is exactly those 77 (overlap 77/77, zero divergence). The 2 in-window website extras (95838, 95840) are excluded as 'not_in_spreadsheet'.",
+    "ingestion_log_required_fields": ["title", "publication_date", "source_url", "included", "exclusion_reason"],
+    "exclusion_reasons": ["wrong_year", "after_cutoff", "not_in_spreadsheet", "fetch_failed"]
+  }
+}

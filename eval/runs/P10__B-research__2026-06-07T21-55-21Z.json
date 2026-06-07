@@ -1,0 +1,2026 @@
+{
+  "run_id": "P10__B-research__2026-06-07T21-55-21Z",
+  "prompt_id": "P10",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:55:21.351964+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Competing Priorities and Tensions Across the Memos\n\nReasoning across all 12 memos reveals several genuine tensions where city decisions or resource commitments pull in different directions.\n\n---\n\n### 1. Parking Enforcement Demand vs. Parking System Reliability\n\nThe memos suggest the city is simultaneously under pressure to collect more parking revenue and struggling with the basic infrastructure to do so. Illegal/abandoned parking is the single top service request citywide in both January and March 2026, with 901 and 951 requests respectively (MAR-018, APR-010), and Reno Police & Parking Enforcement leads all departments in volume. Yet APR-005 reports that solar panels and batteries on single-space meters were still being replaced as of February 2026, with critical issues only expected resolved by end of March 2026, and that Nevada DMV holds \u2014 a key enforcement lever \u2014 remain stalled pending state action. The city is being asked to enforce parking aggressively while its enforcement tools are incomplete.\n\n---\n\n### 2. Homelessness: Outreach vs. Enforcement\n\nAPR-003 presents both approaches side by side in a single program, and the numbers reveal a tension in emphasis. In February 2026, the Clean and Safe Team made 55 outreach interactions resulting in 11 housing arrangements and 2 shelter placements \u2014 but also issued 91 citations, made 80 arrests, conducted 23 encampment clean-ups, and towed 10 vehicles. The memo also notes that only 7 individuals were facilitated into the Motel Assistance Program and only 4 transitioned to permanent housing. The enforcement activity is substantially larger in scale than the housing placement activity. This sits in tension with the city's stated goal of \"streamlining transitions into permanent housing\" (APR-003). The memos do not resolve whether enforcement is meant to complement or substitute for housing solutions.\n\n---\n\n### 3. Housing Affordability Concerns vs. Economic Growth Framing\n\nMAR-024 presents rising wages and taxable sales as positive economic signals, but the same memo reports apartment rents up 8.4% year-over-year for 12 consecutive months, a housing supply of only 2.0 months, and a Consumer Confidence Index at its lowest point since May 2014. The memo frames wage growth outpacing inflation as a net positive, yet the rent increases and supply constraints it also documents are squeezing the same residents. The city's economic update does not flag any policy response to the housing affordability pressure, even as it notes sales tax \u2014 heavily dependent on consumer spending \u2014 is a top revenue source. The tension is between celebrating economic expansion and acknowledging that the expansion is pricing residents out.\n\n---\n\n### 4. Civic Participation Infrastructure vs. Actual Civic Participation Capacity\n\nJAN-003 reports massive vacancies across 18 boards and commissions \u2014 9 openings on the Reno City Charter Committee, 6 on the Access Advisory Board, and 4\u20136 openings on multiple Neighborhood Advisory Boards. At the same time, JAN-013 describes an ambitious expansion of community engagement through five beat-based RPD town halls and annual NAB presentations. The tension is that the city is investing in new engagement formats while the existing civic infrastructure (boards and commissions) is significantly understaffed. Expanding outreach events while leaving advisory bodies with double-digit vacancies suggests the two efforts are not coordinated.\n\n---\n\n### 5. Waste Management Oversight Gap vs. Ongoing Contract Reliance\n\nFEB-016 reveals that the city has not exercised its formal audit option on the Waste Management franchise contract since before 2018, despite having the contractual right to do so. The periodic review launched in June 2025 has multiple focus areas \"not yet started,\" including Missed Pickups and Resolution Rates and a Local Community Survey. Yet the city remains in a long-term franchise relationship with Waste Management through at least November 2029. The tension is between the city's dependence on this single vendor and its failure to use available oversight tools \u2014 a gap that sits unresolved even as the Council was actively adjusting franchise fee levels as recently as February 11, 2026 (FEB-016).\n\n---\n\n### 6. Airport Governance Urgency vs. Board Appointment Pace\n\nMAR-015 reports two vacancies on the Reno Tahoe Airport Authority Board of Trustees following resignations, with appointments not anticipated until April 22, 2026 \u2014 over a month after the memo was written. Meanwhile, MAR-024 identifies tourism as a \"bright spot\" and a key economic driver, with visitor volume up 12.3% in January 2026. The airport is central to that tourism economy, yet its governing board is operating with vacancies during a period of economic significance. The memos do not explain why the appointment timeline extends as long as it does.\n\n---\n\n**Summary:** The sharpest tensions are between enforcement-heavy homelessness response and limited housing placement capacity (APR-003), between economic growth celebration and housing affordability stress (MAR-024), and between expanding civic engagement programs and unfilled advisory board seats (JAN-003, JAN-013). These are not contradictions within single memos but patterns that only emerge when the documents are read together.",
+    "cited_sources": [
+      {
+        "memo_id": "MAR-024",
+        "title": "Monthly Economic Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000"
+      },
+      {
+        "memo_id": "JAN-003",
+        "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95257/639038034123830000"
+      },
+      {
+        "memo_id": "APR-005",
+        "title": "Parking Program Updates \u2013 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "MAR-006",
+        "title": "03.10.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95581/639092759565930000"
+      },
+      {
+        "memo_id": "MAR-018",
+        "title": "Reno Direct & Service Requests Report \u2013 January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95615/639104837813970000"
+      },
+      {
+        "memo_id": "FEB-016",
+        "title": "Waste Management Contract and Billing Clarification",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95501/639070276216770000"
+      },
+      {
+        "memo_id": "MAR-015",
+        "title": "Reno Tahoe Airport Authority Board of Trustees Appointments Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95606/639095347402470000"
+      },
+      {
+        "memo_id": "JAN-013",
+        "title": "2026 Reno Police Department Beat-Based Town Halls and Neighborhood Advisory Board Presentations",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95301/639050428618130000"
+      },
+      {
+        "memo_id": "APR-003",
+        "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-004",
+        "title": "04.14.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95738/639117766977830000"
+      },
+      {
+        "memo_id": "APR-008",
+        "title": "Vintage at the Crossings Community Meeting Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95746/639137583776800000"
+      },
+      {
+        "memo_id": "APR-010",
+        "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639137587253200000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Clerk's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "APR-005",
+            "APR-010",
+            "JAN-003",
+            "JAN-013",
+            "MAR-006",
+            "MAR-015",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "APR-008",
+            "APR-010",
+            "MAR-006",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Police Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "JAN-013",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Reno Fire Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "APR-010",
+            "MAR-006",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Strategic Communications",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "JAN-013",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Code Enforcement Service Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Brian Erbis",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Esha Singh, Management Assistant",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "FBI NICS",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Fernan P Dangaran",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-004",
+            "APR-005",
+            "APR-008",
+            "APR-010",
+            "FEB-016",
+            "JAN-003",
+            "JAN-013",
+            "MAR-006",
+            "MAR-015",
+            "MAR-018",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Loretta King",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Tammy Roberts",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "WCHSA CPS",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Nevada Department of Motor Vehicles",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "IPS Group Meter Maintenance",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Nevada DMV Holds Setup",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Parking Program Updates",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Ashley Turney, Assistant City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "City of Reno Boards and Commissions Vacancy Report",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Bryce Chisholm (Ward 5 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Cali Shy, Agenda Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Brandi Anderson (Council Liaison: Access Advisory Board, Arts and Culture Advisory Board, Financial Advisory Board, Ward 6 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Devon Reese (Council Liaison: Ward 5 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Kathleen Taylor (Council Liaison: Building Enterprise Fund Advisory Committee, Ward 1 NAB)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Meghan Ebert",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Councilmember Naomi Duerr",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Jillian Keller (Financial Advisory Board, term ends February 28, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Mayor Hillary Schieve",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003",
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Patrick Fisher (Ward 2 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Roman Schomberg (Ward 2 NAB, term ends January 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Stanley Dowdy (Ward 2 NAB, term ends March 31, 2026)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "Tyler Shaw, Agenda Manager",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003",
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Vice Mayor Miguel Martinez (Council Liaison: Parks and Recreation Advisory Board, Ward 3 NAB, Youth City Council)",
+          "type": "people",
+          "memo_ids": [
+            "JAN-003"
+          ]
+        },
+        {
+          "name": "City Manager's Office - Security",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Housing and Neighborhood Development",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Media Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Public Records Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "FEB-016",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "FEB-016",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Izabella Baumann, Senior Engagement Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Public Works",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Anna Henry",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "2026 RPD Beat-Based Town Halls",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Neighborhood Advisory Board (NAB) Annual Presentations",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Rolling Recreation Center",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Jenifer Alvarez, Council Relations Liaison",
+          "type": "people",
+          "memo_ids": [
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Kathryn Nance, Police Chief",
+          "type": "people",
+          "memo_ids": [
+            "JAN-013"
+          ]
+        },
+        {
+          "name": "Bureau of Labor Statistics (BLS)",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Employment, Training and Rehabilitation (DETR)",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Gaming Control Board",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Office of Policy and Strategy",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "U.S. Department of Labor (DOL)",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Monthly Economic Update",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Calli Wilsey, Director of Policy and Strategy",
+          "type": "people",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Jason Gortari, Urban Economist",
+          "type": "people",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Business License",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Development Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Maintenance and Operations",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Parking Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Utility Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "ServiceNow",
+          "type": "projects",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Noemi Gomez Martinez, Community Relationships Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-010",
+            "MAR-018"
+          ]
+        },
+        {
+          "name": "Reno Fire Department \u2013 Fire Prevention Division",
+          "type": "departments",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Reno Municipal Court",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Licensing and Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Community Action and Outreach",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Mobile Engagement Team",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Kaytlin Canner, Clean and Safe Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Judi Gesh",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Phil Jacobs",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Clean and Safe Team",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Reno Housing Authority Motel Assistance Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Safe Camp",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Vintage at the Crossings Community Meeting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Benchmarking with Other Jurisdictions",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Composting Survey",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Local Community Survey",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Recycling Performance Review",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Review of Other Jurisdictions' Contracts",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Titles 4 and 5 Overhaul",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Transfer Station Utilization Review",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Waste Management ESG Reporting",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Waste Management Franchise Agreement Periodic Review",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "Suzanne Groneman, Environmental Services Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-016"
+          ]
+        },
+        {
+          "name": "AIMS Expanded Reporting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Nevada DMV Registered Owner Data Access",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Jordan Daker (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Modernize Your Nevada Tax (MYNT)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "City of Reno and Cares Campus Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "City of Reno and NDOT Interlocal Agreement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Downtown Reno Partnership Security and Safety Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Fusus Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "HUD-VASH Voucher Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Karma Box Project",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Mobile Camera Trailer Pilot Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Rapid Rehousing Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "School of Public Health Street Health Collaborative",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Washoe County Outreach Case Conferencing",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Adelaida salas (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Alex J Rose (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Amber Looney (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Andrea Coppage (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Anil Balchandani (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Aron McCulloch (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Arturo Rangel (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Ashley Knorr (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Brian Flowers (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Chantel Knezovich (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Eric Saulsberry (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Henry Tonking (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Ila Panik (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Jason Ott (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Jessica Davis (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Kristin Verzola (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Krystle Houk (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Mack Murphy (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Maroon Abboud (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Maya Clark (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Melinda Harmon (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Miranda Quintero (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Nathan Vidato-Tillman (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Norma Martinez-Quintana (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Olivia Mahla (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Robert Belendez (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Stacy Woodson (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Supriya Sengupta (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Suzan Melehani (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Thomas Ayotte (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Timothy Coppage (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Torticity, LLC (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Victoria Morales (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Walt Kowalski (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "gabriela sanchez (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "kainat irfan (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-006"
+          ]
+        },
+        {
+          "name": "Reno-Sparks Convention and Visitors Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-015",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Reno Tahoe Airport Authority Board of Trustees Appointments",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Edward Ableser, former RTAA Board of Trustees member",
+          "type": "people",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Kitty Jung, former RTAA Board of Trustees member",
+          "type": "people",
+          "memo_ids": [
+            "MAR-015"
+          ]
+        },
+        {
+          "name": "Conference Board",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "BLS Quarterly Census of Employment and Wages (QCEW)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Consumer Price Index for All Urban Consumers (CPI-U) West Region",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: When Wages Outpace Inflation",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Worker Adjustment and Retraining Notification (WARN)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "John Doe",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Regional Alliance to End Homelessness (RAH)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Aaliyah Endsley (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Ana Casarin (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Annemarie Grant (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Ashley Burns (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Brandee Moran (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Brooke Wright (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Cheryl Hewlett (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Elizabeth Starks (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Emily Hedstrom (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Gina Abel (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Joseph Sparaco (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Kaitlyn Miller (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "LILA WENDY PEREZ FLORES (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Michael DeLeon (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Priscilla Maloncon (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Roderic Carucci (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Sharleen Barnes",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Steven Daughhetee (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Sydnee Rizo-Cantrell (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Tamara Teel (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Terra Schaupp (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Todd Copenhaver (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "chad plebo (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "charles wong (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Nevada Department of Public Safety",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "California Mail Notifications for Unpaid Parking Citations",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "14-day notice process",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Electronic ADA access installation (north and south exterior doors and community room courtyard entrance)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Expanded snow removal coordination",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Full building unit inspection",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Health, wellness, and educational programming engagement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Parking lot speed bump installation",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Pet relief area improvements",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Smoking area upgrades",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "Memo A (APR-003, 2026-04-06) covers February 2026 Reno Direct data (323 service requests related to homeless concerns) and precedes Memo B (APR-010, 2026-04-21), which covers March 2026 Reno Direct service request activity citywide. The February report logically and temporally precedes the March rep"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Regional Alliance to End Homelessness (RAH), Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "precedes",
+          "evidence": "Memo A is the February 2026 Clean and Safe Team report (APR-003, dated 2026-04-06) and Memo B is the March 2026 report (APR-015, dated 2026-04-22) covering the same recurring interdepartmental homelessness program. Memo A's decisions and actions\u2014such as continuing the Mobile Camera Trailer Pilot Pro"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A reports January 2026 City Walk outcomes (MAR-003, dated 2026-03-05) covering operations and metrics from January, while Memo B reports February 2026 Clean and Safe Team outcomes (APR-003, dated 2026-04-06). Both concern the same Clean and Safe interdepartmental program addressing homelessness"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): City of Reno and Cares Campus Collaboration, City of Reno and NDOT Interlocal Agreement, Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Fusus Program, HUD-VASH Voucher Program, Karma Box Project, Mobile Camera Trailer Pilot Program, Rapid Rehousing Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, School of Public Health Street Health Collaborative, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-004, 2026-03-05) covers January 2026 Clean and Safe Team activities and decisions\u2014including the Council-approved NDOT interlocal agreement on January 28\u2014which logically and temporally precede Memo B (APR-003, 2026-04-06), which covers February 2026 and explicitly references the operation"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-017, issued 2026-03-23) reports February 2026 Reno Direct service request data citywide, and Memo B (APR-003, issued 2026-04-06) draws on that same Reno Direct data \u2014 citing 323 service requests related to homeless concerns \u2014 making A's reporting temporally and logically prior to B's use"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers January 2026 Reno Direct service request data (including homeless-related requests), which temporally precedes and provides the baseline comparison referenced in Memo B, which notes the February 2026 figure of 323 homeless-related Reno Direct service requests represents 'a 1% decrease "
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-007",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-007",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-021",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): AIMS Expanded Reporting, IPS Group Meter Maintenance, Nevada DMV Holds Setup, Nevada DMV Registered Owner Data Access, Parking Program Updates"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-018, 2026-02-24) is the January 2026 parking program update whose decisions and pending actions\u2014Nevada DMV holds awaiting DPS approval, IPS meter battery/solar replacements targeted by end of February, weekly revenue monitoring, and AIMS expanded reporting\u2014are directly carried forward an"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, January 2026) is an earlier status update on the Parking Program establishing ongoing actions\u2014DMV holds setup, IPS technician support, weekly revenue monitoring\u2014that Memo B (APR-005, April 2026) directly continues and reports progress on, making A's decisions and actions the logical"
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Vintage at the Crossings Community Meeting"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-014, 2026-02-18) documents the initial community meeting held February 10, 2026, and the corrective actions committed to by Asset Living and the Community Engagement and Services Department. Memo B (APR-008, 2026-04-15) explicitly describes itself as a follow-up to that same February 10 "
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-010",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-017 covers February 2026 service request data while APR-010 covers March 2026, making the February report a temporal predecessor to the March report in the same recurring monthly series."
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-018 covers January 2026 service request data while APR-010 covers March 2026 data; the January report temporally precedes the March report in the same recurring monthly reporting series."
+        },
+        {
+          "source_id": "JAN-003",
+          "target_id": "APR-013",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): City of Reno Boards and Commissions Vacancy Report"
+        },
+        {
+          "source_id": "JAN-003",
+          "target_id": "APR-013",
+          "rel_type": "precedes",
+          "evidence": "Memo A is the Q3 2025 vacancy report dated January 11, 2026, while Memo B is the Q4 2026 vacancy report dated April 22, 2026. Memo A's reporting cycle and appointment decisions temporally and logically precede Memo B's subsequent quarterly vacancy reporting and appointment planning process for the s"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-016",
+          "target_id": "FEB-017",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Titles 4 and 5 Overhaul"
+        },
+        {
+          "source_id": "FEB-016",
+          "target_id": "FEB-017",
+          "rel_type": "precedes",
+          "evidence": "Memo A schedules the repeal of Title 5, Sec. 5.90.070 (removing outdated and contradictory language) for February 25, 2026, which temporally and logically precedes Memo B's broader Council-directed effort to open and amend Title 5 in its entirety, as described in FEB-017 dated February 24, 2026."
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-006",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of February 20\u201326, 2026, while Memo B covers February 27 through March 5, 2026. These are consecutive weekly reporting periods of the same recurring report series, making A's period temporally prior to B's."
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-007",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Modernize Your Nevada Tax (MYNT), Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "precedes",
+          "evidence": "MAR-001 (2026-03-03) is the February 2026 monthly economic update and MAR-024 (2026-03-27) is the March 2026 monthly economic update, both produced by the Office of Policy and Strategy as part of the same recurring series; MAR-001 temporally and logically precedes MAR-024 in that series, and the ong"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "MAR-018",
+          "rel_type": "precedes",
+          "evidence": "Memo A documents a graffiti abatement service request submitted on January 8, 2026, which temporally precedes and logically feeds into the January 2026 citywide service request totals (2,760 new requests) reported in Memo B's ServiceNow platform report."
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "MAR-018",
+          "rel_type": "references",
+          "evidence": "Memo A (MAR-004) explicitly references the 20% month-over-month rise in Reno Direct service requests and the 29% increase in occupied vehicle nuisance requests, which are data points drawn from the Reno Direct & Service Requests Report covered in Memo B (MAR-018)."
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "MAR-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "MAR-007",
+          "rel_type": "precedes",
+          "evidence": "MAR-006 covers the reporting period of February 27 through March 5, 2026, while MAR-007 covers March 6\u201312, 2026. Both are weekly activity reports of the same recurring type (public records requests, media requests, and code enforcement), making MAR-006 the temporally preceding installment in the sam"
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "MAR-021",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "MAR-021",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of February 27\u2013March 5, 2026 and was transmitted on March 13, 2026, while Memo B covers March 20\u201326, 2026 and was transmitted on March 27, 2026. Memo A's reporting period and transmission date logically and temporally precede Memo B's, as both are recurring weekly "
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        }
+      ],
+      "fields": {
+        "MAR-024": {
+          "title": "Monthly Economic Update - March 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The March 2026 monthly economic update for the Reno-Sparks MSA shows a moderating but still expanding economy with growing uncertainty tied to national trade policy and geopolitical tensions. Tourism was a bright spot in January 2026 with visitor volume up 12.3 percent and gains in hotel occupancy, room rates, and gaming revenue. The housing market remains stable but competitive, with limited supply sustaining seller's market conditions and rents rising 8.4 percent over the year. Consumer conditions are mixed, with strong real wage growth and rising taxable sales offset by declining consumer confidence.",
+          "key_stats": "Visitors Jan 2026: 307,686 (+12.3% YoY); Hotel occupancy Jan 2026: 58.9% (+5.3% YoY); Avg. daily room rate Jan 2026: $137.19 (+$1.76 YoY); Gaming win Jan 2026: +$1.9M (+2.9% YoY); Avg. single-family home value Feb 2026: $566,802 (-0.4% YoY, +0.1% MoM); Median days on market Feb 2026: 72 days; Housing supply: 2.0 months; 30-yr fixed mortgage rate Feb 2026: 5.98% (down from 6.76% YoY); Avg. apartment rent: $1,769 (+8.4% YoY, 12 consecutive months of increases); Nevada initial unemployment claims Feb 2026: 10,745 (+16.9% MoM, flat YoY); Avg. weekly wages Reno MSA Q3 2025: $1,415 (+6.4% YoY, outpacing national 4.7% and state 4.3%); Washoe County taxable sales Dec 2025: $1.3B (+9.4% YoY); CCI Feb 2026: 91.2 (-8.9 pts YoY, lowest since May 2014); U.S. headline inflation Feb 2026: 2.4% YoY; Nominal wage growth vs. inflation gap Q3 2025: +3.2 percentage points (wages 6.4%, inflation 3.2%)",
+          "key_decisions": "No formal decisions requested; memo is informational to assist Council in making informed policy decisions regarding labor market, housing, tourism, consumer activity, and other economic drivers.",
+          "action_items": "Office of Policy and Strategy will examine key economic variables influencing taxable sales in coming months, as sales tax remains one of the largest revenue sources for local government; next monthly economic update expected April 2026."
+        },
+        "JAN-003": {
+          "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+          "department": "City Manager's Office",
+          "category": "Boards and Commissions",
+          "tldr": "This memo reports current and anticipated vacancies on City of Reno boards and commissions as of January 1, 2026, covering the third quarter of 2025. Significant vacancies exist across multiple bodies, including the Access Advisory Board (6 openings), Reno City Charter Committee (9 openings), Senior Residents Advisory Board (4 openings), and Ward 4 and Ward 6 Neighborhood Advisory Boards (5\u20136 openings each). Staff will meet individually with each Council Member during the quarter to review vacancies and applications for boards they oversee. The report is intended to help the Mayor and Council plan timely appointments and reappointments.",
+          "key_stats": "Total boards/commissions covered: 18. Access Advisory Board: 6 current vacancies. Reno City Charter Committee: 9 current vacancies. Senior Residents Advisory Board: 4 current vacancies. Ward 4 Neighborhood Advisory Board: 5 current vacancies. Ward 6 Neighborhood Advisory Board: 6 current vacancies. Ward 1 Neighborhood Advisory Board: 4 current vacancies. Ward 2 Neighborhood Advisory Board: 2 current vacancies plus 3 upcoming. Ward 3 Neighborhood Advisory Board: 2 current vacancies. Ward 5 Neighborhood Advisory Board: 2 current vacancies plus 1 upcoming. Financial Advisory Board: 1 current vacancy plus 1 upcoming. Youth City Council: 3 current vacancies.",
+          "key_decisions": "Council must make appointments and reappointments to fill current and upcoming vacancies across 18 boards and commissions. Upcoming term expirations requiring action by March 31, 2026 include: Jillian Keller (Financial Advisory Board, February 28, 2026); Roman Schomberg (Ward 2 NAB, January 31, 2026); Stanley Dowdy (Ward 2 NAB, March 31, 2026); Patrick Fisher (Ward 2 NAB, March 31, 2026); Bryce Chisholm (Ward 5 NAB, March 31, 2026).",
+          "action_items": "Staff will meet individually with each Council Member throughout Q1 2026 to review vacancies and applications for boards each Council Member recommends appointments to, ensuring timely appointments and reappointments as vacancies occur."
+        },
+        "APR-005": {
+          "title": "Parking Program Updates \u2013 February 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "The City of Reno's Parking Program update for February 2026 reports $633,339.85 in total parking fines and fees collected since DMV registered owner data access was reinstated on June 20, 2025. Adjudication activity in January and February 2026 reduced original violation balances by roughly 55\u201360%. Software vendor AIMS is pursuing California mail notifications and awaiting state action on Nevada DMV holds. IPS technicians are ongoing in replacing solar panels and batteries on single-space meters, with all critical issues expected resolved by end of March 2026.",
+          "key_stats": "Total collected since June 20, 2025: $633,339.85 across 18,156 tickets paid. February 2026: 1,206 tickets paid, $54,058.75 collected. January 2026 adjudications: 89 cases, original balance $8,914.00 reduced to $3,545.00. February 2026 adjudications: 119 cases, original balance $11,441.00 reduced to $5,813.00.",
+          "key_decisions": "Staff will continue monitoring revenue collections weekly and may send unpaid citations to collections. Staff will review AIMS quote for California mail notifications before proceeding. Nevada DMV holds remain pending state-level action from the Nevada Department of Public Safety.",
+          "action_items": "1. Monitor parking revenue collections weekly. 2. Review AIMS quote for California registered owner mail notifications and determine next steps. 3. Await Nevada Department of Public Safety action to complete DMV holds setup. 4. Work with AIMS to develop expanded reports with additional metrics for future memos. 5. Ensure IPS resolves all battery-critical meter issues by end of March 2026."
+        },
+        "MAR-006": {
+          "title": "03.10.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative / Operational Reports",
+          "tldr": "This memo transmits weekly activity reports from the City Clerk's Office, Strategic Communications, and Code Enforcement to the Mayor and City Council for the period of February 27 through March 5, 2026. The bulk of the attached data consists of public records requests logged by the City Clerk's Office, covering police reports, fire records, building permits, 911 dispatch logs, body-worn camera video, and other categories. The report was run on March 6, 2026, and lists dozens of individual requestors and their specific record types. No budget items, policy decisions, or action items are presented; the memo is purely informational.",
+          "key_stats": "The public records request log (Attachment A) spans at least 15 pages and includes reference numbers from P017885 through at least P017943, representing over 58 logged requests for the single week of February 27\u2013March 5, 2026. Request types include Police Department Records (majority), Fire Department Records, and General Public Records covering categories such as police reports, background requests, body-worn camera video, building plans/permits, 911 dispatch logs, traffic accidents, fire prevention records, and site/zoning plans.",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "MAR-018": {
+          "title": "Reno Direct & Service Requests Report \u2013 January 2026",
+          "department": "Community Engagement and Services",
+          "category": "Community Services",
+          "tldr": "This memo presents the January 2026 monthly report on constituent interactions with Reno Direct and citywide service requests tracked through the ServiceNow platform. In January 2026, Reno Direct handled 2,749 total constituent interactions and 2,760 new service requests were submitted across all departments. Reno Police and Parking Enforcement received the highest volume of both new and closed requests, with illegal/abandoned parking being the top issue citywide. The report also breaks down the top five trending service request types for each of the six city wards.",
+          "key_stats": "Total constituent interactions: 2,749 (2,058 calls answered, 272 voicemails, 410 emails, 9 online chats); Total new service requests: 2,760; Total closed service requests: 2,464; Top citywide request: Parking Illegally/Abandoned (901); Reno Police & Parking Enforcement led all departments with 1,264 new and 1,064 closed requests.",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "FEB-016": {
+          "title": "Waste Management Contract and Billing Clarification",
+          "department": "Community Engagement & Services",
+          "category": "Waste Management",
+          "tldr": "This memo responds to City Council requests from February 11, 2026, clarifying three aspects of the Waste Management franchise agreement: audit procedures, mobile home billing options, and the status of the ongoing periodic review. The City has not exercised its formal audit option since before 2018, though Waste Management is supportive of initiating one. Mobile home communities may choose from commercial, individual residential, or master-billed residential service models. A comprehensive periodic review launched in June 2025 is underway across multiple focus areas, with the review period ending in June 2027.",
+          "key_stats": "Formal audits limited to 2 during base term (ending November 2029) and 1 during any extension term; last audit exercised prior to 2018. Master-billed residential service billed at 90% occupancy. Composting survey: over 91% of respondents expressed interest in using compost; more than 73% would consider paying for green and food waste pickup. Waste Management ESG targets: 42% reduction in Scope 1 and Scope 2 GHG emissions by 2031; 65% beneficial use of captured landfill gas by 2026; 60% increase in material recovery to 25M tons/year by 2030 (with 25% interim milestone by 2025).",
+          "key_decisions": "Council action on 2/11/26 affected franchise fee levels. An ordinance to repeal Title 5, Sec. 5.90.070 was referred for second reading and potential adoption on February 25, 2026, to remove outdated, duplicated, and contradictory language. Staff awaits direction to initiate a formal third-party audit of Waste Management.",
+          "action_items": "Staff awaiting Council direction to initiate formal Waste Management audit. Ordinance repealing Title 5, Sec. 5.90.070 scheduled for second reading and potential adoption on February 25, 2026. Staff working with City departments to address underutilization of transfer station allowance. In-depth Reno Direct customer service data analysis in progress. Multiple periodic review focus areas not yet started: Missed Pickups and Resolution Rates, Operational Interviews, and Local Community Survey."
+        },
+        "MAR-015": {
+          "title": "Reno Tahoe Airport Authority Board of Trustees Appointments Update",
+          "department": "City Manager's Office",
+          "category": "Appointments",
+          "tldr": "Two vacancies have opened on the Reno Tahoe Airport Authority Board of Trustees following resignations from Edward Ableser and Kitty Jung. The City of Reno's application portal is open through April 6, 2026, with 34 applications currently on file. The Reno City Council is expected to make appointments at its April 22, 2026 meeting to fill the remainder of each trustee's unexpired term. A separate third vacancy on the RTAA Board must be filled by the Reno Sparks Convention and Visitor's Authority.",
+          "key_stats": "34 applications on file for 2 vacant positions; application portal open through 5:00 PM April 6, 2026; unexpired terms run through June 30, 2029 (Ableser seat) and June 30, 2027 (Jung seat)",
+          "key_decisions": "Reno City Council must appoint two individuals to fill the remainder of Edward Ableser's and Kitty Jung's unexpired terms on the RTAA Board of Trustees, anticipated at the April 22, 2026 Council meeting.",
+          "action_items": "City Manager's Office staff to bring appointment item forward for Council consideration at the April 22, 2026 Reno City Council meeting; staff are communicating with all applicants regarding the application timeline and anticipated consideration date."
+        },
+        "JAN-013": {
+          "title": "2026 Reno Police Department Beat-Based Town Halls and Neighborhood Advisory Board Presentations",
+          "department": "Reno Police Department",
+          "category": "Public Safety",
+          "tldr": "The Reno Police Department will host five beat-based town halls across the city in 2026, organized by North, Central, and South police beats, to share public safety information and gather community input. The inaugural event is scheduled for February 12, 2026, at North Valleys High School, with doors opening at 5:00 p.m. and the program beginning at 6:00 p.m. RPD will also conduct annual presentations at all Neighborhood Advisory Boards focused on ward-specific crime statistics and community policing initiatives. A media availability with Chief Nance and Mayor Schieve is set for January 29 to launch the series.",
+          "key_stats": "Five town halls planned: two in the North Beat (Wards 1, 4, 5), one in the Central Beat (Wards 1, 2, 3), two in the South Beat (Wards 2, 3, 6); inaugural venue (North Valleys High School) accommodates up to 500 attendees and supports live streaming.",
+          "key_decisions": "Expansion of RPD community engagement through beat-based town halls and annual NAB presentations; adoption of a replicable event model including resource booths, Rolling Recreation Center activities at no cost, and food trucks for each town hall.",
+          "action_items": "Finalize detailed agenda for February 12 town hall; collect community questions via askrpd@reno.gov ahead of first event; issue press release and conduct media availability on January 29 (1:00\u20131:30 p.m.) at the Public Safety Center; finalize and publish specific venues and dates for remaining four town halls; send Council invitations and advance NAB presentation schedule once calendar is confirmed."
+        },
+        "APR-003": {
+          "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+          "department": "Community Engagement and Services",
+          "category": "Public Safety & Community Services",
+          "tldr": "The Clean and Safe Team's February 2026 report details interdepartmental efforts to address homelessness in Reno, including 55 outreach interactions resulting in 11 housing arrangements and 2 shelter arrangements. Enforcement activities included 91 citations, 80 arrests, 23 encampment clean-ups, and 127 yards of trash collected. Reno Direct received 323 service requests related to homeless concerns, occupied vehicles, trespassing, and camping, a 1% decrease from January. Key program updates include 7 individuals facilitated into the Reno Housing Authority Motel Assistance Program and ongoing deployment of Mobile Camera Trailers at chronic hotspot locations.",
+          "key_stats": "55 outreach interactions; 11 housing arrangements; 2 shelter arrangements; 91 citations; 80 arrests (17 felony, 63 misdemeanor); 2 large and 21 smaller encampment clean-ups; 127 yards of trash collected; 42 occupied vehicles posted; 10 vehicles towed; 1 park exclusion; 43 Code Enforcement cases; 104 Allied Universal Security site visits; 761 Park and River Ranger site visits; 71 Ranger interactions with unsheltered individuals; 323 Reno Direct service requests; 7 individuals facilitated into Motel Assistance Program; 4 individuals transitioned from Motel Assistance to permanent housing",
+          "key_decisions": "Established a response process under the City of Reno and NDOT Interlocal Agreement (ILA) to address encampments on NDOT Right-of-Ways; Washoe County Guardian's Office agreed to take over motel payments for two clients who reached the limit of the Reno Housing Authority Motel Assistance Program; City of Reno and Cares Campus Collaboration meetings (launched Fall 2025) continued to streamline transitions of shelter clients with income into permanent housing",
+          "action_items": "Continue Mobile Camera Trailer Pilot Program at Spokane Street and Galletti Way locations; deliver Verification of Homelessness letter to individual at Wells Avenue & Kuenzli Street; submit Motel Assistance paperwork for client met at CARES Campus; identify and submit alternative housing applications for couple evicted from Cheryl Apartments and moved to EconoLodge; follow up on housing plan for client whose living arrangement with mother was ruled out at Competency Court hearing"
+        },
+        "APR-004": {
+          "title": "04.14.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative / Operational Reports",
+          "tldr": "This memorandum transmits weekly reports to the Mayor and City Council covering April 3\u20139, 2026, from three city offices. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The bulk of the attached detail visible in the memo consists of public records requests, predominantly for police department records such as police reports, body worn camera video, background requests, and 911 dispatch logs.",
+          "key_stats": "Public records requests logged from April 3\u20135, 2026 alone span at least pages 1\u20133 of 13, with the majority being Police Department Records requests. Frequent requestors include CRU LexisNexis (multiple requests per day), WCHSA CPS, OPM, and FIREARMSHELP@DPS.STATE.NV.US. Request types include Police Reports, Body Worn Camera Video, Background Requests, 911/Dispatch Calls, Fire Incident/Investigation Reports, and Building Plans/Permits.",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "APR-008": {
+          "title": "Vintage at the Crossings Community Meeting Update",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "This memo updates the Mayor and Council on follow-up actions taken after a February 10, 2026, community meeting at Vintage at the Crossings Apartments, a senior housing community at 11565 Old Virginia Road. City departments including Community Engagement and Services, Code Enforcement, and Reno Fire Department have conducted outreach, delivered updated materials, and presented fire safety information to residents. Property management (Vintage at the Crossings and Asset Living) has completed multiple maintenance work orders and reinstated or improved several resident services. Additional enhancements including ADA door access, parking lot speed bumps, and expanded health programming are planned or underway.",
+          "key_stats": "Approximately 30 residents attended the March 26, 2026, Reno Fire Department fire safety presentation. Overnight security presence extended to cover 9:00 p.m. to 5:00 a.m., seven days per week. Two fire inspections completed by Summit Fire and Security (annual on February 9; five-year on February 26).",
+          "key_decisions": "No formal council decisions requested; memo is informational. City staff will continue collaborating with Vintage at the Crossings and Asset Living management to address resident concerns and coordinate City department assistance as needed.",
+          "action_items": "Reno Fire Department Fire Prevention is developing a more detailed evacuation plan for the property. Community Engagement and Services staff will continue working with Vintage at the Crossings and Asset Living on outstanding and emerging resident concerns. Planned property improvements include electronic ADA access installation, pet relief area improvements, smoking area upgrades, full building unit inspection, parking lot speed bumps, expanded snow removal coordination, and outside vendor health/wellness programming."
+        },
+        "APR-010": {
+          "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "The March 2026 Reno Direct report summarizes constituent interactions and service request activity across all city departments. The centralized customer service center handled 2,819 total interactions and received 2,978 new service requests citywide, while closing 3,030 requests. Illegal/abandoned parking was the top service request type both citywide and in every individual ward.",
+          "key_stats": "Total constituent interactions: 2,819 (1,963 calls answered, 401 voicemails, 439 emails, 16 online chats); New service requests: 2,978; Closed service requests: 3,030; Top request citywide: Parking Illegally/Abandoned (951); Largest department by new requests: Reno Police & Parking Enforcement (1,376 new, 1,472 closed).",
+          "key_decisions": null,
+          "action_items": null
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "MAR-024",
+      "JAN-003",
+      "APR-005",
+      "MAR-006",
+      "MAR-018",
+      "FEB-016",
+      "MAR-015",
+      "JAN-013",
+      "APR-003",
+      "APR-004",
+      "APR-008",
+      "APR-010"
+    ]
+  },
+  "error": null
+}

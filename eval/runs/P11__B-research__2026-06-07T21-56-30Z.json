@@ -1,0 +1,891 @@
+{
+  "run_id": "P11__B-research__2026-06-07T21-56-30Z",
+  "prompt_id": "P11",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:56:30.830584+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## The Lear Theater: Pending Decisions and Complications\n\n### What's Actually Pending\n\nThree formal decisions are scheduled for the **April 8, 2026 Council meeting** (MAR-011):\n\n1. **Authorization for near-term stabilization and security improvements** (~$1.6M)\n2. **Approval to proceed with a feasibility study**\n3. **Establishment of an HRC advisory subcommittee** to guide the process\n\nA separate, smaller decision \u2014 **removal of two American Linden trees** along Ralston Street adjacent to the theater \u2014 is also pending, with removal targeted by end of April 2026 (FEB-002).\n\n---\n\n### What Makes This Complicated\n\n**1. The cost range is enormous and the path is unclear.**\nThe memos cite planning-level estimates ranging from $1.6M (stabilization only) to $22M (full performing arts venue) (MAR-011). These are four very different futures for the building, and the feasibility study hasn't yet been authorized \u2014 meaning the Council is being asked to spend money before knowing which direction is viable or preferred.\n\n**2. Funding sources are unresolved.**\nMAR-011 notes that staff are exploring Redevelopment Agency participation in stabilization funding \"through the budget process,\" but no funding is committed. The memo frames this as something still to be worked out, not a settled plan.\n\n**3. The building is historic, which adds process layers.**\nThe Historical Resources Commission reviewed public feedback and issued five advisory recommendations before forwarding them to Council (MAR-011). An HRC subcommittee is being proposed \u2014 meaning ongoing historic preservation oversight will be layered on top of whatever operational or development decisions follow.\n\n**4. There is genuine public interest but no clear consensus on use.**\nThe January 2026 community meeting drew 180 attendees and generated 441 survey responses (MAR-011). The memos do not detail what the public actually preferred among the options, so it's unclear whether community sentiment points toward a modest stabilization or a full performing arts venue \u2014 a gap that the feasibility study is presumably meant to help resolve.\n\n**5. The tree removal adds a minor but symbolically notable wrinkle.**\nThe two American Linden trees slated for removal are described as the **largest of their species in the City of Reno** (FEB-002). While the safety rationale is documented, removing landmark trees from a historic property during an active public engagement process could draw attention, even if the decisions are technically separate.\n\n---\n\n### Bottom Line\n\nThe memos suggest the Council is at an early, high-stakes fork: commit resources to stabilize a deteriorating historic building while the ultimate use case remains undecided, or risk further deterioration while waiting for more certainty. The April 8 meeting (MAR-011) is the immediate decision point, but the harder questions \u2014 what the building becomes and who pays for it \u2014 remain open.",
+    "cited_sources": [
+      {
+        "memo_id": "FEB-002",
+        "title": "Planned Tree Removals at Lear Theater",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95341/639056480242370000"
+      },
+      {
+        "memo_id": "MAR-011",
+        "title": "Update on Lear Community Meeting and Survey",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95595/639093344509200000"
+      },
+      {
+        "memo_id": "JAN-010",
+        "title": "Approved Position Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95296/639046886640970000"
+      },
+      {
+        "memo_id": "MAR-009",
+        "title": "Monthly Hexagon Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95591/639093387398700000"
+      },
+      {
+        "memo_id": "MAR-008",
+        "title": "LDC26-00033 (Trego Grid Battery Energy Storage System)",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95589/639093388066770000"
+      },
+      {
+        "memo_id": "APR-005",
+        "title": "Parking Program Updates \u2013 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "MAR-024",
+        "title": "Monthly Economic Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000"
+      },
+      {
+        "memo_id": "JAN-008",
+        "title": "Reno Seniors EngAGED Program Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95291/639046102085270000"
+      },
+      {
+        "memo_id": "APR-011",
+        "title": "Reno Seniors EngAGED Quarterly Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95754/639137585427170000"
+      },
+      {
+        "memo_id": "FEB-018",
+        "title": "Parking Program Updates - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000"
+      },
+      {
+        "memo_id": "JAN-002",
+        "title": "Parking Program Updates - December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000"
+      },
+      {
+        "memo_id": "JAN-014",
+        "title": "Monthly Economic Update - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002",
+            "JAN-010",
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005",
+            "APR-011",
+            "FEB-002",
+            "FEB-018",
+            "JAN-002",
+            "JAN-008",
+            "JAN-010",
+            "JAN-014",
+            "MAR-008",
+            "MAR-009",
+            "MAR-011",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Public Safety (state level)",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada Department of Motor Vehicles",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "AIMS Cloud-Hosted System Transition",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "IPS Group Meter Maintenance",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada DMV Holds Setup",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Parking Program Updates",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Ashley Turney, Assistant City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Councilmember Naomi Duerr",
+          "type": "people",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Brezina, Parks Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Adopt-a-Senior",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Fun Friday Dances",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Reno Seniors EngAGED Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Art Classes",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Day at the Automobile Museum",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Enrichment ARPA Funding",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Night at Dragon Lights",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Tech Connect Classes",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Weekly Line Dance Classes",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Izabella Baumann, Senior Engagement Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Civil Service Commission",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Public Safety departments",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Redevelopment Agency",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-010",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Budget augmentation process",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Fiscal Year 2026 Annual Budget Book \u2013 Personnel Changes",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Lynsey Hatfield, Budget Manager",
+          "type": "people",
+          "memo_ids": [
+            "JAN-010"
+          ]
+        },
+        {
+          "name": "Public Works",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Bureau of Labor Statistics (BLS)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Employment, Training and Rehabilitation (DETR)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Gaming Control Board",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Tax Commission",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Office of Policy and Strategy",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "U.S. Department of Labor (DOL)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "C-Tax (Consolidated Tax) series",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Monthly Economic Update",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Sales Tax Performance series (upcoming)",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "The Six Months of Consolidated Tax: Part Six \u2013 Supplemental City-County Relief Tax",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Calli Wilsey, Director of Policy and Strategy",
+          "type": "people",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Jason Gortari, Urban Economist",
+          "type": "people",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Development Services",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Reno Fire Department \u2013 Fire Prevention Division",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Reno Municipal Court",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Urban Forestry Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Lear Theater",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-002",
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Lucas Proctor, certified Tree Risk Assessor",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Basile, Urban Forester",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Arts and Culture",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Public Safety Dispatch",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "California DMV",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "AIMS Expanded Reporting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Nevada DMV Registered Owner Data Access",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Modernize Your Nevada Tax (MYNT)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Regional Planning Commission",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "NV Energy Mira Loma substation",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Talus Valley East residential subdivision",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Trego Grid Battery Energy Storage System (LDC26-00033)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Chris Pingree, Director of Development Services",
+          "type": "people",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "John Beck, Reno Fire Marshal",
+          "type": "people",
+          "memo_ids": [
+            "MAR-008"
+          ]
+        },
+        {
+          "name": "Regional Hexagon CAD/RMS Modernization Project",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Cody Shadle, Director of Public Safety Dispatch",
+          "type": "people",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Historical Resources Commission (HRC)",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Historic Structure Report (HSR)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Dr. Alicia Barber (community meeting facilitator/historian)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Megan Berner, Arts & Culture Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-011"
+          ]
+        },
+        {
+          "name": "Reno-Sparks Convention and Visitors Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Conference Board",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "BLS Quarterly Census of Employment and Wages (QCEW)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Consumer Price Index for All Urban Consumers (CPI-U) West Region",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: When Wages Outpace Inflation",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Worker Adjustment and Retraining Notification (WARN)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Public Safety",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "California Mail Notifications for Unpaid Parking Citations",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Senior Resource Fair",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): AIMS Expanded Reporting, IPS Group Meter Maintenance, Nevada DMV Holds Setup, Nevada DMV Registered Owner Data Access, Parking Program Updates"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-018, 2026-02-24) is the January 2026 parking program update whose decisions and pending actions\u2014Nevada DMV holds awaiting DPS approval, IPS meter battery/solar replacements targeted by end of February, weekly revenue monitoring, and AIMS expanded reporting\u2014are directly carried forward an"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, January 2026) is an earlier status update on the Parking Program establishing ongoing actions\u2014DMV holds setup, IPS technician support, weekly revenue monitoring\u2014that Memo B (APR-005, April 2026) directly continues and reports progress on, making A's decisions and actions the logical"
+        },
+        {
+          "source_id": "JAN-008",
+          "target_id": "APR-011",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Seniors EngAGED Program, Senior Art Classes, Senior Enrichment ARPA Funding, Weekly Line Dance Classes"
+        },
+        {
+          "source_id": "FEB-002",
+          "target_id": "MAR-011",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Lear Theater"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, 2026-01-11) is the December 2025 Parking Program update and explicitly states that IPS Group technician support began the week of January 5, 2026 and that DMV holds setup was pending, with updates to be provided in next month's memo. Memo B (FEB-018, 2026-02-24) is the January 2026 "
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-014, 2026-01-29) is the January 2026 monthly economic update and explicitly states that the Office of Policy and Strategy 'will launch a new series next month focused on key variables influencing sales tax performance.' Memo B (MAR-001, 2026-03-03) is the February 2026 monthly economic u"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Modernize Your Nevada Tax (MYNT), Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "precedes",
+          "evidence": "MAR-001 (2026-03-03) is the February 2026 monthly economic update and MAR-024 (2026-03-27) is the March 2026 monthly economic update, both produced by the Office of Policy and Strategy as part of the same recurring series; MAR-001 temporally and logically precedes MAR-024 in that series, and the ong"
+        }
+      ],
+      "fields": {
+        "FEB-002": {
+          "title": "Planned Tree Removals at Lear Theater",
+          "department": "Parks and Recreation",
+          "category": "Parks and Recreation",
+          "tldr": "The City of Reno's Urban Forestry Division is recommending the removal of two American Linden trees in the parkway strip along Ralston Street adjacent to the Lear Theater at 528 W 1st Street. Despite five rounds of pruning since 2000 and supplemental irrigation efforts, the trees have continued to decline due to severe dieback, poor soil conditions, and inadequate irrigation. A certified Tree Risk Assessor confirmed a moderate risk of branch failure, posing potential hazards to parked cars and pedestrians. Removal is scheduled to be completed by the end of April 2026.",
+          "key_stats": "Two American Linden (Tilia americana) trees; largest of their species in the City of Reno; pruned five times since 2000, most recently in 2024; moderate risk of branch failure identified; removal scheduled by end of April 2026.",
+          "key_decisions": "Approval of the planned removal of two American Linden trees located in the parkway strip along Ralston Street adjacent to the Lear Theater, based on declining health and public safety risk.",
+          "action_items": "Remove the two American Linden trees by the end of April 2026."
+        },
+        "MAR-011": {
+          "title": "Update on Lear Community Meeting and Survey",
+          "department": "Public Works",
+          "category": "Arts & Culture / Historic Preservation",
+          "tldr": "Staff conducted a community meeting and survey in January 2026 regarding the historic Lear property, drawing 180 attendees and 441 survey responses. The Historical Resources Commission reviewed public feedback and forwarded five advisory recommendations to Council, including prioritizing stabilization, conducting a feasibility study, and establishing an HRC subcommittee. Planning-level cost estimates range from $1.6 million for near-term stabilization to $22 million for a full performing arts venue. Council is scheduled to consider authorization for stabilization work, a feasibility study, and an advisory subcommittee on April 8, 2026.",
+          "key_stats": "125 in-person and 55 online attendees at January 10, 2026 community meeting; 441 survey responses (January 10\u201331, 2026); near-term stabilization estimate ~$1.6M; code-compliant building reopening ~$15M; flexible events space ~$18M; performing arts venue ~$22M.",
+          "key_decisions": "Council to consider on April 8, 2026: (1) authorization for near-term Lear stabilization and security improvements, (2) approval to proceed with a feasibility study, and (3) establishment of an HRC advisory board or subcommittee for the Lear property.",
+          "action_items": "April 8, 2026 Council meeting: authorize near-term stabilization/security improvements, approve feasibility study, and establish HRC advisory board/subcommittee; Arts & Culture staff to continue community engagement and provide updates; explore Redevelopment Agency participation in stabilization funding through budget process."
+        },
+        "JAN-010": {
+          "title": "Approved Position Update",
+          "department": "Finance",
+          "category": "Human Resources / Workforce",
+          "tldr": "This memo updates the Mayor and Council on the City of Reno's current vacant positions as of December 15, 2025, and explains the process for determining whether and when vacancies are filled. The City has adopted 1,538.50 combined FTEs for FY26. As of the reporting date, 109.75 FTE positions are vacant across various statuses, including frozen/unfunded, RIF-related, actively recruiting, and pending academy. Departments must submit critical vacancy requests through the City Manager's Office, which coordinates review with Human Resources and Finance before the City Manager makes a final determination.",
+          "key_stats": "FY26 adopted FTEs: 1,528.25 (City of Reno) + 10.25 (RDA) = 1,538.50 combined. Total vacant positions as of December 15, 2025: 109.75 FTE. Breakdown: 19.75 frozen/unfunded at adoption, 8.00 frozen via RIF, 26.00 in active recruitment, 44.00 otherwise vacant, 12.00 Public Safety positions pending next academy.",
+          "key_decisions": "The City Manager (Jackie Bryant) makes the final determination on whether to proceed with recruitment for any identified critical vacancy. Any increase to the overall approved FTE count requires Mayor and Council review and approval through the quarterly budget augmentation process.",
+          "action_items": "No specific action items are requested of the Mayor and Council in this memo; it is provided as an informational update on current vacancies and the vacancy review process."
+        },
+        "MAR-009": {
+          "title": "Monthly Hexagon Update - March 2026",
+          "department": "Public Safety Dispatch",
+          "category": "Public Safety",
+          "tldr": "The City of Reno's Public Safety Dispatch department provides the March 2026 monthly status update on the Regional Hexagon CAD/RMS Modernization Project, which is replacing aging dispatch and records systems for law enforcement, fire, EMS, and regional partners. Of the original 73 priority tickets, only 11 remain open (6 of which are blocker defects), and functional acceptance testing is actively underway. The project remains on schedule for a late summer/early fall go-live, with mandatory user training, 24/7 transition support, and final interface validation planned ahead of cutover.",
+          "key_stats": "73 initial priority tickets; 11 currently open; 6 of 11 open tickets are blocker defects; 4 of 6 blockers have patches pending or installed; go-live target is late summer/early fall 2026.",
+          "key_decisions": "No formal Council decisions requested in this memo; the update is provided for ongoing oversight and transparency. Minor timeline adjustments for testing alignment were made with no impact to the go-live date.",
+          "action_items": "Upcoming deliverables include: completion of remaining CAD/RMS testing cycles; release of first dispatcher and field user training curriculum (April 2026); integrated end-to-end and performance load testing; finalization of data migration and freeze date; and preparation of the final cutover/go-live readiness package and regional communications materials."
+        },
+        "MAR-008": {
+          "title": "LDC26-00033 (Trego Grid Battery Energy Storage System)",
+          "department": "Development Services Department",
+          "category": "Land Use & Development",
+          "tldr": "The Planning Commission unanimously approved a conditional use permit on March 4, 2026 for the Trego Grid Battery Energy Storage System, a 200 MW lithium-ion facility consisting of 256 Tesla Megapack Units. The facility will connect to NV Energy's Mira Loma substation and serve as a peaking power plant for grid stability. An annexation application is scheduled for Council review on April 22, 2026, which would direct associated tax revenues to the City of Reno. Over a 20-year period, the project is estimated to generate $4.2 million in general fund revenue and $1.3 million in street fund revenue.",
+          "key_stats": "200 MW lithium-ion BESS; 256 Tesla Megapack Units across 16-unit pods; 120 kV grid connection; $4.2 million estimated general fund revenue over 20 years; $1.3 million estimated street fund revenue over 20 years",
+          "key_decisions": "Planning Commission unanimously approved the CUP on March 4, 2026; Council to review annexation application on April 22, 2026; Regional Planning Commission review for Regional Plan conformance pending",
+          "action_items": "Regional Planning Commission to review application for Regional Plan conformance; City Council to review annexation application on April 22, 2026"
+        },
+        "APR-005": {
+          "title": "Parking Program Updates \u2013 February 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "The City of Reno's Parking Program update for February 2026 reports $633,339.85 in total parking fines and fees collected since DMV registered owner data access was reinstated on June 20, 2025. Adjudication activity in January and February 2026 reduced original violation balances by roughly 55\u201360%. Software vendor AIMS is pursuing California mail notifications and awaiting state action on Nevada DMV holds. IPS technicians are ongoing in replacing solar panels and batteries on single-space meters, with all critical issues expected resolved by end of March 2026.",
+          "key_stats": "Total collected since June 20, 2025: $633,339.85 across 18,156 tickets paid. February 2026: 1,206 tickets paid, $54,058.75 collected. January 2026 adjudications: 89 cases, original balance $8,914.00 reduced to $3,545.00. February 2026 adjudications: 119 cases, original balance $11,441.00 reduced to $5,813.00.",
+          "key_decisions": "Staff will continue monitoring revenue collections weekly and may send unpaid citations to collections. Staff will review AIMS quote for California mail notifications before proceeding. Nevada DMV holds remain pending state-level action from the Nevada Department of Public Safety.",
+          "action_items": "1. Monitor parking revenue collections weekly. 2. Review AIMS quote for California registered owner mail notifications and determine next steps. 3. Await Nevada Department of Public Safety action to complete DMV holds setup. 4. Work with AIMS to develop expanded reports with additional metrics for future memos. 5. Ensure IPS resolves all battery-critical meter issues by end of March 2026."
+        },
+        "MAR-024": {
+          "title": "Monthly Economic Update - March 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The March 2026 monthly economic update for the Reno-Sparks MSA shows a moderating but still expanding economy with growing uncertainty tied to national trade policy and geopolitical tensions. Tourism was a bright spot in January 2026 with visitor volume up 12.3 percent and gains in hotel occupancy, room rates, and gaming revenue. The housing market remains stable but competitive, with limited supply sustaining seller's market conditions and rents rising 8.4 percent over the year. Consumer conditions are mixed, with strong real wage growth and rising taxable sales offset by declining consumer confidence.",
+          "key_stats": "Visitors Jan 2026: 307,686 (+12.3% YoY); Hotel occupancy Jan 2026: 58.9% (+5.3% YoY); Avg. daily room rate Jan 2026: $137.19 (+$1.76 YoY); Gaming win Jan 2026: +$1.9M (+2.9% YoY); Avg. single-family home value Feb 2026: $566,802 (-0.4% YoY, +0.1% MoM); Median days on market Feb 2026: 72 days; Housing supply: 2.0 months; 30-yr fixed mortgage rate Feb 2026: 5.98% (down from 6.76% YoY); Avg. apartment rent: $1,769 (+8.4% YoY, 12 consecutive months of increases); Nevada initial unemployment claims Feb 2026: 10,745 (+16.9% MoM, flat YoY); Avg. weekly wages Reno MSA Q3 2025: $1,415 (+6.4% YoY, outpacing national 4.7% and state 4.3%); Washoe County taxable sales Dec 2025: $1.3B (+9.4% YoY); CCI Feb 2026: 91.2 (-8.9 pts YoY, lowest since May 2014); U.S. headline inflation Feb 2026: 2.4% YoY; Nominal wage growth vs. inflation gap Q3 2025: +3.2 percentage points (wages 6.4%, inflation 3.2%)",
+          "key_decisions": "No formal decisions requested; memo is informational to assist Council in making informed policy decisions regarding labor market, housing, tourism, consumer activity, and other economic drivers.",
+          "action_items": "Office of Policy and Strategy will examine key economic variables influencing taxable sales in coming months, as sales tax remains one of the largest revenue sources for local government; next monthly economic update expected April 2026."
+        },
+        "JAN-008": {
+          "title": "Reno Seniors EngAGED Program Update",
+          "department": "Community Engagement and Services Department",
+          "category": "Community Services",
+          "tldr": "The Reno Seniors EngAGED Program provided free senior-centered programming from September to December 2025, serving a total of 1,720 participants across events including line dance classes, art classes, dances, and tech connect sessions. The program is funded through ARPA funds allocated by City Council in April 2023. ARPA funding will conclude by the end of December 2026, and no additional funds are currently available to extend the program beyond that date.",
+          "key_stats": "Total participants September\u2013December 2025: 1,720; Weekly Line Dance Classes: 828 participants; Fun Friday Dances: 210 participants; Senior Art Classes: 189 participants; Senior Night at Dragon Lights: 250 participants; Senior Day at the Automobile Museum: 124 participants; Senior Tech Connect Classes (Oct): 43 participants; Adopt-a-Senior: 50 participants; Senior Tech Connect Classes (Dec): 26 participants.",
+          "key_decisions": "City Council allocated ARPA funds for senior enrichment in April 2023. No additional funds are currently available to extend the Reno Seniors EngAGED Program beyond December 2026.",
+          "action_items": "No specific action items are stated in the memo; however, the memo implicitly signals a need for future funding decisions before December 2026 to continue the program."
+        },
+        "APR-011": {
+          "title": "Reno Seniors EngAGED Quarterly Update",
+          "department": "Community Engagement and Services Department",
+          "category": "Community Services",
+          "tldr": "The Community Engagement and Services Department provided a quarterly update on the Reno Seniors EngAGED program for January through March 2026. The program, funded by an ARPA senior enrichment allocation approved in April 2023, offers free senior-centered programming including weekly line dance classes, art classes, and a resource fair. A total of 1,256 participants were served during the quarter. ARPA funding for all three program components is set to conclude at the end of December 2026.",
+          "key_stats": "Total Q1 2026 participants: 1,256; Weekly Line Dance Classes: 664 participants; Senior Art Classes: 232 participants; Senior Resource Fair (January 22, 2026): 360 participants",
+          "key_decisions": "Reno City Council approved a senior enrichment ARPA allocation in April 2023 to combat senior isolation post-pandemic; ARPA funding for all Reno Seniors EngAGED programming will conclude at end of December 2026.",
+          "action_items": null
+        },
+        "FEB-018": {
+          "title": "Parking Program Updates - January 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "This memo updates the Mayor and Council on the City of Reno Parking Program as of January 2026. Since regaining access to Nevada DMV registered owner data on June 20, 2025, the City has collected $579,281.10 in parking fines and fees. New access to California DMV data has been established, Nevada DMV holds setup is in progress, and IPS Group technicians are actively replacing solar panels and batteries on single-space meters with resolution expected by end of February 2026.",
+          "key_stats": "15,655 tickets paid ($530,534.89) from June 20\u2013Dec 31, 2025; 1,295 tickets paid ($48,746.21) in January 2026; total collected: $579,281.10. January 2026 adjudications: 89 cases, original violation balance $8,914.00 reduced to $3,545.00 after adjudication.",
+          "key_decisions": "Council previously approved (November 19, 2025) an agreement with IPS Group for gateway merchant fees and meter maintenance parts for one year with up to four renewal options, not to exceed $200,000.",
+          "action_items": "Staff to monitor revenue collections weekly and send unpaid citations to collections as needed; AIMS awaiting Department of Public Safety approval for Nevada DMV holds; staff working with AIMS on expanded reporting metrics; IPS Group technicians continuing meter battery/solar panel replacements with full resolution targeted by end of February 2026."
+        },
+        "JAN-002": {
+          "title": "Parking Program Updates - December 2025",
+          "department": "City Manager's Office",
+          "category": "Operations",
+          "tldr": "This memo updates the Mayor and Council on the Parking Program as of December 2025. Since reinstating access to Nevada DMV registered owner data on June 20, 2025, the City has collected $530,534.89 in parking fines and fees. The Parking Program has also completed a transition from an on-site to a cloud-hosted software system with vendor AIMs, and IPS Group technician support for single space meter maintenance began the week of January 5, 2026.",
+          "key_stats": "Total collected since June 20, 2025 DMV data reinstatement: $530,534.89 across 15,655 parking tickets paid. Monthly breakdown: June 20\u201330 ($15,611.39, 490 tickets), July ($120,735.94, 3,972 tickets), August ($128,398.64, 4,436 tickets), September ($100,946.34, 2,488 tickets), October ($65,130.45, 1,844 tickets), November ($43,736.32, 1,165 tickets), December ($55,975.81, 1,260 tickets). IPS Group agreement approved November 19, 2025, not to exceed $200,000 for one year with up to four renewal options.",
+          "key_decisions": "Council approved an agreement with IPS Group on November 19, 2025 for gateway merchant fees and parking meter maintenance parts, not to exceed $200,000 for a one-year term with up to four additional renewal years.",
+          "action_items": "Parking Program staff to continue monitoring revenue collections weekly and may send unpaid citations to collections. AIMs is awaiting the Department of Public Safety at the state level to process the request to finalize DMV holds setup. Updates on IPS Group technician support progress to be provided in next month's memo."
+        },
+        "JAN-014": {
+          "title": "Monthly Economic Update - January 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The January 2026 monthly economic update for the Reno-Sparks MSA shows mixed signals: the labor market remains stable with modest job growth and a 4.2% unemployment rate, while tourism posted higher visitor volumes and gaming win in November 2025. Housing is stabilizing with flat home values and rising rents, but consumer confidence dropped to 89.1 in December amid concerns over jobs and income despite inflation falling to its lowest level since 2021. The special topic covers the Supplemental City-County Relief Tax (SCCRT), the largest contributor to the consolidated tax system, which distributed $1.5 billion to local governments in FY2025.",
+          "key_stats": "Reno MSA employment grew 0.3% over-the-year (~800 jobs); unemployment rate 4.2% (Nov. 2025); Nevada statewide unemployment 5.2%; 276,013 visitors in Nov. 2025 (+5.0% YoY); hotel occupancy 55.2% (+4.0% YoY); avg. daily room rate $126.08 (-$4.69 YoY); gaming win up $3.7M (+7.1%) YoY; avg. single-family home value $561,394 (-0.2% YoY); median days on market 78 days; avg. apartment rent $1,745 (+6.5% YoY); 30-year fixed mortgage rate 6.06%; CCI 89.1 (-20.4 pts YoY); headline inflation 2.7% (lowest since March 2021); SCCRT distributed $1.488B in FY2025 (67.4% of total C-Tax); total Washoe County sales tax rate 8.265%; SCCRT rate $1.75 per $100.",
+          "key_decisions": "No formal decisions requested; memo is informational. Council is advised of data gaps due to the 2025 government shutdown (BLS did not release October data), which affects standard monthly comparisons and federal data accuracy.",
+          "action_items": "No explicit action items assigned. Office of Policy and Strategy will launch a new series next month focused on key variables influencing sales tax performance. More information on C-Tax available at Reno.Gov/Ctax."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "FEB-002",
+      "MAR-011",
+      "JAN-010",
+      "MAR-009",
+      "MAR-008",
+      "APR-005",
+      "MAR-024",
+      "JAN-008",
+      "APR-011",
+      "FEB-018",
+      "JAN-002",
+      "JAN-014"
+    ]
+  },
+  "error": null
+}

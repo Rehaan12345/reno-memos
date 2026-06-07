@@ -1,0 +1,63 @@
+{
+  "global_id": "MAR-017",
+  "month": "MAR",
+  "memo_id": 17,
+  "date_published": "2026-03-23",
+  "title": "Reno Direct & Service Requests Report \u2013 February 2026",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95613/639104840089300000",
+  "doc_id": "95613",
+  "resolved_text": "Memorandum\nDATE: March 23, 2026\nTO: Honorable Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Cynthia Esparza, Director\nNoemi Gomez Martinez, Community Relationships Manager\nDEPT: Community Engagement and Services\nSUBJECT: Reno Direct & Service Requests Report \u2013 February 2026\nMonthly reports provide insights into how constituents engage with the City through Reno Direct, the City's centralized customer service center and ServiceNow platform.\nKey report highlights include:\n\u2022 Number of Reno Direct constituent interactions (calls, voicemails, emails, online chats)\n\u2022 Number of service requests submitted citywide\n\u2022 Number of service requests closed citywide\n\u2022 Top five trending service request types citywide\n\u2022 Top five trending service request types by ward\nThis information supports efforts to enhance service delivery while addressing community needs in a responsive and equitable manner.\n\nAttachments:\n\u2022 February 2026 Service Request Trends & Interaction Report\n\n\n1\n\n\nFebruary 2026 Report\nService Trends & Interactions\n\n\n2\n\n\nFebruary 2026 Service Request Trends & Interactions\nNumber of Reno Direct Constituent Interactions\nCalls Answered Voicemails Emails Online Chats Total\n1,841 282 418 6 2,547\n\nNumber of New Service Requests by Department\nDepartment Number of Requests\nReno Police & Parking Enforcement 1,039\nBusiness Licensing 403\nCode Enforcement 293\nMaintenance & Operations 237\nFinance 174\nCommunity Engagement & Services 129\nPublic Works 87\nReno Fire 57\nParks & Recreation 45\nDevelopment Services 34\nUtility Services 8\nCity Manager's Office 0\n\nTotal 2,506\n\n\n3\n\n\nNumber of Closed Service Requests by Department\nDepartment Number of Requests\nReno Police & Parking Enforcement 1,082\nBusiness Licensing 397\nCode Enforcement 288\nMaintenance & Operations 252\nFinance 175\nCommunity Engagement & Services 170\nPublic Works 102\nReno Fire 59\nParks and Recreation 44\nDevelopment Services 38\nUtility Services 12\nCity Manager's Office 0\nTotal 2,619\n\nTop 5 Trending Service Requests\nCitywide\nDepartment and Request Type Number of Requests\nReno Police and Parking Enforcement\nParking Illegally/Abandoned 751\nFinance\nSewer and Stormwater Billing Inquires 174\nReno Police & Community Engagement & Services\nOccupied Vehicles 150\nCommunity Engagement & Services\nHomeless Concerns 100\nReno Police\nGraffiti Abatement 74\n\n\n4\n\n\nWard 1\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 200\nReno Police & Community Engagement & Services\nOccupied Vehicles 60\nReno Police\nGraffiti Abatement 48\nReno Police & Community Engagement & Services\nHomeless Concerns 44\nCode Enforcement\nHomeless Concerns on Private Property 24\n\nWard 2\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 85\nMaintenance and Operations\nSnow and Ice Control 29\nReno Police & Community Engagement & Services\nOccupied Vehicles 13\nCode Enforcement\nShopping Cart Abatement 11\nParks and Recreation\nPark Issues 10\n\nWard 3\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 244\nReno Police & Community Engagement & Services\nOccupied Vehicles 51\nReno Police & Community Engagement & Services\nHomeless Concerns 35\nCode Enforcement\nHomeless Concerns on Private Property 16\nCode Enforcement\nNuisance, Not Otherwise Listed 11\n\n\n5\n\n\nWard 4\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 108\nCode Enforcement\nSidewalk Obstruction 20\nMaintenance and Operations\nPotholes 15\nReno Police & Community Engagement & Services\nOccupied Vehicles 12\nMaintenance and Operations\nSnow and Ice Control 11\n\nWard 5\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 77\nMaintenance and Operations\nSnow and Ice Control 12\nCode Enforcement\nNuisance, Not Otherwise Listed 10\nReno Police & Community Engagement & Services\nSpeeding 8\nReno Fire\nFire Department Inquiries 4\n\nWard 6\nDepartment and Request Type Number of Requests\nReno Police & Parking Enforcement\nParking Illegally/Abandoned 34\nReno Police & Community Engagement & Services\nHomeless Concerns 9\nMaintenance and Operations\nMaintenance of Traffic Control 6\nReno Police\nSpeeding 6\nCode Enforcement\nDebris on Private Property 4",
+  "fields": {
+    "department": "Community Engagement and Services",
+    "authors": "Cynthia Esparza, Director; Noemi Gomez Martinez, Community Relationships Manager",
+    "category": "Community Services",
+    "subcategory": "Customer Service / Service Requests",
+    "tldr": "This memo presents the February 2026 monthly report on constituent interactions with Reno Direct and citywide service requests tracked through the ServiceNow platform. Reno Direct handled 2,547 total interactions, while 2,506 new service requests were submitted and 2,619 were closed across all departments. Illegal/abandoned parking was the top service request type citywide and in every individual ward. The report is intended to support equitable and responsive service delivery across the community.",
+    "key_stats": "Total Reno Direct interactions: 2,547 (1,841 calls answered, 282 voicemails, 418 emails, 6 online chats); New service requests citywide: 2,506; Closed service requests citywide: 2,619; Top citywide request: Parking Illegally/Abandoned (751); Top departments by new requests: Reno Police & Parking Enforcement (1,039), Business Licensing (403), Code Enforcement (293).",
+    "key_decisions": null,
+    "action_items": null,
+    "keywords": [
+      "Reno Direct",
+      "service requests",
+      "ServiceNow",
+      "constituent interactions",
+      "parking enforcement",
+      "homeless concerns",
+      "graffiti abatement",
+      "code enforcement",
+      "community engagement",
+      "ward trends",
+      "February 2026"
+    ],
+    "entities": {
+      "departments": [
+        "Community Engagement and Services",
+        "Reno Police & Parking Enforcement",
+        "Business Licensing",
+        "Code Enforcement",
+        "Maintenance & Operations",
+        "Finance",
+        "Public Works",
+        "Reno Fire",
+        "Parks & Recreation",
+        "Development Services",
+        "Utility Services",
+        "City Manager's Office"
+      ],
+      "projects": [
+        "Reno Direct",
+        "ServiceNow"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "March 23, 2026",
+        "February 2026"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Cynthia Esparza, Director",
+        "Noemi Gomez Martinez, Community Relationships Manager"
+      ]
+    }
+  }
+}

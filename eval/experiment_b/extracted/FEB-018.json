@@ -1,0 +1,77 @@
+{
+  "global_id": "FEB-018",
+  "month": "FEB",
+  "memo_id": 18,
+  "date_published": "2026-02-24",
+  "title": "Parking Program Updates - January 2026",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000",
+  "doc_id": "95511",
+  "resolved_text": "Memorandum\nDATE: February 24, 2026\nTO: Mayor and Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Ashley D. Turney, Assistant City Manager\nDEPT: City Manager's Office\nSUBJECT: Parking Program Updates \u2013 January 2026\nThis memo shall serve to update Council on the Parking Program since the last memo to Council, dated January 11, 2026.\nRevenue Updates:\nOn June 20, 2025, the City of Reno reinstated access to the Nevada Department of Motor Vehicle's registered owner data after nearly 10 months, enabling staff to obtain addresses for unpaid parking citations.\nParking Revenue and tickets paid to date are as follows:\n\u2022 June 20, 2025-December 31, 2025: 15,655 parking tickets paid totaling $530,534.89 in fines and fees.\n\u2022 January 1-January 31, 2026: 1,295 parking tickets paid totaling $48,746.21 in fines and fees.\n\u2022 The total amount collected since reinstating access to the Nevada Department of Motor Vehicle's registered owner data is: $579,281.10.\nStaff will continue to monitor revenue collections on a weekly basis, and unpaid citations may be sent to collections if payments are not remanded.\nAdjudication:\nCouncil has requested information regarding parking ticket appeals (adjudication). RMC 6.30.080 requires a respondent to either admit an infraction by paying the civil fine or deny liability and request a hearing, with the burden on the respondent to prove any defense. At hearing, the Hearing Officer has discretion to dismiss the citation, reduce the assessed fine, or enter into payment arrangements in the interest of justice based on defenses such as vehicle theft, malfunctioning equipment, or emergency conditions. If liability is found and the fine is paid, the respondent may appeal the decision to Reno Municipal Court within ten days, where the matter proceeds as a civil action.\n\u2022 January 1-January 31, 2026:\no Total Original Violation Balance: $8914.00\no Total Violation Balance after Adjudication: $3545.00\no Number of Adjudications: 89\nSoftware Updates:\nFor the first time, the City of Reno now has access to registered vehicle owner information from the California DMV. This will allow staff to obtain addresses for individuals with unpaid parking citations whose vehicles are registered in California.\nThe final setup work for Nevada DMV holds is moving forward. Currently, AIMS (software vendor) is waiting for the Department of Public Safety at the state level to process the request for Nevada DMV holds. Staff is also working with AIMS to develop new reports with additional metrics. Once the expanded reports are available, the expanded reports will be incorporated in future memos.\nIPS Meter Status:\nAt the November 19, 2025 City Council meeting, Council approved an agreement with IPS Group (the City of Reno's current single space meter vendor) for gateway merchant fees, and parking meter maintenance parts for a one-year term, with the option to renew up to four additional years in an amount not to exceed $200,000. IPS Group also agreed to send technician support to assist with replacing solar panels and batteries for the single space meters. Technician support began the week of January 5, 2026, and is ongoing. Staff anticipates that all battery-critical meter issues will be resolved by the end of February.",
+  "fields": {
+    "department": "City Manager's Office",
+    "authors": "Ashley D. Turney, Assistant City Manager",
+    "category": "Parking",
+    "subcategory": "Program Updates / Revenue / Adjudication / Software / Meter Maintenance",
+    "tldr": "This memo updates the Mayor and Council on the City of Reno Parking Program as of January 2026. Since regaining access to Nevada DMV registered owner data on June 20, 2025, the City has collected $579,281.10 in parking fines and fees. New access to California DMV data has been established, Nevada DMV holds setup is in progress, and IPS Group technicians are actively replacing solar panels and batteries on single-space meters with resolution expected by end of February 2026.",
+    "key_stats": "15,655 tickets paid ($530,534.89) from June 20\u2013Dec 31, 2025; 1,295 tickets paid ($48,746.21) in January 2026; total collected: $579,281.10. January 2026 adjudications: 89 cases, original violation balance $8,914.00 reduced to $3,545.00 after adjudication.",
+    "key_decisions": "Council previously approved (November 19, 2025) an agreement with IPS Group for gateway merchant fees and meter maintenance parts for one year with up to four renewal options, not to exceed $200,000.",
+    "action_items": "Staff to monitor revenue collections weekly and send unpaid citations to collections as needed; AIMS awaiting Department of Public Safety approval for Nevada DMV holds; staff working with AIMS on expanded reporting metrics; IPS Group technicians continuing meter battery/solar panel replacements with full resolution targeted by end of February 2026.",
+    "keywords": [
+      "parking program",
+      "parking revenue",
+      "parking citations",
+      "Nevada DMV",
+      "California DMV",
+      "adjudication",
+      "AIMS",
+      "IPS Group",
+      "single space meters",
+      "solar panels",
+      "batteries",
+      "DMV holds",
+      "collections",
+      "hearing officer",
+      "Reno Municipal Court"
+    ],
+    "entities": {
+      "departments": [
+        "City Manager's Office",
+        "Nevada Department of Motor Vehicles",
+        "California DMV",
+        "Department of Public Safety (state level)",
+        "Reno Municipal Court"
+      ],
+      "projects": [
+        "Parking Program",
+        "Nevada DMV registered owner data reinstatement",
+        "California DMV registered owner data access",
+        "Nevada DMV holds setup",
+        "AIMS expanded reporting",
+        "IPS Group meter maintenance agreement",
+        "Single space meter solar panel and battery replacement"
+      ],
+      "dollar_amounts": [
+        "$530,534.89 (fines and fees, June 20\u2013December 31, 2025)",
+        "$48,746.21 (fines and fees, January 1\u201331, 2026)",
+        "$579,281.10 (total collected since DMV data reinstatement)",
+        "$8,914.00 (total original violation balance, January 2026 adjudications)",
+        "$3,545.00 (total violation balance after adjudication, January 2026)",
+        "$200,000 (not-to-exceed amount for IPS Group agreement)"
+      ],
+      "dates": [
+        "February 24, 2026 (memo date)",
+        "January 11, 2026 (previous memo to Council)",
+        "June 20, 2025 (Nevada DMV data access reinstated)",
+        "December 31, 2025 (end of first revenue reporting period)",
+        "January 1\u201331, 2026 (second revenue and adjudication reporting period)",
+        "November 19, 2025 (City Council meeting approving IPS Group agreement)",
+        "Week of January 5, 2026 (IPS technician support began)",
+        "End of February 2026 (anticipated resolution of battery-critical meter issues)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Ashley D. Turney, Assistant City Manager"
+      ]
+    }
+  }
+}

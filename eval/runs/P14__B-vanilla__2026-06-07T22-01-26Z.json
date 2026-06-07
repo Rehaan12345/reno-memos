@@ -1,0 +1,26 @@
+{
+  "run_id": "P14__B-vanilla__2026-06-07T22-01-26Z",
+  "prompt_id": "P14",
+  "system_id": "B-vanilla",
+  "experiment": "B",
+  "timestamp": "2026-06-07T22:01:26.722165+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:dece59affc3820b9",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "Based on the context provided, here are the high-priority issues the city should be watching:\n\n**Economic & Labor Market Concerns**\n- Slowing economy with weakening momentum as of early 2026\n- Cooling hiring activity and fewer job openings in the Reno-Sparks MSA\n- Uncertainty around national trade policy and geopolitical tensions and their local impact\n\n**Housing**\n- Seasonal winter slowdown with slower sales activity\n- Flat home values and longer time on market\n\n**Homelessness & Public Safety**\n- Ongoing sidewalk obstruction issues (e.g., 355 Record St)\n- Unsustainable crowd management near service organizations like RSGM\n- Abandoned shopping carts in drainage areas\n- Nuisance vehicles and unsecured fencing\n\n**Neighborhood Quality of Life**\n- Recurring code enforcement issues (broken windows, property maintenance)\n- Individuals declining services during city walks, limiting outreach effectiveness\n\n**Affordable Housing Resident Concerns**\n- Maintenance backlogs, air quality, and ADA accessibility issues\n- Resident intimidation and retaliation concerns\n\n**Tourism**\n- Mixed performance with lower room rates offsetting gains in occupancy and gaming\n\nIt should be noted that the context does not provide a formally designated \"high-priority\" list, so this answer is drawn from issues repeatedly flagged across multiple memos and reports.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "95331#45",
+      "95312#0",
+      "95644#0",
+      "95542#0",
+      "95492#4",
+      "95652#0",
+      "95461#0",
+      "95499#1"
+    ]
+  },
+  "error": null
+}

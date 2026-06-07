@@ -1,0 +1,26 @@
+{
+  "run_id": "P03__B-vanilla__2026-06-07T21-45-23Z",
+  "prompt_id": "P03",
+  "system_id": "B-vanilla",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:45:23.677832+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:dece59affc3820b9",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "Based on the context provided, there is no explicit mention of a \"funding cliff\" approaching for any city program. The documents cover topics such as federal appropriations, budget actuals, city walk outcomes, homeless outreach, love your block grants, and development timelines, but **none of them specifically identify a funding cliff or describe consequences of inaction related to expiring funding**.\n\nThe closest relevant detail is that the **Love Your Block program** is funded through a grant from Bloomberg's Center for Public Innovation for Year 2, which suggests it depends on external grant funding rather than a permanent budget allocation. However, the context does not describe what happens when that funding runs out or whether a cliff is approaching.\n\nThe context does not contain enough information to fully answer this question.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "95460#0",
+      "95492#4",
+      "95760#0",
+      "95492#6",
+      "95744#1",
+      "95295#0",
+      "95652#0",
+      "95762#0"
+    ]
+  },
+  "error": null
+}

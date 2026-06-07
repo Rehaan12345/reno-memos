@@ -1,0 +1,26 @@
+{
+  "run_id": "P07__A-vanilla__2026-06-07T21-50-19Z",
+  "prompt_id": "P07",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:50:19.988592+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "Yes, there is a clear example of **inter-departmental dependency** in the context:\n\n---\n\n### **Wildfire Risk in LMD Areas (mar-021)**\n\n**Departments involved:** Reno Fire Department (RFD) **and** Parks & Recreation\n\nHere's how they are intertwined:\n\n1. **Parks & Recreation** manages the Landscape Maintenance Districts (LMDs) through a **contracted landscaper** \u2014 meaning they control the vegetation maintenance contract and its specifications.\n\n2. **Reno Fire Department** identified a **fire risk problem** with how vegetation was being maintained in those LMD areas, responding to community concerns.\n\n3. Because of RFD's assessment, **Parks & Recreation must now rebid the LMD contract** (expiring September 30) **with updated fire specifications** \u2014 meaning RFD's public safety findings are directly shaping what Parks & Recreation puts into a future contract.\n\n4. Additionally, **RFD is responsible for providing defensible space training** and conducting **site visits to verify compliance** \u2014 so their ongoing work depends on Parks following through on the new contract terms.\n\n---\n\nIn short, **RFD's fire risk determination drives Parks & Recreation's contracting decisions**, and **Parks' contractor compliance determines whether RFD's safety goals are actually met**. Neither department can fully achieve the outcome alone.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "FEB-004#0",
+      "APR-001#0",
+      "APR-012#0",
+      "MAR-006#0",
+      "APR-016#0",
+      "APR-005#0",
+      "MAR-021#0",
+      "APR-003#0"
+    ]
+  },
+  "error": null
+}

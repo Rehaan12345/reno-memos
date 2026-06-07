@@ -1,0 +1,26 @@
+{
+  "run_id": "P10__A-vanilla__2026-06-07T21-54-50Z",
+  "prompt_id": "P10",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:54:50.111289+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "Based on the context provided, there is **one notable tension** that can be identified:\n\n**Governance Process vs. Accuracy (feb-004)**\nThe correction memo (feb-004) reveals a tension between **moving council business forward on schedule** and **ensuring accurate documentation**. The wrong agreement was attached to Item C.6 for the February 11 council meeting, yet the memo notes the \"agenda item [is] unaffected\" \u2014 suggesting the council proceeded without delay even though the supporting documentation was incorrect. This sits in tension with principles of transparent and fully-informed council decision-making.\n\n**However**, I should be straightforward: the context provided is largely composed of **routine informational memos** (weekly reports, a planning timeline explainer, and one correction notice). The documents do not reveal substantial competing priorities or decisions in meaningful tension with one another \u2014 they largely operate in separate domains (HR/contracts, development planning, and weekly operations reporting) without intersecting conflicts.\n\nTo identify deeper tensions (e.g., budget vs. service levels, development speed vs. community input), **the context does not contain sufficient information** to make that determination.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "FEB-004#0",
+      "APR-001#0",
+      "MAR-019#0",
+      "JAN-007#0",
+      "JAN-004#0",
+      "JAN-013#0",
+      "MAR-006#0",
+      "JAN-016#0"
+    ]
+  },
+  "error": null
+}

@@ -1,0 +1,75 @@
+{
+  "global_id": "FEB-011",
+  "month": "FEB",
+  "memo_id": 11,
+  "date_published": "2026-02-18",
+  "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95491/639070168105430000",
+  "doc_id": "95491",
+  "resolved_text": "Memorandum\nDATE: February 18, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Elaine Wiseman, Housing Administrator\nMonica Kirch, Director\nDEPT: Housing and Neighborhood Development\nSUBJECT: Nevada Attainable Housing Account-Affordable Housing Fee Waiver Program\n\nThe Nevada Attainable Housing Account (\"NAHA\") was established by the Nevada Housing Access and Attainability Act (the \"Act\") through Assembly Bill 540 during the 2025 Legislative Session. The Act appropriated $133 million statewide to expand affordable housing opportunities for low- and moderate-income households through three program areas:\n\u2022 Development Opportunities\n\u2022 Homeownership Opportunities\n\u2022 Local Government Matching Fund\n\nAlthough the City of Reno has waived approximately $11.8 million in sewer connection and building permit fees across multiple affordable housing developments to date, the reimbursement amounts available through NAHA are governed by the Nevada Housing Division's population-based allocation methodology and the statutory criteria established in Assembly Bill 540. Based on this, the City of Reno's total amount available for reimbursement under the Nevada Attainable Housing Account program is $2,139,983.\n\nThe Nevada Housing Division further refined the qualifying reimbursement period, allowing local jurisdictions to seek reimbursement for projects that received certificates of occupancy in Fiscal Year 2025, when the City of Reno's Sewer Enterprise Fund absorbed the actual cost.\n\nDuring FY 2025, two qualifying developments came online within the City of Reno: Vintage at Redfield and Vintage at Stoker. Together, Vintage at Redfield and Vintage at Stoker represent 703 affordable housing units, for a total amount of $2,497,158 in fees waived. Under Assembly Bill 540, jurisdictions are required to provide a 50 percent match to be eligible for reimbursement through NAHA.\n\nAccordingly, the City of Reno applied to the Nevada Housing Division requesting reimbursement in the amount of $1,248,579, which is half of the amount waived.\n\nOn February 5, 2026, the NAHA Council awarded the City of Reno the full $1,248,579 as requested. Following this award, the City of Reno will remain eligible to apply for approximately $891,404 in reimbursement from the 2026 NAHA Allocation Plan.\n\nHousing and Neighborhood Development staff will convene internally to evaluate the future of the Nevada Attainable Housing Account-Affordable Housing Fee Waiver Program and will keep the Mayor and City Council informed.",
+  "fields": {
+    "department": "Housing and Neighborhood Development",
+    "authors": "Elaine Wiseman, Housing Administrator; Monica Kirch, Director",
+    "category": "Housing",
+    "subcategory": "Affordable Housing / Fee Waiver / State Funding",
+    "tldr": "Nevada's Assembly Bill 540 created the Nevada Attainable Housing Account (NAHA), appropriating $133 million statewide for affordable housing. The City of Reno applied for reimbursement of half the fees waived for two FY 2025 affordable housing developments, totaling $1,248,579, and was awarded the full amount on February 5, 2026. Reno remains eligible for an additional ~$891,404 in the 2026 NAHA Allocation Plan. Staff will continue evaluating the program and keep Council informed.",
+    "key_stats": "Statewide NAHA appropriation: $133 million; Total fees waived by Reno to date: ~$11.8 million; Reno's total NAHA reimbursement eligibility: $2,139,983; FY 2025 qualifying developments: Vintage at Redfield and Vintage at Stoker (703 combined affordable units); Total fees waived for those two projects: $2,497,158; Reimbursement requested (50% match requirement): $1,248,579; Amount awarded: $1,248,579; Remaining 2026 NAHA eligibility: ~$891,404",
+    "key_decisions": "The NAHA Council awarded the City of Reno the full requested reimbursement of $1,248,579 on February 5, 2026. The City must provide a 50% match to qualify for NAHA reimbursement under Assembly Bill 540.",
+    "action_items": "Housing and Neighborhood Development staff will convene internally to evaluate the future of the NAHA-Affordable Housing Fee Waiver Program and will keep the Mayor and City Council informed; the City may apply for approximately $891,404 in reimbursement from the 2026 NAHA Allocation Plan.",
+    "keywords": [
+      "Nevada Attainable Housing Account",
+      "NAHA",
+      "Assembly Bill 540",
+      "affordable housing",
+      "fee waiver",
+      "sewer connection fees",
+      "building permit fees",
+      "reimbursement",
+      "Vintage at Redfield",
+      "Vintage at Stoker",
+      "Nevada Housing Division",
+      "low- and moderate-income housing",
+      "matching fund",
+      "certificate of occupancy",
+      "FY 2025"
+    ],
+    "entities": {
+      "departments": [
+        "Housing and Neighborhood Development",
+        "Nevada Housing Division",
+        "City of Reno Sewer Enterprise Fund"
+      ],
+      "projects": [
+        "Nevada Attainable Housing Account (NAHA)",
+        "Nevada Housing Access and Attainability Act",
+        "Assembly Bill 540",
+        "NAHA-Affordable Housing Fee Waiver Program",
+        "Vintage at Redfield",
+        "Vintage at Stoker",
+        "Development Opportunities",
+        "Homeownership Opportunities",
+        "Local Government Matching Fund",
+        "2026 NAHA Allocation Plan"
+      ],
+      "dollar_amounts": [
+        "$133 million (statewide NAHA appropriation)",
+        "$11.8 million (total fees waived by Reno to date)",
+        "$2,139,983 (Reno's total NAHA reimbursement eligibility)",
+        "$2,497,158 (total fees waived for Vintage at Redfield and Vintage at Stoker)",
+        "$1,248,579 (reimbursement requested and awarded)",
+        "$891,404 (remaining 2026 NAHA eligibility)"
+      ],
+      "dates": [
+        "February 18, 2026 (memo date)",
+        "2025 Legislative Session (AB 540 passage)",
+        "Fiscal Year 2025 (qualifying reimbursement period)",
+        "February 5, 2026 (NAHA Council award date)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Elaine Wiseman, Housing Administrator",
+        "Monica Kirch, Director"
+      ]
+    }
+  }
+}

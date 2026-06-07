@@ -1,0 +1,63 @@
+{
+  "global_id": "FEB-013",
+  "month": "FEB",
+  "memo_id": 13,
+  "date_published": "2026-02-18",
+  "title": "Hi-Way 40 Update",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95498/639070252999530000",
+  "doc_id": "95498",
+  "resolved_text": "Memorandum\nDATE: February 18, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Elaine Wiseman, Housing Administrator\nMonica Kirch, Director, Housing and Neighborhood Development\nDEPT: Housing and Neighborhood Development\nSUBJECT: Hi-Way 40 Update\n\nIn March 2022, the City entered into an agreement with Volunteers of America (VOA) to provide $2,000,000 in Coronavirus State and Local Fiscal Recovery Funds (SLFRF) for the acquisition of the Hi-Way 40 Motel. An additional $350,000 in SLFRF funds was allocated in July 2023 for the acquisition of the Hi-Way 40 Motel. The goal of the Hi-Way 40 project is to substantially rehabilitate the dilapidated Hi-Way 40 Motel into 28 units of Permanent Supportive Housing (PSH) for individuals experiencing homelessness, with incomes at or below 30% Area Median Income (AMI), who also have a mental or physical disability.\n\nEscrow closed on the Hi-Way 40 Motel property in September 2023. Following acquisition, the Hi-Way 40 project entered pre-construction activities, including architectural design, interior demolition, and environmental remediation. During the pre-construction phase, significant asbestos-containing materials were discovered, requiring extensive abatement beyond initial projections.\n\nConstruction formally began in May 2025. Due to the age and deteriorated condition of the existing Hi-Way 40 Motel structures, the Hi-Way 40 project has experienced continued unforeseen rehabilitation challenges. These conditions have resulted in higher than anticipated construction costs which had resulted in a funding gap necessary to bring the Hi-Way 40 project to completion.\n\nWith the City's support, VOA applied for funding through the Nevada Attainable Housing Account (NAHA) in December 2025 in the amount of $1,479,476 to address the remaining funding shortfall. On February 5, 2026, the NAHA Council subsequently awarded the Hi-Way 40 project the full requested amount of $1,479,476, providing the required funding to bring the Hi-Way 40 project to completion.\n\nConstruction is anticipated to be completed by the end of March 2026, with lease-up expected to begin in April 2026. Upon completion and occupancy, the Hi-Way 40 project will provide 28 units of permanent supportive housing serving the community's most vulnerable residents.\n\nAs the Hi-Way 40 project nears completion, Housing and Neighborhood Development staff will keep Mayor and City Council apprised of grand opening events and opportunities to recognize the Hi-Way 40 project completion as an important milestone for the community.",
+  "fields": {
+    "department": "Housing and Neighborhood Development",
+    "authors": "Elaine Wiseman, Housing Administrator; Monica Kirch, Director, Housing and Neighborhood Development",
+    "category": "Housing",
+    "subcategory": "Permanent Supportive Housing",
+    "tldr": "The City partnered with Volunteers of America (VOA) to rehabilitate the Hi-Way 40 Motel into 28 units of Permanent Supportive Housing for homeless individuals with disabilities earning at or below 30% AMI. The project faced unforeseen cost overruns due to extensive asbestos abatement and deteriorated building conditions. A $1,479,476 grant from the Nevada Attainable Housing Account (NAHA), awarded February 5, 2026, closed the remaining funding gap. Construction is expected to finish by end of March 2026, with lease-up beginning in April 2026.",
+    "key_stats": "28 units of Permanent Supportive Housing; total known public funding: $2,000,000 (initial SLFRF) + $350,000 (additional SLFRF) + $1,479,476 (NAHA) = $3,829,476; target population: individuals at or below 30% AMI with mental or physical disability experiencing homelessness",
+    "key_decisions": "NAHA Council awarded Hi-Way 40 the full requested amount of $1,479,476 on February 5, 2026, resolving the project funding gap and enabling completion.",
+    "action_items": "Housing and Neighborhood Development staff will keep Mayor and City Council informed of grand opening events and opportunities to recognize the Hi-Way 40 project completion as a community milestone.",
+    "keywords": [
+      "Hi-Way 40",
+      "Permanent Supportive Housing",
+      "Volunteers of America",
+      "SLFRF",
+      "Nevada Attainable Housing Account",
+      "homelessness",
+      "rehabilitation",
+      "asbestos abatement",
+      "funding gap",
+      "30% AMI"
+    ],
+    "entities": {
+      "departments": [
+        "Housing and Neighborhood Development"
+      ],
+      "projects": [
+        "Hi-Way 40 Motel Rehabilitation / Permanent Supportive Housing Project",
+        "Nevada Attainable Housing Account (NAHA)",
+        "Coronavirus State and Local Fiscal Recovery Funds (SLFRF)"
+      ],
+      "dollar_amounts": [
+        "$2,000,000 \u2013 initial SLFRF allocation for Hi-Way 40 acquisition (March 2022)",
+        "$350,000 \u2013 additional SLFRF allocation for Hi-Way 40 acquisition (July 2023)",
+        "$1,479,476 \u2013 NAHA award to address funding shortfall (February 5, 2026)"
+      ],
+      "dates": [
+        "March 2022 \u2013 City entered agreement with VOA; initial $2,000,000 SLFRF allocation",
+        "July 2023 \u2013 Additional $350,000 SLFRF allocation",
+        "September 2023 \u2013 Escrow closed on Hi-Way 40 Motel property",
+        "May 2025 \u2013 Construction formally began",
+        "December 2025 \u2013 VOA applied for NAHA funding",
+        "February 5, 2026 \u2013 NAHA Council awarded $1,479,476 to Hi-Way 40",
+        "February 18, 2026 \u2013 Memo date",
+        "End of March 2026 \u2013 Anticipated construction completion",
+        "April 2026 \u2013 Expected lease-up start"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Elaine Wiseman, Housing Administrator",
+        "Monica Kirch, Director, Housing and Neighborhood Development"
+      ]
+    }
+  }
+}

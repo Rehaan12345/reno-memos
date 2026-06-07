@@ -1,0 +1,26 @@
+{
+  "run_id": "P12__B-vanilla__2026-06-07T21-58-21Z",
+  "prompt_id": "P12",
+  "system_id": "B-vanilla",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:58:21.696001+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:dece59affc3820b9",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Waste Management Rate Increase: Status and Impact on Residents\n\n### Is It Finalized?\nYes, the rate increases have been finalized. Waste Management formally notified the City of Reno, and the new rates **take effect April 1, 2026**.\n\n---\n\n### What's Driving the Increase?\nThe increases are based on the **Consumer Price Index (CPI) for garbage and trash collection, which rose 5.27%** from December 2024 to December 2025. Additionally, the **City Council voted on February 11, 2026 to increase the franchise fee from 8% to 14%**, which is also factored into residential and commercial rate calculations.\n\n---\n\n### What Does It Mean for Residents?\nResidents will see **higher monthly bills**. For example:\n\n| Service | Current Rate | New Rate |\n|---|---|---|\n| One 96-gal solid waste + 96-gal recycle cart | $25.20 | $28.38 |\n| One 64-gal solid waste + 96-gal recycle cart | $22.77 | $25.64 |\n| Senior rate (35-gal solid waste + 64-gal recycle) | $18.38 | $20.70 |\n\nThe increases reflect **both the CPI adjustment and the higher franchise fee**, meaning the impact on residents is larger than the CPI increase alone.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "95599#0",
+      "95601#0",
+      "95501#2",
+      "95501#1",
+      "95742#1",
+      "95601#1",
+      "95501#0",
+      "95599#1"
+    ]
+  },
+  "error": null
+}

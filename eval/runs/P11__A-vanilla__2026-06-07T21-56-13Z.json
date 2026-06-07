@@ -1,0 +1,26 @@
+{
+  "run_id": "P11__A-vanilla__2026-06-07T21-56-13Z",
+  "prompt_id": "P11",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:56:13.278164+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Lear Theater: Pending Decisions & Complications\n\n### Pending Decisions (Due April 8, 2026)\nCouncil is being asked to consider three actions:\n1. **Authorising near-term stabilisation** (~$1.6M)\n2. **Commissioning a feasibility study**\n3. **Establishing an HRC advisory subcommittee**\n\nThese recommendations come from the Historic Resources Commission (HRC) following community engagement.\n\n---\n\n### What Makes This Complicated\n\n**Scale and cost uncertainty:** The two main future-use scenarios carry very different price tags \u2014 a performing arts venue is estimated at **~$22M**, while a flexible events space would cost **~$18M** \u2014 and the feasibility study hasn't yet determined which path is viable.\n\n**Significant community interest:** The January 10 meeting drew **180 attendees** and generated **441 survey responses**, suggesting strong public investment in the outcome, which raises the stakes for whatever direction council chooses.\n\n**A separate but related complication:** Per memo **feb-002**, two of the largest American linden trees in Reno \u2014 located adjacent to the theater on Ralston Street \u2014 are scheduled for removal by end of April 2026 due to safety risk. This creates a parallel, sensitive issue tied to the same site during an already complex decision-making period.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "MAR-012#0",
+      "FEB-002#0",
+      "JAN-008#0",
+      "APR-010#0",
+      "FEB-001#0",
+      "APR-001#0",
+      "JAN-002#0",
+      "MAR-024#0"
+    ]
+  },
+  "error": null
+}

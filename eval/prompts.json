@@ -1,0 +1,166 @@
+{
+  "_comment": "LOCKED PROMPT SET. Do not edit prompt text after the first run. The 'reference_key' field is for internal logging and miss-detection ONLY. It must never be sent to any system, and never rendered in any expert-facing view. Systems receive only the 'prompt' field.",
+  "version": "1.0",
+  "locked": true,
+  "prompts": [
+    {
+      "id": "P01",
+      "section": "stalled_unresolved",
+      "experiment": "both",
+      "prompt": "What is the current status of the parking revenue recovery effort, and what is the single biggest thing blocking it?",
+      "reference_key": {
+        "expected_memos": ["JAN-003", "FEB-018", "APR-004"],
+        "expected_thread": "Parking Revenue Recovery",
+        "cross_doc_move": "Identify the Nevada DMV holds (unresolved since June 2025) as the blocker; note persistence across all three memos. Weak answer summarizes one memo's revenue figures."
+      }
+    },
+    {
+      "id": "P02",
+      "section": "stalled_unresolved",
+      "experiment": "both",
+      "prompt": "Which long-running issues have shown no meaningful progress across the January to April period? Name them and explain what is stuck.",
+      "reference_key": {
+        "expected_memos": ["JAN-008", "APR-010", "JAN-003", "FEB-018", "APR-004"],
+        "expected_flags": ["Seniors EngAGED funding cliff", "Nevada DMV holds"],
+        "cross_doc_move": "Recognize stasis across time (identical status months apart). Hard for keyword retrieval because 'no change' is the absence of new content."
+      }
+    },
+    {
+      "id": "P03",
+      "section": "stalled_unresolved",
+      "experiment": "both",
+      "prompt": "Is there a funding cliff approaching for any city program, and what happens if nothing is done?",
+      "reference_key": {
+        "expected_memos": ["JAN-008", "APR-010"],
+        "cross_doc_move": "Seniors EngAGED ARPA funding, Dec 2026 cliff. No successor funding across 4 months. Participants 1,720 (Q4 2025) to 1,256 (Q1 2026). Program ceases end of 2026 without action."
+      }
+    },
+    {
+      "id": "P04",
+      "section": "causal_interpretive",
+      "experiment": "both",
+      "prompt": "Code enforcement cases have been rising. Is the new citation policy responsible for the increase, or was the trend already underway?",
+      "reference_key": {
+        "expected_memos": ["MAR-002"],
+        "expected_metric": "Code Enforcement Weekly Cases",
+        "cross_doc_move": "Trend (33 cases Jan 2 to 125 Apr 23) PREDATES the Mar 3 policy, so policy cannot be sole cause. Tests resistance to the easy/wrong causal story."
+      }
+    },
+    {
+      "id": "P05",
+      "section": "causal_interpretive",
+      "experiment": "both",
+      "prompt": "What does the homelessness and outreach data tell us about whether the city's approach is working? Be specific about tensions in the numbers.",
+      "reference_key": {
+        "expected_memos": ["FEB-008", "FEB-009", "MAR-003", "MAR-004", "MAR-018", "APR-002", "APR-014", "APR-015"],
+        "expected_thread": "Homelessness & Outreach",
+        "cross_doc_move": "Tension: rising enforcement (arrests peak 96 in Mar, camping +113% MoM) alongside rising service requests, while housing placements inconsistent (9, 6, 11, 4). Name the tension."
+      }
+    },
+    {
+      "id": "P06",
+      "section": "causal_interpretive",
+      "experiment": "both",
+      "prompt": "The local economy: is it improving or weakening? The memos seem to point in different directions.",
+      "reference_key": {
+        "expected_memos": ["JAN-014", "MAR-001", "MAR-023"],
+        "expected_thread": "Economic Conditions",
+        "cross_doc_move": "Mixed: wages up, inflation down, tourism up, unemployment low BUT consumer confidence at 84.5 (lowest since 2014), rents up 12 straight months, WARN notices in April. Hold the contradiction rather than picking a side."
+      }
+    },
+    {
+      "id": "P07",
+      "section": "cross_department",
+      "experiment": "both",
+      "prompt": "Are there any cases where one department's decision depends on or affects another department's work? Walk me through one.",
+      "reference_key": {
+        "expected_relationship": "cross-department dependency",
+        "cross_doc_move": "Tests relationship-graph traversal. Candidates: parking (CMO) depends on Nevada DMV/Dept of Public Safety; housing (HAND) connects to homelessness PSH (FEB-014). Vanilla with no relationship layer will struggle."
+      }
+    },
+    {
+      "id": "P08",
+      "section": "cross_department",
+      "experiment": "both",
+      "prompt": "What's happening with affordable housing, and is the pipeline keeping pace with the rising rents?",
+      "reference_key": {
+        "expected_memos": ["JAN-006", "FEB-014", "FEB-015", "APR-008", "JAN-014", "MAR-001", "MAR-023"],
+        "expected_thread": "Housing & Affordability",
+        "cross_doc_move": "Link housing thread to rents-rising flag. Two Feb wins (Hi-Way 40 28 PSH units, NAHA fee waivers 703 units) but judge pipeline insufficient against 12 months of rising rents."
+      }
+    },
+    {
+      "id": "P09",
+      "section": "cross_department",
+      "experiment": "both",
+      "prompt": "Which technology systems is the city replacing or upgrading, and which one is the most urgent?",
+      "reference_key": {
+        "expected_memos": ["MAR-005", "MAR-010"],
+        "expected_thread": "Technology Modernisation",
+        "cross_doc_move": "ERP (MAR-005) more urgent than Hexagon (MAR-010): payroll calc errors, procurement not started, Council auth pending. Hexagon on track for late 2026. Rank ERP above Hexagon with reasoning."
+      }
+    },
+    {
+      "id": "P10",
+      "section": "contradiction_competing",
+      "experiment": "both",
+      "prompt": "Where do the memos reveal competing priorities or decisions that sit in tension with each other?",
+      "reference_key": {
+        "cross_doc_move": "Open-ended synthesis. Candidates: Lear Theater (operational tree removal vs strategic $18-22M building future); homelessness enforcement vs housing. No single right answer. Judge whether tension is real and evidenced vs invented."
+      }
+    },
+    {
+      "id": "P11",
+      "section": "contradiction_competing",
+      "experiment": "both",
+      "prompt": "The Lear Theater: what decisions are pending and what makes this complicated?",
+      "reference_key": {
+        "expected_memos": ["FEB-002", "MAR-012"],
+        "expected_thread": "Lear Theater",
+        "cross_doc_move": "Two distinct decisions: (1) operational tree removal by end April (safety); (2) strategic building future ($18-22M renovation vs $1.6M stabilization, Council action Apr 8). Separate the two rather than conflating."
+      }
+    },
+    {
+      "id": "P12",
+      "section": "contradiction_competing",
+      "experiment": "both",
+      "prompt": "Has the waste management rate increase been finalized, and what does it mean for residents?",
+      "reference_key": {
+        "expected_memos": ["FEB-011", "MAR-008", "MAR-009", "APR-006"],
+        "expected_thread": "Waste Management",
+        "cross_doc_move": "Franchise fee 8% to 14% approved (FEB-009), April billing, residential 96-gal cart $25.20 to $28.38 effective Apr 1 (MAR-009). Composting analysis in progress. Connect decision to concrete resident impact."
+      }
+    },
+    {
+      "id": "P13",
+      "section": "coverage_recall",
+      "experiment": "both",
+      "prompt": "Give me a complete picture of every governance and appointments issue in the quarter: vacancies, term expirations, all of it.",
+      "reference_key": {
+        "expected_memos": ["JAN-002", "MAR-015", "APR-013"],
+        "expected_thread": "Governance & Appointments",
+        "cross_doc_move": "Persistent vacancies (Access Advisory 6 seats across all reports, Ward 6 NAB, Charter Committee 9, Senior Residents 4), RTAA appointments (MAR-015), HRC + Ward 2/4 NAB terms expiring Apr 30 (APR-013). Tests recall; easy to return one report and miss others."
+      }
+    },
+    {
+      "id": "P14",
+      "section": "coverage_recall",
+      "experiment": "both",
+      "prompt": "What are all the high-priority issues the city should be watching right now?",
+      "reference_key": {
+        "expected_flags": ["Code enforcement 4x increase", "Seniors EngAGED funding cliff", "Nevada DMV holds"],
+        "cross_doc_move": "Three High-priority flags. Vanilla with no flag awareness must rebuild from memos and will likely miss at least one. Return all three with signals."
+      }
+    },
+    {
+      "id": "P15",
+      "section": "coverage_recall",
+      "experiment": "both",
+      "prompt": "Summarize the most significant decisions Council made this quarter and who they affect.",
+      "reference_key": {
+        "expected_memos": ["FEB-009", "FEB-005", "FEB-006", "MAR-011", "FEB-014", "FEB-015", "APR-009"],
+        "cross_doc_move": "14-entry decisions table. Notable: WM fee increase, $4.2M CPF, horse fencing $686K, Trego battery 200MW CUP, NAHA awards, no sewer fee increase. Surface decisions layer and attribute impact."
+      }
+    }
+  ]
+}

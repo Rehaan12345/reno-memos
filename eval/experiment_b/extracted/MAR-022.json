@@ -1,0 +1,57 @@
+{
+  "global_id": "MAR-022",
+  "month": "MAR",
+  "memo_id": 22,
+  "date_published": "2026-03-27",
+  "title": "Actions to Address Fire Risk in Landscape Maintenance District (LMD) Areas",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95640/639104823748600000",
+  "doc_id": "95640",
+  "resolved_text": "Memorandum\nDATE: March 27, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: David Cochran, Fire Chief\n  Talina Sky, Fire Inspector II\n  Nathan Ullyot, Director\nDEPT: Reno Fire Department\n  Parks & Recreation\nSUBJECT: Actions to Address Fire Risk in Landscape Maintenance District (LMD) Areas\n\nIn response to recent articles and inquiries regarding fire risk associated with vegetation conditions in Landscape Maintenance District (LMD) areas, the Reno Fire Department (RFD) coordinated with the Parks and Recreation Department to review current maintenance practices and identify actions to reduce wildfire risk adjacent to residential areas.\n\nBackground\n\nLandscape Maintenance Districts (LMDs) are maintained by the Parks Maintenance Division through a contracted landscaping company, with oversight provided by Parks Maintenance Division staff. Routine maintenance includes vegetation management, weed removal, debris cleanup, and clearing along fence lines and other landscaped areas.\n\nWildfire defensible space guidelines recommend maintaining approximately five feet of clearance from homes, outbuildings, and fences to reduce the potential for fire spread. In areas where larger trees cannot reasonably be removed, pruning is recommended to prevent limbs from overhanging fences or directing fire toward adjacent properties.\n\nFindings and Actions\n\n\u2022 Vegetation Maintenance Oversight \u2013 LMD areas are maintained by a contracted landscaping company operating under the direction and supervision of Parks Maintenance staff. Maintenance activities include weed removal, debris cleanup, and vegetation clearing along fence lines and landscaped areas. Identified issues or deficiencies are addressed as soon as possible.\n\n\u2022 Defensible Space Implementation \u2013 A five-foot vegetation clearance along fence lines will be established within LMD areas in accordance with defensible space guidelines. Defensible space implementation will prioritize the removal of combustible vegetation while recognizing that certain existing, maintained vegetation may be retained where removal is not practical or would conflict with established maintenance objectives. In cases where large diameter trees are to remain, pruning will be conducted to reduce overhanging limbs and minimize potential fire pathways. Application of these standards may vary based on site conditions and the relative severity of wildfire risk in specific areas.\n\n\u2022 Contract Review and Updates \u2013 The current LMD maintenance contract expires September 30 and the LMD maintenance contract will be rebid this summer. RFD will assist the Parks and Recreation Department in reviewing contract specifications to ensure vegetation maintenance requirements align with defensible space and wildfire risk reduction practices.\n\n\u2022 Training and Coordination \u2013 RFD will provide defensible space training and wildfire risk reduction guidance to the contracted landscaping company to support consistent maintenance practices.\n\n\u2022 Site Verification \u2013 RFD will work with the Parks and Recreation Department to conduct site visits in LMD areas to verify that defensible space guidelines and vegetation management practices are being implemented appropriately.\n\nThese coordinated efforts between RFD and the Parks and Recreation Department are intended to strengthen vegetation management practices, reduce wildfire risk near residential areas, and ensure defensible space principles are consistently applied within City-maintained landscape areas.",
+  "fields": {
+    "department": "Reno Fire Department; Parks & Recreation",
+    "authors": "David Cochran, Fire Chief; Talina Sky, Fire Inspector II; Nathan Ullyot, Director",
+    "category": "Public Safety",
+    "subcategory": "Wildfire / Vegetation Management",
+    "tldr": "The Reno Fire Department and Parks & Recreation Department are coordinating to reduce wildfire risk in Landscape Maintenance District (LMD) areas by improving vegetation management practices. A five-foot defensible space clearance along fence lines will be established, and large trees will be pruned to reduce fire pathways. The current LMD maintenance contract expires September 30 and will be rebid this summer, with RFD input to align specs with defensible space standards. RFD will also provide training to the contracted landscaping company and conduct site verification visits.",
+    "key_stats": "5-foot vegetation clearance standard along fence lines in LMD areas; LMD maintenance contract expires September 30, 2026.",
+    "key_decisions": "Establish five-foot defensible space clearance along LMD fence lines; rebid LMD maintenance contract this summer with RFD-reviewed specifications; provide defensible space training to contracted landscaping company; conduct joint RFD/Parks site verification visits.",
+    "action_items": "1) Establish 5-ft vegetation clearance along LMD fence lines. 2) Prune large-diameter trees to reduce overhanging limbs. 3) RFD to assist Parks & Recreation in reviewing and updating LMD contract specifications before rebid this summer. 4) RFD to provide defensible space training to contracted landscaping company. 5) RFD and Parks & Recreation to conduct joint site visits to verify implementation.",
+    "keywords": [
+      "Landscape Maintenance District",
+      "LMD",
+      "wildfire",
+      "defensible space",
+      "vegetation management",
+      "fire risk",
+      "contract rebid",
+      "Parks & Recreation",
+      "Reno Fire Department",
+      "weed removal",
+      "fence line clearance"
+    ],
+    "entities": {
+      "departments": [
+        "Reno Fire Department (RFD)",
+        "Parks & Recreation Department",
+        "Parks Maintenance Division"
+      ],
+      "projects": [
+        "Landscape Maintenance District (LMD) Vegetation Management",
+        "LMD Maintenance Contract Rebid",
+        "Defensible Space Implementation in LMD Areas"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "March 27, 2026 (memo date)",
+        "September 30 (LMD maintenance contract expiration)",
+        "Summer 2026 (contract rebid timeline)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "David Cochran, Fire Chief",
+        "Talina Sky, Fire Inspector II",
+        "Nathan Ullyot, Director (Parks & Recreation)"
+      ]
+    }
+  }
+}

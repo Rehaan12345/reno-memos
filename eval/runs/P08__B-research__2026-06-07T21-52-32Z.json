@@ -1,0 +1,1373 @@
+{
+  "run_id": "P08__B-research__2026-06-07T21-52-32Z",
+  "prompt_id": "P08",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:52:32.331550+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Affordable Housing in Reno: What the Memos Show\n\n### Rents Are Rising Steadily\n\nThe economic update memos paint a consistent and concerning picture. Average apartment rent climbed from **$1,745 in November 2025** (JAN-014) to **$1,757 in December 2025** (MAR-001) to **$1,769 by January 2026** (MAR-024) \u2014 a rise of **8.4% year-over-year** by the most recent reading, with **12 consecutive months of increases** (MAR-024). Housing supply sits at just **2.0 months** (MAR-024), a seller's/landlord's market by any standard. The memos suggest this pressure is structural, not a blip.\n\n---\n\n### The Affordable Unit Pipeline Is Thin\n\nThe memos describe only a handful of concrete affordable housing projects:\n\n- **Vintage at Redfield and Vintage at Stoker** together produced **703 affordable units** in FY 2025 (FEB-011). These are the two projects for which the city waived ~$2.5 million in fees and sought NAHA reimbursement.\n- **Hi-Way 40** converted a motel into **28 units** of Permanent Supportive Housing for people at or below 30% AMI, with construction finishing around March 2026 (FEB-013). This project required nearly **$3.8 million in public funding** for 28 units \u2014 a signal of how expensive deeply affordable housing is to produce.\n\nThat's the full picture of new supply described across all 12 memos. No memo presents a broader pipeline count, a multi-year production target, or a comparison of units needed versus units planned.\n\n---\n\n### Fee Waivers and State Funding Are the Main Tools\n\nThe city's primary mechanism for stimulating affordable development appears to be **fee waivers**, backed by reimbursement from Nevada's **Attainable Housing Account (NAHA)**. Reno has waived roughly **$11.8 million in fees** to date and has been reimbursed **$1,248,579** so far, with eligibility for another **~$891,404** in 2026 (FEB-011). Staff are still evaluating whether to continue the program (FEB-011). The memos suggest this is a meaningful but limited tool \u2014 it reduces developer costs but does not directly fund construction at scale.\n\n---\n\n### Emergency Assistance Is Filling Gaps, Not Solving the Problem\n\nThe rental and deposit assistance program spent **$354,482 in December 2025 alone**, helping **141 households**, with **$1.57 million expended** in the first half of FY 2026 (JAN-006). This is reactive spending \u2014 helping people who can't afford current rents \u2014 not supply-side investment. The Clean and Safe memos (FEB-009, APR-003, APR-015) show a persistent homeless population cycling through outreach, motel assistance, and encampment enforcement, with only small numbers transitioning to permanent housing each month (e.g., 4 permanent housing transitions in February 2026 per APR-003; 1 in March 2026 per APR-015).\n\n---\n\n### Is the Pipeline Keeping Pace?\n\n**The memos do not provide enough data to answer this definitively**, but the cross-document pattern is not encouraging:\n\n- Rents are up 8.4% year-over-year with 12 straight months of increases (MAR-024).\n- Housing supply is at 2.0 months \u2014 well below a balanced market (MAR-024).\n- The only new affordable units described are 703 from two FY 2025 projects (FEB-011) and 28 deeply subsidized units (FEB-013).\n- Emergency rental assistance is rising (JAN-006), and homelessness outreach remains a constant, high-volume operation (FEB-009, APR-003, APR-015).\n- Consumer confidence is at its **lowest since May 2014** (MAR-024), suggesting households are feeling the squeeze.\n\nThe memos suggest the tools in use \u2014 fee waivers, state grants, emergency assistance \u2014 are real but modest relative to the scale of rent pressure. There is no memo in this set that presents a supply projection, a gap analysis, or a policy response scaled to the 8.4% rent growth trend. That absence is itself a notable gap in the record.",
+    "cited_sources": [
+      {
+        "memo_id": "FEB-011",
+        "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95491/639070168105430000"
+      },
+      {
+        "memo_id": "MAR-024",
+        "title": "Monthly Economic Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000"
+      },
+      {
+        "memo_id": "JAN-014",
+        "title": "Monthly Economic Update - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000"
+      },
+      {
+        "memo_id": "MAR-001",
+        "title": "Monthly Economic Update - February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95542/639081516545570000"
+      },
+      {
+        "memo_id": "FEB-013",
+        "title": "Hi-Way 40 Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95498/639070252999530000"
+      },
+      {
+        "memo_id": "JAN-006",
+        "title": "Monthly Rental and Deposit Assistance Program Update \u2013 December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95269/639040050270200000"
+      },
+      {
+        "memo_id": "FEB-009",
+        "title": "December 2025 Clean and Safe Team Homeless Actions and Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95463/639064819937100000"
+      },
+      {
+        "memo_id": "APR-003",
+        "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-008",
+        "title": "Vintage at the Crossings Community Meeting Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95746/639137583776800000"
+      },
+      {
+        "memo_id": "APR-010",
+        "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639137587253200000"
+      },
+      {
+        "memo_id": "APR-015",
+        "title": "Clean and Safe Team Homeless Actions and Outcomes - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639137591712200000"
+      },
+      {
+        "memo_id": "FEB-007",
+        "title": "December 2025 City Walk Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95461/639064260517970000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-008",
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Police Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno Fire Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015",
+            "FEB-007",
+            "FEB-009",
+            "FEB-011",
+            "FEB-013",
+            "JAN-006",
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "City Manager's Office - Security",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Parks and Recreation \u2013 Park and River Rangers",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "Housing and Neighborhood Development",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-009",
+            "FEB-011",
+            "FEB-013",
+            "JAN-006"
+          ]
+        },
+        {
+          "name": "Rental and Deposit Assistance Program",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-006"
+          ]
+        },
+        {
+          "name": "Monica Kirch, Director of Housing and Neighborhood Development",
+          "type": "people",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013",
+            "JAN-006"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Izabella Baumann, Senior Engagement Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Redevelopment Agency",
+          "type": "departments",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Public Works",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Bureau of Labor Statistics (BLS)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Employment, Training and Rehabilitation (DETR)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Gaming Control Board",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Tax Commission",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Office of Policy and Strategy",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "U.S. Department of Labor (DOL)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "C-Tax (Consolidated Tax) series",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Monthly Economic Update",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Sales Tax Performance series (upcoming)",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "The Six Months of Consolidated Tax: Part Six \u2013 Supplemental City-County Relief Tax",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Calli Wilsey, Director of Policy and Strategy",
+          "type": "people",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Jason Gortari, Urban Economist",
+          "type": "people",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Business License",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Development Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Maintenance and Operations",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Parking Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-010",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Utility Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-008",
+            "APR-010",
+            "APR-015",
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "ServiceNow",
+          "type": "projects",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Noemi Gomez Martinez, Community Relationships Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-010"
+          ]
+        },
+        {
+          "name": "Reno Fire Department \u2013 Fire Prevention Division",
+          "type": "departments",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services \u2013 Clean and Safe",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "Licensing and Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "President Donald Trump",
+          "type": "people",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Community Action and Outreach",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Mobile Engagement Team",
+          "type": "departments",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Business Improvement District (BID)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "DEEDS Operation",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "Downtown Reno Partnership / Business Improvement District City Walks",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-007"
+          ]
+        },
+        {
+          "name": "Kaytlin Canner, Clean and Safe Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-007",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Clean and Safe Team",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Neighborly application",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Park and River Rangers",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Permanent Supportive Housing program",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Reno Housing Authority Motel Assistance Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Safe Camp",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015",
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "Virginia Range Horse Protection Project",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-009"
+          ]
+        },
+        {
+          "name": "City of Reno Sewer Enterprise Fund",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Nevada Housing Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Assembly Bill 540",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Development Opportunities",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Homeownership Opportunities",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Local Government Matching Fund",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Nevada Attainable Housing Account (NAHA)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Vintage at Redfield",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Vintage at Stoker",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Elaine Wiseman, Housing Administrator",
+          "type": "people",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Coronavirus State and Local Fiscal Recovery Funds (SLFRF)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Hi-Way 40 Motel Rehabilitation / Permanent Supportive Housing Project",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Vintage at the Crossings Community Meeting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Clark County Department of Aviation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Federal Aviation Administration",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Reno\u2013Tahoe Airport Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "U.S. Department of Transportation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Modernize Your Nevada Tax (MYNT)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: Deplaned Passengers and Taxable Sales in Reno and Las Vegas",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Stevie Scott (Intern)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "City of Reno and Cares Campus Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "City of Reno and NDOT Interlocal Agreement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Downtown Reno Partnership Security and Safety Collaboration",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Fusus Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "HUD-VASH Voucher Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Karma Box Project",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Mobile Camera Trailer Pilot Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Rapid Rehousing Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "School of Public Health Street Health Collaborative",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003"
+          ]
+        },
+        {
+          "name": "Washoe County Outreach Case Conferencing",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Reno-Sparks Convention and Visitors Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Conference Board",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "BLS Quarterly Census of Employment and Wages (QCEW)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Consumer Price Index for All Urban Consumers (CPI-U) West Region",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: When Wages Outpace Inflation",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Worker Adjustment and Retraining Notification (WARN)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Regional Alliance to End Homelessness (RAH)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-003",
+            "APR-015"
+          ]
+        },
+        {
+          "name": "14-day notice process",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Electronic ADA access installation (north and south exterior doors and community room courtyard entrance)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Expanded snow removal coordination",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Full building unit inspection",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Health, wellness, and educational programming engagement",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Parking lot speed bump installation",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Pet relief area improvements",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Smoking area upgrades",
+          "type": "projects",
+          "memo_ids": [
+            "APR-008"
+          ]
+        },
+        {
+          "name": "Community Homelessness Advisory Board (CHAB)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "Our Place",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        },
+        {
+          "name": "UNR StreetMed Team",
+          "type": "projects",
+          "memo_ids": [
+            "APR-015"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "Memo A (APR-003, 2026-04-06) covers February 2026 Reno Direct data (323 service requests related to homeless concerns) and precedes Memo B (APR-010, 2026-04-21), which covers March 2026 Reno Direct service request activity citywide. The February report logically and temporally precedes the March rep"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Regional Alliance to End Homelessness (RAH), Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "APR-003",
+          "target_id": "APR-015",
+          "rel_type": "precedes",
+          "evidence": "Memo A is the February 2026 Clean and Safe Team report (APR-003, dated 2026-04-06) and Memo B is the March 2026 report (APR-015, dated 2026-04-22) covering the same recurring interdepartmental homelessness program. Memo A's decisions and actions\u2014such as continuing the Mobile Camera Trailer Pilot Pro"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A reports January 2026 City Walk outcomes (MAR-003, dated 2026-03-05) covering operations and metrics from January, while Memo B reports February 2026 Clean and Safe Team outcomes (APR-003, dated 2026-04-06). Both concern the same Clean and Safe interdepartmental program addressing homelessness"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): City of Reno and Cares Campus Collaboration, City of Reno and NDOT Interlocal Agreement, Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Fusus Program, HUD-VASH Voucher Program, Karma Box Project, Mobile Camera Trailer Pilot Program, Rapid Rehousing Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, School of Public Health Street Health Collaborative, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-004, 2026-03-05) covers January 2026 Clean and Safe Team activities and decisions\u2014including the Council-approved NDOT interlocal agreement on January 28\u2014which logically and temporally precede Memo B (APR-003, 2026-04-06), which covers February 2026 and explicitly references the operation"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A (MAR-017, issued 2026-03-23) reports February 2026 Reno Direct service request data citywide, and Memo B (APR-003, issued 2026-04-06) draws on that same Reno Direct data \u2014 citing 323 service requests related to homeless concerns \u2014 making A's reporting temporally and logically prior to B's use"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-003",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers January 2026 Reno Direct service request data (including homeless-related requests), which temporally precedes and provides the baseline comparison referenced in Memo B, which notes the February 2026 figure of 323 homeless-related Reno Direct service requests represents 'a 1% decrease "
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-008",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Vintage at the Crossings Community Meeting"
+        },
+        {
+          "source_id": "FEB-014",
+          "target_id": "APR-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-014, 2026-02-18) documents the initial community meeting held February 10, 2026, and the corrective actions committed to by Asset Living and the Community Engagement and Services Department. Memo B (APR-008, 2026-04-15) explicitly describes itself as a follow-up to that same February 10 "
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "APR-010",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-017 covers February 2026 service request data while APR-010 covers March 2026, making the February report a temporal predecessor to the March report in the same recurring monthly series."
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct, ServiceNow"
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-010",
+          "rel_type": "precedes",
+          "evidence": "MAR-018 covers January 2026 service request data while APR-010 covers March 2026 data; the January report temporally precedes the March report in the same recurring monthly reporting series."
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-014",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Business Improvement District (BID), DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-003",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-004",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "MAR-017",
+          "target_id": "APR-015",
+          "rel_type": "precedes",
+          "evidence": "Memo A reports February 2026 service request data, which Memo B explicitly uses as a baseline, noting a '9% increase over February' in service requests \u2014 establishing that Memo A's reporting period and data logically and temporally precede Memo B's March 2026 analysis."
+        },
+        {
+          "source_id": "MAR-018",
+          "target_id": "APR-015",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "JAN-015",
+          "target_id": "FEB-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-003",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks, Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): DEEDS Operation, Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-016",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Business Improvement District (BID), DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-017",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-007",
+          "target_id": "MAR-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Direct"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "FEB-010",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Virginia Range Horse Protection Project"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "MAR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+        },
+        {
+          "source_id": "FEB-009",
+          "target_id": "MAR-004",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the December 2025 Clean and Safe Team report (dated 2026-02-11) while Memo B covers the January 2026 report (dated 2026-03-05); both are sequential monthly reports of the same ongoing Clean and Safe Team program, making A's reporting period and decisions temporally prior to B's."
+        },
+        {
+          "source_id": "FEB-011",
+          "target_id": "FEB-013",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Nevada Attainable Housing Account (NAHA)"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-014, 2026-01-29) is the January 2026 monthly economic update and explicitly states that the Office of Policy and Strategy 'will launch a new series next month focused on key variables influencing sales tax performance.' Memo B (MAR-001, 2026-03-03) is the February 2026 monthly economic u"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Modernize Your Nevada Tax (MYNT), Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "precedes",
+          "evidence": "MAR-001 (2026-03-03) is the February 2026 monthly economic update and MAR-024 (2026-03-27) is the March 2026 monthly economic update, both produced by the Office of Policy and Strategy as part of the same recurring series; MAR-001 temporally and logically precedes MAR-024 in that series, and the ong"
+        }
+      ],
+      "fields": {
+        "FEB-011": {
+          "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing",
+          "tldr": "Nevada's Assembly Bill 540 created the Nevada Attainable Housing Account (NAHA), appropriating $133 million statewide for affordable housing. The City of Reno applied for reimbursement of half the fees waived for two FY 2025 affordable housing developments, totaling $1,248,579, and was awarded the full amount on February 5, 2026. Reno remains eligible for an additional ~$891,404 in the 2026 NAHA Allocation Plan. Staff will continue evaluating the program and keep Council informed.",
+          "key_stats": "Statewide NAHA appropriation: $133 million; Total fees waived by Reno to date: ~$11.8 million; Reno's total NAHA reimbursement eligibility: $2,139,983; FY 2025 qualifying developments: Vintage at Redfield and Vintage at Stoker (703 combined affordable units); Total fees waived for those two projects: $2,497,158; Reimbursement requested (50% match requirement): $1,248,579; Amount awarded: $1,248,579; Remaining 2026 NAHA eligibility: ~$891,404",
+          "key_decisions": "The NAHA Council awarded the City of Reno the full requested reimbursement of $1,248,579 on February 5, 2026. The City must provide a 50% match to qualify for NAHA reimbursement under Assembly Bill 540.",
+          "action_items": "Housing and Neighborhood Development staff will convene internally to evaluate the future of the NAHA-Affordable Housing Fee Waiver Program and will keep the Mayor and City Council informed; the City may apply for approximately $891,404 in reimbursement from the 2026 NAHA Allocation Plan."
+        },
+        "MAR-024": {
+          "title": "Monthly Economic Update - March 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The March 2026 monthly economic update for the Reno-Sparks MSA shows a moderating but still expanding economy with growing uncertainty tied to national trade policy and geopolitical tensions. Tourism was a bright spot in January 2026 with visitor volume up 12.3 percent and gains in hotel occupancy, room rates, and gaming revenue. The housing market remains stable but competitive, with limited supply sustaining seller's market conditions and rents rising 8.4 percent over the year. Consumer conditions are mixed, with strong real wage growth and rising taxable sales offset by declining consumer confidence.",
+          "key_stats": "Visitors Jan 2026: 307,686 (+12.3% YoY); Hotel occupancy Jan 2026: 58.9% (+5.3% YoY); Avg. daily room rate Jan 2026: $137.19 (+$1.76 YoY); Gaming win Jan 2026: +$1.9M (+2.9% YoY); Avg. single-family home value Feb 2026: $566,802 (-0.4% YoY, +0.1% MoM); Median days on market Feb 2026: 72 days; Housing supply: 2.0 months; 30-yr fixed mortgage rate Feb 2026: 5.98% (down from 6.76% YoY); Avg. apartment rent: $1,769 (+8.4% YoY, 12 consecutive months of increases); Nevada initial unemployment claims Feb 2026: 10,745 (+16.9% MoM, flat YoY); Avg. weekly wages Reno MSA Q3 2025: $1,415 (+6.4% YoY, outpacing national 4.7% and state 4.3%); Washoe County taxable sales Dec 2025: $1.3B (+9.4% YoY); CCI Feb 2026: 91.2 (-8.9 pts YoY, lowest since May 2014); U.S. headline inflation Feb 2026: 2.4% YoY; Nominal wage growth vs. inflation gap Q3 2025: +3.2 percentage points (wages 6.4%, inflation 3.2%)",
+          "key_decisions": "No formal decisions requested; memo is informational to assist Council in making informed policy decisions regarding labor market, housing, tourism, consumer activity, and other economic drivers.",
+          "action_items": "Office of Policy and Strategy will examine key economic variables influencing taxable sales in coming months, as sales tax remains one of the largest revenue sources for local government; next monthly economic update expected April 2026."
+        },
+        "JAN-014": {
+          "title": "Monthly Economic Update - January 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The January 2026 monthly economic update for the Reno-Sparks MSA shows mixed signals: the labor market remains stable with modest job growth and a 4.2% unemployment rate, while tourism posted higher visitor volumes and gaming win in November 2025. Housing is stabilizing with flat home values and rising rents, but consumer confidence dropped to 89.1 in December amid concerns over jobs and income despite inflation falling to its lowest level since 2021. The special topic covers the Supplemental City-County Relief Tax (SCCRT), the largest contributor to the consolidated tax system, which distributed $1.5 billion to local governments in FY2025.",
+          "key_stats": "Reno MSA employment grew 0.3% over-the-year (~800 jobs); unemployment rate 4.2% (Nov. 2025); Nevada statewide unemployment 5.2%; 276,013 visitors in Nov. 2025 (+5.0% YoY); hotel occupancy 55.2% (+4.0% YoY); avg. daily room rate $126.08 (-$4.69 YoY); gaming win up $3.7M (+7.1%) YoY; avg. single-family home value $561,394 (-0.2% YoY); median days on market 78 days; avg. apartment rent $1,745 (+6.5% YoY); 30-year fixed mortgage rate 6.06%; CCI 89.1 (-20.4 pts YoY); headline inflation 2.7% (lowest since March 2021); SCCRT distributed $1.488B in FY2025 (67.4% of total C-Tax); total Washoe County sales tax rate 8.265%; SCCRT rate $1.75 per $100.",
+          "key_decisions": "No formal decisions requested; memo is informational. Council is advised of data gaps due to the 2025 government shutdown (BLS did not release October data), which affects standard monthly comparisons and federal data accuracy.",
+          "action_items": "No explicit action items assigned. Office of Policy and Strategy will launch a new series next month focused on key variables influencing sales tax performance. More information on C-Tax available at Reno.Gov/Ctax."
+        },
+        "MAR-001": {
+          "title": "Monthly Economic Update - February 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The February 2026 monthly economic update for the Reno-Sparks MSA shows a slowing economy with stable but softening labor market conditions, steady tourism activity, a seasonal housing slowdown with stable prices, and rising taxable sales offset by sharply declining consumer confidence. Key upside cushions include housing price stability, decreasing inflation, and increasing wages, while downside risks include consumer credit stress, national policy uncertainty, low housing supply, and weakening consumer confidence. A special topic section examines the relationship between deplaned passengers and taxable sales in Reno and Las Vegas, motivated by a federal government shutdown in October 2025 that disrupted air traffic. The memo is intended to help Council make informed policy decisions across labor, tourism, housing, and consumer spending sectors.",
+          "key_stats": "Reno MSA unemployment rate: 4.0% (Dec. 2025, down 0.1% from Nov., down 0.7 pp year-over-year); Nevada statewide unemployment: 5.2% (seasonally adjusted); Nevada initial unemployment claims: 13,852 (Dec. 2025, +13.3% from Nov., +4.6% year-over-year); Nevada job openings declined 25.6% year-over-year (Dec. 2025); Reno MSA employment declined 0.3% year-over-year (-800 jobs); Visitor volume: 285,162 (Dec. 2025, +1.8% year-over-year); Hotel occupancy: 54.1% (+1.2% year-over-year); Avg. daily room rate: $127.90 (-$4.69 year-over-year); Gaming win declined $1.1M (-1.6%) year-over-year; Avg. single-family home price: $559,258 (Jan. 2026, -0.4% year-over-year); Median days on market: 81 days (+6 days year-over-year); 30-year fixed mortgage rate: 6.10% (down from 6.95% year-over-year); Avg. apartment rent: $1,757 (+6.6%/$112 year-over-year, 11 consecutive months of increases); Washoe County taxable sales: $1.1B (Nov. 2025, +10.4% year-over-year); Consumer Confidence Index: 84.5 (Jan. 2026, -14.7 points year-over-year, lowest since May 2014); U.S. headline inflation: 2.4% year-over-year (Jan. 2026, down from 2.7% in Dec. 2025).",
+          "key_decisions": null,
+          "action_items": "Office of Policy and Strategy to continue examining key economic variables influencing taxable sales in coming months, with a focus on deplaned passengers and their relationship to taxable sales in Reno and Las Vegas."
+        },
+        "FEB-013": {
+          "title": "Hi-Way 40 Update",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing",
+          "tldr": "The City partnered with Volunteers of America (VOA) to rehabilitate the Hi-Way 40 Motel into 28 units of Permanent Supportive Housing for homeless individuals with disabilities earning at or below 30% AMI. The project faced unforeseen cost overruns due to extensive asbestos abatement and deteriorated building conditions. A $1,479,476 grant from the Nevada Attainable Housing Account (NAHA), awarded February 5, 2026, closed the remaining funding gap. Construction is expected to finish by end of March 2026, with lease-up beginning in April 2026.",
+          "key_stats": "28 units of Permanent Supportive Housing; total known public funding: $2,000,000 (initial SLFRF) + $350,000 (additional SLFRF) + $1,479,476 (NAHA) = $3,829,476; target population: individuals at or below 30% AMI with mental or physical disability experiencing homelessness",
+          "key_decisions": "NAHA Council awarded Hi-Way 40 the full requested amount of $1,479,476 on February 5, 2026, resolving the project funding gap and enabling completion.",
+          "action_items": "Housing and Neighborhood Development staff will keep Mayor and City Council informed of grand opening events and opportunities to recognize the Hi-Way 40 project completion as a community milestone."
+        },
+        "JAN-006": {
+          "title": "Monthly Rental and Deposit Assistance Program Update \u2013 December 2025",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing",
+          "tldr": "The Housing and Neighborhood Development (HAND) department provided its monthly update on rental and deposit assistance for December 2025. In December 2025, $354,481.96 was expended to assist 141 unique households with rental, deposit, and/or utility assistance. This represents a 1% increase over November 2025 expenditures of $353,399.75. From July 1, 2025 through December 2025, a cumulative total of $1,572,111.85 has been expended through the program.",
+          "key_stats": "December 2025: $354,481.96 expended; 141 unique households assisted. November 2025: $353,399.75 expended. July 1, 2025 to date cumulative expenditure: $1,572,111.85. December spending was 1% higher than November.",
+          "key_decisions": null,
+          "action_items": "Staff to continue providing monthly updates on rental and deposit assistance as directed by City Council at the March 31, 2022 Special Meeting."
+        },
+        "FEB-009": {
+          "title": "December 2025 Clean and Safe Team Homeless Actions and Outcomes",
+          "department": "Community Engagement & Services",
+          "category": "Public Safety & Homelessness",
+          "tldr": "The Clean and Safe Team's December 2025 report summarizes homeless outreach, enforcement, and maintenance activities across Reno. Key outcomes include 69 outreach interactions, 9 individuals placed into transitional housing, 127 arrests, and 30 encampment clean-ups. Community service requests totaled 270, a 9% decrease from November, with occupied vehicle nuisance comprising nearly half of all requests. Multiple city departments and contracted security coordinated efforts citywide.",
+          "key_stats": "69 outreach interactions; 9 individuals into transitional housing; 2 shelter arrangements; 1 ID replacement; 26 resources accessed; 201 citations (187 RPD + 14 Park/River Rangers); 127 arrests (31 felony, 96 misdemeanor); 3 large encampment clean-ups; 27 smaller encampment clean-ups; 182 yards of trash collected; 42 occupied vehicles posted; 5 occupied vehicles towed; 4 park exclusions; 40 code enforcement cases; 174 Allied Security site visits; 605 Park and River Ranger site visits; 270 total Reno Direct service requests (9% decrease from November)",
+          "key_decisions": null,
+          "action_items": "Couple at Motel 6 to provide updated award letter to Kaytlin Canner; two individuals at Wells Footbridge need ID and Social Security card obtained for Permanent Supportive Housing program eligibility; couple diverted to motel assistance program after Cheryl Apartments unit was inaccessible due to stairs"
+        },
+        "APR-003": {
+          "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+          "department": "Community Engagement and Services",
+          "category": "Public Safety & Community Services",
+          "tldr": "The Clean and Safe Team's February 2026 report details interdepartmental efforts to address homelessness in Reno, including 55 outreach interactions resulting in 11 housing arrangements and 2 shelter arrangements. Enforcement activities included 91 citations, 80 arrests, 23 encampment clean-ups, and 127 yards of trash collected. Reno Direct received 323 service requests related to homeless concerns, occupied vehicles, trespassing, and camping, a 1% decrease from January. Key program updates include 7 individuals facilitated into the Reno Housing Authority Motel Assistance Program and ongoing deployment of Mobile Camera Trailers at chronic hotspot locations.",
+          "key_stats": "55 outreach interactions; 11 housing arrangements; 2 shelter arrangements; 91 citations; 80 arrests (17 felony, 63 misdemeanor); 2 large and 21 smaller encampment clean-ups; 127 yards of trash collected; 42 occupied vehicles posted; 10 vehicles towed; 1 park exclusion; 43 Code Enforcement cases; 104 Allied Universal Security site visits; 761 Park and River Ranger site visits; 71 Ranger interactions with unsheltered individuals; 323 Reno Direct service requests; 7 individuals facilitated into Motel Assistance Program; 4 individuals transitioned from Motel Assistance to permanent housing",
+          "key_decisions": "Established a response process under the City of Reno and NDOT Interlocal Agreement (ILA) to address encampments on NDOT Right-of-Ways; Washoe County Guardian's Office agreed to take over motel payments for two clients who reached the limit of the Reno Housing Authority Motel Assistance Program; City of Reno and Cares Campus Collaboration meetings (launched Fall 2025) continued to streamline transitions of shelter clients with income into permanent housing",
+          "action_items": "Continue Mobile Camera Trailer Pilot Program at Spokane Street and Galletti Way locations; deliver Verification of Homelessness letter to individual at Wells Avenue & Kuenzli Street; submit Motel Assistance paperwork for client met at CARES Campus; identify and submit alternative housing applications for couple evicted from Cheryl Apartments and moved to EconoLodge; follow up on housing plan for client whose living arrangement with mother was ruled out at Competency Court hearing"
+        },
+        "APR-008": {
+          "title": "Vintage at the Crossings Community Meeting Update",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "This memo updates the Mayor and Council on follow-up actions taken after a February 10, 2026, community meeting at Vintage at the Crossings Apartments, a senior housing community at 11565 Old Virginia Road. City departments including Community Engagement and Services, Code Enforcement, and Reno Fire Department have conducted outreach, delivered updated materials, and presented fire safety information to residents. Property management (Vintage at the Crossings and Asset Living) has completed multiple maintenance work orders and reinstated or improved several resident services. Additional enhancements including ADA door access, parking lot speed bumps, and expanded health programming are planned or underway.",
+          "key_stats": "Approximately 30 residents attended the March 26, 2026, Reno Fire Department fire safety presentation. Overnight security presence extended to cover 9:00 p.m. to 5:00 a.m., seven days per week. Two fire inspections completed by Summit Fire and Security (annual on February 9; five-year on February 26).",
+          "key_decisions": "No formal council decisions requested; memo is informational. City staff will continue collaborating with Vintage at the Crossings and Asset Living management to address resident concerns and coordinate City department assistance as needed.",
+          "action_items": "Reno Fire Department Fire Prevention is developing a more detailed evacuation plan for the property. Community Engagement and Services staff will continue working with Vintage at the Crossings and Asset Living on outstanding and emerging resident concerns. Planned property improvements include electronic ADA access installation, pet relief area improvements, smoking area upgrades, full building unit inspection, parking lot speed bumps, expanded snow removal coordination, and outside vendor health/wellness programming."
+        },
+        "APR-010": {
+          "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+          "department": "Community Engagement and Services",
+          "category": "Community Engagement",
+          "tldr": "The March 2026 Reno Direct report summarizes constituent interactions and service request activity across all city departments. The centralized customer service center handled 2,819 total interactions and received 2,978 new service requests citywide, while closing 3,030 requests. Illegal/abandoned parking was the top service request type both citywide and in every individual ward.",
+          "key_stats": "Total constituent interactions: 2,819 (1,963 calls answered, 401 voicemails, 439 emails, 16 online chats); New service requests: 2,978; Closed service requests: 3,030; Top request citywide: Parking Illegally/Abandoned (951); Largest department by new requests: Reno Police & Parking Enforcement (1,376 new, 1,472 closed).",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "APR-015": {
+          "title": "Clean and Safe Team Homeless Actions and Outcomes - March 2026",
+          "department": "Community Engagement and Services",
+          "category": "Public Safety & Community Services",
+          "tldr": "The Clean and Safe Team's March 2026 report summarizes interdepartmental efforts to address homelessness in Reno, including 41 outreach interactions, 4 housing arrangements, 96 arrests, and 22 encampment clean-ups. Service requests totaled 351, a 9% increase over February, driven largely by a 35% rise in Occupied Vehicle Nuisance reports. Outreach facilitated motel assistance placements, Safe Camp referrals, and coordination with regional partners. Mobile camera trailers continue to deter chronic encampment activity at key locations.",
+          "key_stats": "41 outreach interactions; 4 housing arrangements; 1 shelter arrangement; 176 citations; 96 arrests; 3 large and 19 smaller encampment clean-ups; 164 yards of trash collected; 50 occupied vehicles posted; 15 occupied vehicles towed; 6 park exclusions; 33 Code Enforcement cases; 138 Allied Security site visits; 351 total Reno Direct service requests (9% increase over February); Occupied Vehicle Nuisance requests up 35% (148 to 200); Camping in City Parks down 47% (17 to 9)",
+          "key_decisions": "Mobile Camera Trailer Pilot Program remains ongoing at Spokane Street and Galletti Way; 1 individual facilitated into Reno Housing Authority Motel Assistance Program; 1 individual transitioned from Motel Assistance Program into permanent housing; 2 individuals referred to and approved for Safe Camp; collaboration initiated with University of Nevada Reno Police Department regarding problem areas surrounding the university",
+          "action_items": "UNR StreetMed Team to follow up and treat wounds of Siegel Suites - Nevadan client enrolled in Reno Housing Authority Motel Assistance Program; continued monitoring of Our Place waitlist status for daughter and granddaughter; ongoing mobile camera trailer deployment at Spokane Street and Galletti Way locations"
+        },
+        "FEB-007": {
+          "title": "December 2025 City Walk Outcomes",
+          "department": "Community Engagement & Services",
+          "category": "Community Services",
+          "tldr": "This memo reports on City Walk operations conducted throughout December 2025, covering 16 walk dates across various Reno neighborhoods and the Downtown Business Improvement District. Participating departments included Clean and Safe, Code Enforcement, Reno Police Department, and Parks and Recreation. Outcomes included individual outreach contacts, nuisance vehicle notices, code enforcement cases, citations, and trash removal. The program coordinates proactively with Reno Direct service request data and the RPD DEEDS zones to connect residents with services and enforcement.",
+          "key_stats": "16 walk dates in December 2025; 1 individual accessed REMSA services; approximately 75+ individuals contacted across all walks (majority declined services); 12 nuisance vehicles issued 24-hour notice postings; 18 code enforcement cases created (broken windows, debris, graffiti, unsecured fencing, outdoor storage, trespassing, lighting, vegetation); 11 citations issued for sitting/lying/sleeping/camping in public places; 14 yards of trash removed; 1 NDOT request submitted for unsecured fencing",
+          "key_decisions": null,
+          "action_items": "1 request submitted to Nevada Department of Transportation (NDOT) for unsecured fencing (December 1 walk); ongoing coordination with Downtown Reno Partnership on Tuesday and Thursday BID walks; continued interdepartmental coordination with RPD DEEDS zones."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "FEB-011",
+      "MAR-024",
+      "JAN-014",
+      "MAR-001",
+      "FEB-013",
+      "JAN-006",
+      "FEB-009",
+      "APR-003",
+      "APR-008",
+      "APR-010",
+      "APR-015",
+      "FEB-007"
+    ]
+  },
+  "error": null
+}

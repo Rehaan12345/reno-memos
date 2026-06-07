@@ -1,0 +1,26 @@
+{
+  "run_id": "P14__A-vanilla__2026-06-07T22-00-48Z",
+  "prompt_id": "P14",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T22:00:48.381732+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "Based on the context provided, here are the high-priority issues that emerge from the memos:\n\n---\n\n### \ud83d\udea8 High-Priority Issues to Watch\n\n**1. Rising Code Enforcement Cases**\nCode enforcement cases have been climbing sharply throughout 2026 \u2014 from 33 cases in the holiday week (Dec 26\u2013Jan 1), to 96 cases by late February (then the 2026 high), to **107 cases in mid-April (a new 2026 high at time of publication)**. This is a clear upward trend requiring attention.\n\n**2. Illegal Parking & Abandoned Vehicles**\nConsistently the **top citywide service request** \u2014 795 requests in December and 901 in January \u2014 concentrated especially in Wards 1 and 3. RPD/Parking Enforcement is the most burdened department as a result.\n\n**3. Potholes**\nEmerging as a significant trend in **Wards 2, 4, and 5** as of January 2026, per the Reno Direct report.\n\n**4. Nuisance & Homeless Concerns**\nRecurring across multiple report types \u2014 code enforcement, Reno Direct, and media requests \u2014 suggesting persistent, citywide pressure.\n\n**5. Wildfire Evacuation Preparedness**\nThe regional Swift Exit evacuation study is underway, with a **public survey deadline of March 30, 2026**. This is time-sensitive.\n\n---\n\n*Note: These are drawn solely from the memos provided and may not represent a complete picture.*",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "JAN-001#0",
+      "JAN-015#0",
+      "APR-012#0",
+      "FEB-012#0",
+      "FEB-011#0",
+      "MAR-016#0",
+      "FEB-020#0",
+      "JAN-011#0"
+    ]
+  },
+  "error": null
+}

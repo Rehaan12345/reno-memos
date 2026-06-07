@@ -1,0 +1,403 @@
+Memorandum 
+DATE:  January 28, 2026 
+TO:   Mayor and City Council 
+THROUGH: Jackie Bryant, City Manager 
+FROM: Calli Wilsey, Director of Policy and Strategy 
+Jason Gortari, Urban Economist 
+DEPT:  Office of Policy and Strategy 
+SUBJECT: Monthly Economic Update: January 2026 
+Staff is pleased to provide Council with this monthly update on key economic indicators. These 
+updates aim to assist Council in making informed policy decisions by offering insights into 
+interconnected topics such as the labor market, housing, tourism, consumer activity, and other 
+critical economic drivers. 
+This memo provides an economic update featuring the most recent local data as of January 2026, 
+highlighting key metrics and trends shaping the region's economic outlook. Many economic 
+indicators have a lag time between their occurrence and when that data is released. Additionally, 
+the data is released at various times throughout each month. The monthly economic update 
+memo is meant to highlight new information that has been released since the last memo. To help 
+explain what is new in each of these monthly updates, these memos will include a table for each 
+indicator that details the following: 
+• The most recent date when the data for the indicator was released (See: Most Recent
+Release Date).
+• The month or timeframe that the most recent data released represents (See: Current Data
+Month).
+• If new data has not been released since the last memo, what version of the monthly memo
+you can find the most recent analysis (See: Latest Memo with Analysis); and
+• The date when the next data set is expected to be released (See: Next Release Date).
+
+ 
+ 
+Executive Summary:  
+The latest economic data for the Reno-Sparks Metropolitan Statistical Area (MSA) presents mixed 
+signals with many indicators showing modest growth amid elevated uncertainty. Listed below is a 
+summary of key highlights across the major segments we monitor relative to the Reno MSA:  
+ 
+Labor Market: 
+• November 2025 labor market data indicates the Reno MSA remains stable but points to a 
+slowing outlook into 2026, with modest job growth and a healthy unemployment rate, but 
+cooling hiring activity. 
+Tourism: 
+• November 2025 tourism data show mixed performance in the Reno MSA, with higher 
+visitor volumes, improved hotel occupancy, and increased gaming win compared to last 
+year, while lower room rates and seasonal factors continue to weigh on average daily 
+rates and month-to-month results. 
+Housing: 
+• December 2025 housing data shows the Reno MSA housing market continues to stabilize 
+during the slower winter season, with flat home values when compared to the same 
+month last year and longer selling times. 
+Consumer: 
+• December 2025 consumer data show consumer confidence index (CCI) weakened, with 
+the CCI dropping below last year. Concerns over household finances, jobs, and income 
+grew, despite the lowest inflation since 2021, indicating cautious consumer spending. 
+Economic Signals: 
+ 
+Upside Cushions   Downside Risks  
+• Housing Price Stability 
+• Decreasing Inflation 
+• Stable Labor Market 
+• Increasing Wages  
+• Low Housing Supply 
+• National Policy Uncertainty 
+• Shifting Trade Policy 
+• Federal Data Accuracy (Due the 
+government shutdown) 
+ 
+This Month’s Indicators: 
+Labor Market 
+Key indicators: unemployment, initial claims, job openings, and employment.  
+• November labor market data suggest the Reno MSA remains stable overall, though 
+forward-looking indicators point to a more mixed outlook. 
+• The Bureau of Labor Statistics (BLS) did not release data for October due to a lapse in 
+federal appropriations. Consequently, standard monthly comparisons have been adjusted 
+to reflect the period from September to November. 
+ 
+ 
+• Employment in the Reno MSA grew 0.3 percent over-the-year, adding about 800 jobs, 
+which is positive but falls at low end of the  growth range observed this year (0.2 percent 
+to 1.6 percent).  
+o The largest over -the-year job losses occurred in construction and trade, 
+transportation, and utilities. 
+o The sector with the largest job gain was the education and health and services 
+sector. 
+• The Reno MSA unemployment rate edged down to 4.2 percent from September to 
+November 2025 (not seasonally adjusted) and was 0.4 percentage points lower than 
+November 2024. 
+o The Reno MSA continues to post an unemployment rate consistent with a healthy 
+labor market. 
+o Nevada’s statewide unemployment rate declined to 5.2 percent in November 
+(seasonally adjusted), tying for the third -highest rate nationally (excluding 
+Washington, D.C.), alongside Oregon. 
+o California (5.5 percent) and New Jersey (5.4 percent) recorded the highest 
+unemployment rates this month. 
+o South Dakota (2.1 percent) had the lowest unemployment rate, followed by Hawaii 
+(2.2 percent) and North Dakota (2.6 percent). 
+o Nevada’s elevated statewide rate continues to be driven largely by the Las Vegas 
+MSA, which reported a 5.5 percent unemployment rate. 
+• In November 2025, Nevada reported 12,221 initial claims for unemployment insurance, a 
+3.6 percent increase from October and a 0.4 percent decrease compared to November 2024. 
+o Despite the increase, initial claims remain low by historical standards and are near 
+the 12-month average of 11,787. 
+o The Department of Employment, Training and Rehabilitation (DETR) did not 
+report any layoffs in this reporting period in Northen Nevada. 
+• The Job Openings and Labor Turnover Survey (JOLTS) provides key data (job openings, 
+quits, hires, and layoffs) on labor market supply and demand, offering valuable insight into 
+trends that influence wages and inflation. 
+o In October 2025, Nevada experienced a 6.8 percent over-the-month decline in job 
+openings and a 12.8 percent decline over-the-year, signaling a cooling in 
+employer hiring activity. 
+o Hiring declined both over-the-month and over-the-year, reinforcing this 
+slowdown. 
+o Quits and layoffs moved in opposite directions, a typical sign of softening labor 
+conditions: 
+▪ Quits declined 25.0 percent over-the-year. 
+▪ Layoffs increased 12.5 percent over-the-year. 
+o Overall, October JOLTS data indicate a labor market that remains stable but is 
+losing momentum. 
+Broader Implication to the City: 
+• Positive job growth signals expanding industries, increased business activity, a growing 
+labor market, and stronger consumer spending, which boosts City revenues through higher 
+sales taxes and business -related fees. A low unemployment rate and fewer initia l claims 
+ 
+ 
+indicate a healthy labor market, supporting household spending and sustaining local 
+revenue growth. 
+ 
+Indicator Source Most Recent 
+Release Date 
+Current 
+Data 
+Month 
+Latest 
+Memo with 
+Analysis 
+Next 
+Release 
+Date 
+Employment - Reno MSA BLS-
+CES 
+1/16/2026 Nov. 2025 This Memo 2/4/2026 
+Unemployment Rate - Reno 
+MSA 
+BLS-
+LAUS 
+1/16/2026 Nov. 2025 This Memo 2/4/2026 
+Initial Claims - Nevada DOL 1/1/2026 Nov. 2025 This Memo 2/1/2026 
+Job Openings - Nevada BLS-
+JOLTS 
+12/30/2025 Oct. 2025 This Memo 1/27/2026 
+Tourism 
+Key indicators: visitor volume, hotel occupancy rate, avg. daily room rate-hotels, and gaming win.  
+• Tourism activity in the Reno MSA showed mixed results  with key indicators posting 
+modest increases or declines compared to the same period last year. 
+• In November 2025, the Reno MSA welcomed 276,013 visitors, a n increase of 13,125 
+visitors from November 2024, or a 5.0 percent increase. 
+o Key events and activities that typically attract visitors during the month of 
+November include the opening of nearby ski resorts, Thanksgiving holiday travel, 
+and Wolf Pack football and basketball games. 
+• In November 2025, hotel occupancy rates increased to 55.2 percent, marking a 4.0 percent 
+uptick compared to November 2024. 
+• The average daily room rate s for hotels in October were $126.08 per night, down $4.69 
+over-the-year and down by $12.55 from August.  
+• Reno’s gaming win in November increased by $3.7 million (7.1 percent) compared to last 
+year but decrease d by $ 12.7 million ( -18.6 percent) from October in large part due to 
+seasonality fluctuations.  
+• Overall, the increase in visitor volume and gaming win this month may have been 
+supported by lower room rates. 
+ 
+Broader Implication to the City: 
+• Tourism drives local spending that directly supports City revenues through room, sales, 
+and property-related taxes, business license fees , and a variety of other fees the City 
+collects. Strong visitor activity benefits hotels, restaurants, and entertainment venues, 
+generating ripple effects across the local economy which helps sustain vital public services. 
+ 
+Indicator Source Most Recent 
+Release 
+Date 
+Current 
+Data 
+Month 
+Latest 
+Memo with 
+Analysis 
+ 
+Next Release 
+Date 
+Visitor V olume RSCV A 12/29/2025 Nov. 2025 This Memo 1/28/2026 
+Hotel Occupancy Rate RSCV A 12/29/2025 Nov. 2025 This Memo 1/28/2026 
+ 
+ 
+Avg. Daily Room Rate - Hotels RSCV A 12/29/2025 Nov. 2025 This Memo 1/28/2026 
+Gaming Win - Reno GCB 12/30/2025 Nov. 2025  This Memo 1/28/2026 
+Housing 
+Key indicators: avg. single-family home prices, median days on market, 30-day fixed mortgage 
+rates, and avg. apartment rent. 
+• This month’s Reno MSA housing data point to continued market stabilization consistent 
+with the slower winter season  but may also reflect underlying trends of slower migration 
+and persistently high mortgage rates. 
+• In December 2025, the average value of a single -family home reached $5 61,394 in the 
+Reno MSA, down 0.2 percent over-the-year, and up 0.3 percent over-the-month. 
+• In December, the median time for a single-family home in Reno to go under contract was 
+78 days, 7 days longer than last November and 5 days slower than the national average.  
+o This marks the ninth consecutive month that homes are taking longer to sell 
+compared to last year. 
+• As of the second week of January, the average 30-year fixed mortgage rate is 6.06 percent, 
+slightly lower than the previous month and down from 6.95 percent this time last year. 
+• The average rent for all apartment types in the Reno MSA is $1,745, reflecting a 6.5 percent 
+or $106 increase over-the-year. Rents have now increased for ten consecutive months. 
+ 
+Broader Implication to the City: 
+• The health of the housing market impacts construction activity and related revenues, such 
+as building permits and real property transfer taxes. Stable home values help maintain the 
+property tax base  to fund essential City services.  Rising rents and limited supply can 
+highlight ongoing affordability challenges that affect residents’ discretionary spending and 
+workforce housing needs. 
+ 
+Indicator Source Most 
+Recent 
+Release 
+Date 
+Current 
+Data 
+Month 
+Latest 
+Memo with 
+Analysis 
+Next 
+Release 
+Date 
+Avg. Single Family Home Prices Zillow 1/16/2025 Dec. 2025 This Memo 2/16/2026 
+Median Days on Market Realtor.com 1/8/2025 Dec. 2025 This Memo 2/8/2026 
+Avg. Apartment Rent Prices  Zillow 1/16/2025 Dec. 2025  This Memo 2/16/2026 
+30-Day Fixed Mortgage Rates Freddie Mac 1/15/2025 Dec. 2025 This Memo 2/6/2026 
+Consumer 
+Key indicators: Consumer Confidence Index (CCI), Washoe taxable sales, headline inflation, and 
+avg. weekly wages in the Reno MSA.  
+• CCI measures how optimistic or pessimistic consumers feel about the economy and their 
+personal finances based on surveys of current conditions and future expectations. A value 
+above 100 indicates greater consumer confidence compared to a baseline, while a value 
+below 100 reflects lower confidence and potential caution in spending. The index is 
+ 
+ 
+based on a five-question survey with two questions related to present conditions and three 
+questions related to future expectations. 
+o Despite an upward revision in November following the end of the government 
+shutdown, consumer confidence declined again in December and remained well 
+below its January peak.  
+o Four of the five components of the overall index decreased. 
+o Among the five components, measures related to the household finances 
+component experienced the sharpest declines, driving the overall decrease in 
+consumer confidence. 
+o In December 2025, the CCI was 89.1, marking a 20.4-point decline over-the-year 
+and a 3.8-point decrease from November.  
+o Overall, December’s CCI results indicate weakening consumer confidence, driven 
+by rising concerns about jobs, income, and broader economic uncertainty. 
+• Headline inflation dropped from 3 percent in September to 2.7 percent in December, 
+marking the lowest annual rate since March 2021. October and November 2025 data 
+values are not available due to the 2025 lapse in federal appropriations. 
+o U.S. inflation slowed more than expected in December, representing a notable 
+downside surprise that could influence near-term financial market conditions and 
+Federal Reserve policy expectations. 
+o While slower inflation is generally a good thing for the economy and the 2.7 
+percent reading is moving closer to the Fed's target of 2 percent, inflation could be 
+slowing because consumers are cutting back on spending. 
+ 
+Broader Implication to the City: 
+• Higher wages strengthen Reno’s economy by boosting consumer spending and increasing 
+sales tax revenues. Inflation is the rate at which prices for goods and services rise. 
+However, inflation erodes consumer purchasing power and increases production costs for 
+businesses. Unstable prices also greatly increase the uncertainty in forecasting City 
+revenues and optimizing expenditures. Together, wage growth, inflation, and consumer 
+spending shape overall consumer confidence, which directly influences the future 
+revenue outlook. 
+Indicator Source Most 
+Recent 
+Release 
+Date 
+Current 
+Data 
+Month 
+Latest 
+Memo with 
+Analysis 
+ 
+Next 
+Release 
+Date 
+Taxable Sales Taxation 12/1/2025 Sep. 2025 Dec. Memo 2/1/2026 
+Average Weekly Wages  BLS-QCEW 12/19/2025 2025:Q2 Dec. Memo 3/3/2026 
+Consumer Confidence 
+Index 
+Conference 
+Board 
+12/23/2025 Dec. 2025  This Memo 1/27/2026 
+Headline Inflation BLS-CPI 1/13/2026 Dec. 2025 This Memo 2/11/2026 
+Special Topic: The Six Months of Consolidated Tax: Part Six – Supplemental City-County 
+Relief Tax 
+ 
+ 
+• Over a six-month period, our special topic will cover one of the six revenue sources that 
+contribute to the consolidated tax, the City’s largest general fund revenue source.  
+• Starting next month, we will launch a series focused on the key variables that influence 
+sales tax performance, given that sales tax is a vital revenue source and the primary 
+contributor to the consolidated tax system. 
+• Consolidated tax, or C-Tax for short, consolidates six distinct taxes into a single revenue 
+pool. These funds are then distributed monthly to local governments and districts using a 
+two-step allocation formula. 
+• More information about C-Tax can be found at Reno.Gov/Ctax. 
+• The sixth source of revenue  we will discuss is the Supplemental City-County relief tax  
+(SCCRT). 
+What is the Supplemental City-County Relief Tax? 
+• The total sales tax rate in Washoe County is 8.265% of the sales price. 
+• Nevada’s SCCRT is one of two components of the total sales tax rate that flows into the C-
+Tax system for local governments. 
+• The tax is collected by the Department of Taxation monthly.   
+• SCCRT Tax Rate: $1.75 per $100 dollars of the sales price.  
+ 
+Revenue Destination Tax Rate Share 
+K-12 Education 3.140% 38% 
+State General Fund 2.000% 24% 
+C-Tax (SCCRT) 1.750% 21% 
+C-Tax (BCCRT) 0.500% 6% 
+All Other Uses 0.875% 11% 
+Total  8.265% 100% 
+ 
+History & Origins of the Tax: 
+• SCCRT was created as part of Nevada’s property tax “tax shift” in the late 1970s and early 
+1980s to offset revenue losses after the statutory property tax cap was reduced. 
+• The tax was intended to replace lost local government revenue by shifting reliance from 
+property tax to sales tax. 
+• Early distributions included guaranteed allocations to protect counties , particularly rural 
+counties, from sudden revenue declines. 
+ 
+Guaranteed vs. Nonguaranteed Counties: 
+• AB 104 (1991) and SB 506 (1993) formally established the guaranteed vs. nonguaranteed 
+county framework, effective FY 1993–94. 
+• Guaranteed counties receive a fixed annual SCCRT amount, adjusted only by: 
+o The lesser of county population + inflation growth, or 
+▪ Statewide SCCRT revenue growth. 
+ 
+ 
+▪ This structure insulates guaranteed counties from volatility, regardless of 
+their actual SCCRT collections. 
+ 
+Historical Evolution & Current Guaranteed Counties: 
+• In FY 1993–94, 10 counties were guaranteed. 
+• Over time, economic growth shifted counties to nonguaranteed status: 
+o Nye (FY 2006–07), Storey (FY 2015–16), Douglas & Lyon (FY 2022–23), White 
+Pine (FY 2024–25) 
+• As of FY 2024–25, five counties remain guaranteed: 
+o Esmeralda, Lander, Lincoln, Mineral, and Pershing 
+ 
+Why Counties Transition Out of Guaranteed Status: 
+• Under NRS 377.057, a guaranteed county must become nonguaranteed if its SCCRT 
+collections exceed its guaranteed amount by more than 10 percent in a fiscal year. 
+• A waiver may be granted by the Nevada Tax Commission for one -time economic events 
+(e.g., major mine construction). 
+• Over time, sustained economic growth typically results in a county losing guaranteed 
+status. 
+ 
+Distribution to Nonguaranteed Counties: 
+• After guaranteed counties receive their statutory share, all remaining SCCRT revenue is 
+distributed to nonguaranteed counties. 
+• Each nonguaranteed county’s share is based on its proportion of total SCCRT collections 
+among nonguaranteed counties. 
+ 
+Fiscal Significance: 
+• Of the six revenue sources that make up the C -Tax system, SCCRT is the  largest 
+contributor. 
+• In FY2025, $ 1.5 billion in SCCRT revenue was distributed to local governments, 
+representing 67.4 percent of the entire C-Tax distribution. 
+ 
+ 
+ 
+Tax Category FY25 Amount Share 
+Supplemental City-County Relief Tax $1,488.6 M 67.4% 
+Basic City-County Relief Tax $425.4 M 19.3% 
+Governmental Service Tax $231.7 M 10.5% 
+Real Property Transfer Tax $52.9 M 2.4% 
+Cigarette Tax $7.0 M 0.3% 
+Liquor Tax $3.7 0.2% 
+Total  $2,209.5 M 100% 
+ 
+The table and tree chart above show the total amount of C-Tax distributed statewide by tax type to 
+all local governments, towns, special districts, and enterprise districts. The table below shows the 
+C-Tax received by all local entities within Washoe County in FY2025 . Of the $2,209.5 million 
+received statewide, the Washoe County region received  $320.9 million . Of the $320.9 million  
+received within Washoe County, Reno received $98.8 million.  
+Washoe County FY25 Total C-Tax Distributions: 
+Entity FY25 Share 
+Washoe County (Entity) $162.9 M 50.8% 
+City of Reno $98.8 M 30.8% 
+City of Sparks $39.8 M 12.4% 
+Truckee Meadows Fire Protection $11.7 M 3.6% 
+
+ 
+ 
+North Lake Tahoe Fire Protection $4.7 M 1.5% 
+Incline Village GID $1.8 M 0.6% 
+Palomino Valley GID $0.6 M 0.2% 
+Carson-Truckee Water Conservancy $0.3 M 0.1% 
+Sun Valley Water & Sanitation GID $0.1 M <0.1% 
+Verdi T.V . GID $0.1 M <0.1% 
+Total $320.9 M 100% 
+ 

@@ -1,0 +1,62 @@
+{
+  "global_id": "MAR-005",
+  "month": "MAR",
+  "memo_id": 5,
+  "date_published": "2026-03-11",
+  "title": "Enterprise Resource Planning Software (ERP) Current State",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95567/639088395198430000",
+  "doc_id": "95567",
+  "resolved_text": "Memorandum\nDATE: March 11, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Monica Kirch, Interim Human Resources Director\nMark Stone, Payroll Manager\nDEPT: City Manager's Office\nSUBJECT: Enterprise Resource Planning Software (ERP) Current State\n\nThe City currently relies on Tyler Technologies' New World Enterprise Resource Planning (ERP) system to manage critical administrative functions, including accounting, financial reporting, payroll, budgeting, and human resource management. Tyler Technologies' New World ERP system ensures continuity of data, regulatory compliance, and operational efficiency across departments.\n\nHowever, Tyler Technologies has announced that Tyler Technologies' New World ERP system will soon reach end-of-life, after which Tyler Technologies' New World ERP system will no longer be supported. While an exact date has not been provided, the discontinuation of support poses a significant risk to the City's ability to maintain compliance, process payroll accurately, and manage financial operations effectively. If the City waits until the sunset date is confirmed, there will be insufficient time to evaluate, select, and implement a replacement system without disrupting essential services.\n\nCurrent Pain Points and Operational Risk:\nTyler Technologies' New World ERP system presents material challenges which require manual workarounds and increase the likelihood of errors:\n\n\u2022 FLSA Overtime Premium Adjustments: Tyler Technologies' New World ERP system's overtime premium calculation is incorrect and convoluted, forcing the payroll team to manually recalculate to ensure compliance when bonuses, commissions, or incentives coincide with overtime. These manual recalculations increase the risk of under/overpayments and legal exposure.\n\n\u2022 Contractual Pay Changes: Percentage based payments (e.g., Reno Police Supervisory/Administrative Employees (RPSAE) additional insurance and Reno Police Protective Association (RPPA) Other Post Employment Benefits (OPEB) contributions) require manual adjustment; there is no configurable logic in Tyler Technologies' New World ERP system for semiannual, date-based payments (e.g., uniform allowances).\n\n\u2022 Fire Shift Trades: Tyler Technologies' New World ERP system lacks a clean method to record shift trades. Current processes rely on bank hour deductions without pay, but confusion over codes has led to inaccurate payments, impacting payroll accuracy and employee trust.\n\n\u2022 Compliance and Continuity: At end-of-life, the absence of Tyler Technologies vendor support heightens the risk of catastrophic outage, audit findings, and emergency procurement at premium cost.\n\n\u2022 Budgeting and costing: Although Tyler Technologies' New World ERP system contains a budget module, the budget module is not robust enough for the complexity of the City's budget, especially in having the ability to assist with costing for labor negotiations or provide a public facing digital budget book. The budget module's limitations require the City to purchase additional software in order to support the City's budget.\n\n\u2022 Financial Reporting: Similar to the budget module, the main financial platform of Tyler Technologies' New World ERP system does not provide the City with the ability to effectively report the Annual Comprehensive Financial Report, thus requiring the City to acquire additional software to complete the required annual financial reporting.\n\n\u2022 Human resources and personnel management: The Tyler Technologies' New World ERP system module for managing the City's workforce is severely lacking compared to modern ERP systems; the Tyler Technologies' New World ERP system module causes a great deal of duplicative work, especially for onboarding of new employees and maintaining employee information post termination/retirement, and requires the usage of additional software to complete essential functions related to recruitment and employee performance reviews.\n\nRisks of Inaction\nFailure to act promptly will expose the City to:\n\n\u2022 Regulatory Compliance Risks: Inability to produce accurate financial and payroll reports required by law.\n\u2022 Operational Disruptions: Increased reliance on manual processes, creating inefficiencies and potential for catastrophic system outages.\n\u2022 Payroll Errors: Tyler Technologies' New World ERP system limitations already require manual recalculations for Fair Labor Standards Act (FLSA) overtime adjustments and other complex pay scenarios. These errors could result in employee dissatisfaction and legal exposure.\n\u2022 Financial Impact: Manual workarounds increase labor costs and reduce productivity, while system failure could lead to emergency procurement.\n\nCore Components of an ERP System\nA modern ERP solution is not just a payroll system. A modern ERP solution is a comprehensive platform that unifies multiple critical functions:\n\n1. Accounting & Budget Management\na. Accounts payable/receivable\nb. Bank reconciliation\nc. Budget tracking and financial forecasting\nd. Contracts and purchase order management\n\n2. Financial Reporting\na. Financial statements\nb. Performance reports\nc. Expense-to-budget actuals and projections\n\n3. Human Resources & Payroll Management\na. Employee compensation, deductions, and benefits administration\nb. Performance management\nc. Talent management and recruitment\n\n4. Data Warehouse\na. Record maintenance of employees, transactions and other pertinent data\nb. Enables strategic decision making from reporting\nc. Real-time operational data\n\n5. Asset Inventory & Management\na. Integrated management of City-owned assets and intangible property\nb. Tracking of current inventory for accountability and planning\n\n6. Business Intelligence\na. Actionable insights from operational data\nb. Improved organizational efficiency\nc. Enhanced forecasting and planning capabilities\n\nBenefits of a Modern ERP Solution\nA next-generation ERP system will:\n\n\u2022 Integrate Core Functions: Accounting, budgeting, payroll, HR, and asset management in one platform.\n\u2022 Enhance Financial Oversight: Real-time operational data, automated bank reconciliation, and accurate forecasting.\n\u2022 Improve Workforce Management: Streamlined payroll, benefits administration, performance tracking, and talent management.\n\u2022 Enable Strategic Decision-Making: Business intelligence tools for actionable insights and improved forecasting.\n\u2022 Ensure Asset Accountability: Centralized tracking of City-owned assets and inventory.\n\nPayroll Software & ERP Systems \u2013 Key Differences\nPayroll software is designed to calculate pay, taxes, and direct deposits, and payroll software is best for organizations that simply need to run payroll reliably. Payroll software is typically lower cost and straightforward for core payroll tasks, but payroll software has limitations because payroll software does not integrate budgeting, HR, finance, asset management, or broader reporting. As a result, data often has to be manually moved into other systems, and more complex pay rules can be difficult to configure.\n\nAn ERP system, by contrast, unifies payroll, HR, finance, budgeting, asset management, and reporting in a single platform, making an ERP system a better fit for cities and larger organizations that need accurate, shared data and automation across departments. While ERP systems require higher upfront cost and more implementation effort, ERP systems provide centralized data, real-time reporting, configurable pay rules, stronger compliance controls, and workflow automation that reduce manual work and errors, ultimately supporting long-term efficiency, risk reduction, and better decision-making.\n\nNext Steps\nNext steps are to authorize budget allocation to support procurement, implementation, and training so the City can execute a planned, seamless transition. Delaying action will materially increase both risk and cost, so moving forward now will protect compliance, maintain operational continuity, and position the City for long-term efficiency and fiscal sustainability.\n\nERP\nENTERPRISE RESOURCE PLANNING SOFTWARE\n01\nAccounting/Budget Management\n\u2022 Accounts Payable/Receivable\n\u2022 Bank Reconciliation\n\u2022 Contracts/Purchase Orders\n\u2022 Budget tracking and financial forecasting\n\n02\nFinancial Reporting\n\u2022 Financial Statements\n\u2022 Performance Reports\n\u2022 Expense to budget actuals and projections.\n\nHuman Resources/Payroll Management\n03\n\u2022 Manages employee compensation, deductions and benefits administration\n\u2022 Performance management\n\u2022 Talent management and recruitment.\n\nData Warehouse\n04\n\u2022 Record maintenance of employees, transactions and other pertinent data\n\u2022 Enables strategic decision making from reporting\n\u2022 Real-time operational data\n\nAsset Inventory/Management\n05\n\u2022 Integrated management of City owned assets and intangible property\n\u2022 Tracking of current city inventory\n\nBusiness Intelligence\n06\n\u2022 Utilizes operational data to inform actionable insight\n\u2022 Improves organization efficiency\n\u2022 Improves forecasting",
+  "fields": {
+    "department": "City Manager's Office",
+    "authors": "Monica Kirch, Interim Human Resources Director; Mark Stone, Payroll Manager",
+    "category": "Technology & Infrastructure",
+    "subcategory": "Enterprise Resource Planning / Administrative Systems",
+    "tldr": "The City of Reno's current ERP system, Tyler Technologies' New World, is approaching end-of-life and will no longer be supported, creating significant compliance, payroll, and operational risks. The system already requires extensive manual workarounds for FLSA overtime, contractual pay changes, fire shift trades, budgeting, financial reporting, and HR management. Staff recommends proactive action to evaluate and procure a modern ERP replacement before the sunset date is confirmed. Council is asked to authorize budget allocation for procurement, implementation, and training.",
+    "key_stats": "Six major operational pain points identified: FLSA overtime miscalculations, contractual pay manual adjustments, fire shift trade recording errors, inadequate budget module, insufficient financial reporting capability, and deficient HR/personnel management module. No exact end-of-life date has been provided by Tyler Technologies.",
+    "key_decisions": "Council is asked to authorize budget allocation to support procurement, implementation, and training for a replacement ERP system to ensure a planned, seamless transition before the current system reaches end-of-life.",
+    "action_items": "Authorize budget allocation for ERP procurement, implementation, and training; initiate evaluation and selection process for a modern ERP replacement system before Tyler Technologies' New World reaches its sunset date.",
+    "keywords": [
+      "ERP",
+      "Enterprise Resource Planning",
+      "Tyler Technologies",
+      "New World",
+      "end-of-life",
+      "payroll",
+      "FLSA",
+      "human resources",
+      "financial reporting",
+      "budgeting",
+      "procurement",
+      "compliance",
+      "asset management",
+      "business intelligence",
+      "data warehouse",
+      "RPSAE",
+      "RPPA",
+      "OPEB",
+      "fire shift trades",
+      "Annual Comprehensive Financial Report"
+    ],
+    "entities": {
+      "departments": [
+        "City Manager's Office",
+        "Human Resources",
+        "Payroll"
+      ],
+      "projects": [
+        "Tyler Technologies New World ERP system",
+        "ERP replacement/procurement initiative"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "March 11, 2026"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Monica Kirch, Interim Human Resources Director",
+        "Mark Stone, Payroll Manager"
+      ]
+    }
+  }
+}

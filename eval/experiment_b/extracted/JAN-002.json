@@ -1,0 +1,69 @@
+{
+  "global_id": "JAN-002",
+  "month": "JAN",
+  "memo_id": 2,
+  "date_published": "2026-01-11",
+  "title": "Parking Program Updates - December 2025",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000",
+  "doc_id": "95256",
+  "resolved_text": "Memorandum\nDATE: January 11, 2026\nTO: Mayor and Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Ashley D. Turney, Assistant City Manager\nDEPT: City Manager's Office\nSUBJECT: Parking Program Updates \u2013 December 2025\n\nThis memo shall serve to update Council on the Parking Program since the last memo to Council, dated December 18, 2025.\n\nRevenue Updates:\nOn June 20, 2025, the City of Reno reinstated access to the Nevada Department of Motor Vehicle's registered owner data after nearly 10 months, enabling Parking Program staff to obtain addresses for unpaid parking citations.\n\nParking Revenue and tickets paid to date are as follows:\n\u2022 June 20-June 30, 2025: 490 parking tickets paid totaling $15,611.39 in fines and fees.\n\u2022 July 1-July 31, 2025: 3,972 parking tickets paid totaling $120,735.94 in fines and fees.\n\u2022 August 1-August 31, 2025: 4,436 parking tickets paid totaling $128,398.64 in fines and fees.\n\u2022 September 1-September 30, 2025: 2,488 parking tickets paid totaling $100,946.34 in fines and fees.\n\u2022 October 1-October 31, 2025: 1,844 parking tickets paid totaling $65,130.45 in fines and fees.\n\u2022 November 1-November 30, 2025: 1,165 parking tickets paid totaling $43,736.32 in fines and fees.\n\u2022 December 1-December 31, 2025: 1,260 parking tickets paid totaling $55,975.81 in fines and fees.\n\u2022 The total amount collected since reinstating access to the Nevada Department of Motor Vehicle's registered owner data is: $530,534.89.\n\nParking Program staff will continue to monitor revenue collections on a weekly basis, and unpaid citations may be sent to collections if payments are not remanded.\n\nSoftware Updates:\nParking Program staff continued working closely with the contracted software vendor, AIMs, and have successfully transitioned from an on-site system (housed on the City of Reno's own servers) to a cloud-hosted system. This transition allows for AIMs software to run on secure, professionally managed servers off-site. Parking Program staff expects this transition to improve reliability, reduce maintenance needs, and allow AIMs to apply updates and fixes more efficiently.\n\nNow that the transition to a cloud-hosted system is completed, the final setup work for DMV holds can move forward. Currently, AIMS is waiting for the Department of Public Safety at the state level to process the request.\n\nIPS Meter Status\nAt the November 19, 2025 City Council meeting, Council approved an agreement with IPS Group (the City of Reno's current single space meter vendor) for gateway merchant fees, and parking meter maintenance parts for a one-year term, with the option to renew up to four additional years in an amount not to exceed $200,000. IPS Group also agreed to send technician support to assist with replacing solar panels and batteries for the single space meters. IPS Group technician support began the week of January 5, 2026. Additional updates on the progress of IPS Group technician support will be provided in next month's memo.",
+  "fields": {
+    "department": "City Manager's Office",
+    "authors": "Ashley D. Turney, Assistant City Manager",
+    "category": "Operations",
+    "subcategory": "Parking Program",
+    "tldr": "This memo updates the Mayor and Council on the Parking Program as of December 2025. Since reinstating access to Nevada DMV registered owner data on June 20, 2025, the City has collected $530,534.89 in parking fines and fees. The Parking Program has also completed a transition from an on-site to a cloud-hosted software system with vendor AIMs, and IPS Group technician support for single space meter maintenance began the week of January 5, 2026.",
+    "key_stats": "Total collected since June 20, 2025 DMV data reinstatement: $530,534.89 across 15,655 parking tickets paid. Monthly breakdown: June 20\u201330 ($15,611.39, 490 tickets), July ($120,735.94, 3,972 tickets), August ($128,398.64, 4,436 tickets), September ($100,946.34, 2,488 tickets), October ($65,130.45, 1,844 tickets), November ($43,736.32, 1,165 tickets), December ($55,975.81, 1,260 tickets). IPS Group agreement approved November 19, 2025, not to exceed $200,000 for one year with up to four renewal options.",
+    "key_decisions": "Council approved an agreement with IPS Group on November 19, 2025 for gateway merchant fees and parking meter maintenance parts, not to exceed $200,000 for a one-year term with up to four additional renewal years.",
+    "action_items": "Parking Program staff to continue monitoring revenue collections weekly and may send unpaid citations to collections. AIMs is awaiting the Department of Public Safety at the state level to process the request to finalize DMV holds setup. Updates on IPS Group technician support progress to be provided in next month's memo.",
+    "keywords": [
+      "parking program",
+      "parking revenue",
+      "DMV data",
+      "unpaid citations",
+      "cloud-hosted system",
+      "AIMs",
+      "IPS Group",
+      "single space meters",
+      "solar panels",
+      "parking tickets",
+      "collections",
+      "DMV holds"
+    ],
+    "entities": {
+      "departments": [
+        "City Manager's Office",
+        "Nevada Department of Motor Vehicles",
+        "Department of Public Safety (state level)"
+      ],
+      "projects": [
+        "Parking Program",
+        "AIMs cloud-hosted system transition",
+        "DMV holds setup",
+        "IPS Group technician support for single space meters"
+      ],
+      "dollar_amounts": [
+        "$15,611.39 (June 20\u201330, 2025)",
+        "$120,735.94 (July 2025)",
+        "$128,398.64 (August 2025)",
+        "$100,946.34 (September 2025)",
+        "$65,130.45 (October 2025)",
+        "$43,736.32 (November 2025)",
+        "$55,975.81 (December 2025)",
+        "$530,534.89 (total collected since June 20, 2025)",
+        "$200,000 (not to exceed amount for IPS Group agreement)"
+      ],
+      "dates": [
+        "January 11, 2026 (memo date)",
+        "December 18, 2025 (previous memo to Council)",
+        "June 20, 2025 (DMV data access reinstated)",
+        "November 19, 2025 (City Council meeting approving IPS Group agreement)",
+        "Week of January 5, 2026 (IPS Group technician support began)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Ashley D. Turney, Assistant City Manager"
+      ]
+    }
+  }
+}

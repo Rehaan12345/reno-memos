@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Database (rebuild with: python ingest.py)
+reno.db
+
+# Source workbook is large binary input data
+CityThread_Q1_2026_Master.xlsx
+
+# Frontend
+web/node_modules/
+web/dist/
+
+# OS
+.DS_Store
+
+.env

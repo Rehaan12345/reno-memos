@@ -1,0 +1,58 @@
+{
+  "global_id": "APR-012",
+  "month": "APR",
+  "memo_id": 12,
+  "date_published": "2026-04-21",
+  "title": "Sewer Connection Fee Sufficiency Analysis",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95756/639123702521170000",
+  "doc_id": "95756",
+  "resolved_text": "Memorandum\nDATE: April 21, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: John Flansberg, Regional Infrastructure Administrator\nKayla Garcia, Senior Management Analyst\nDEPT: Regional Infrastructure\nSUBJECT: Sewer Connection Fee Sufficiency Analysis\nThe Sewer Connection Fee Sufficiency Analysis has been completed with the resulting recommendation that the current connection fees are sufficient for the three sewer service areas Truckee Meadows Water Reclamation Facility (TMWRF), Truckee Meadows Water Reclamation Facility (TMWRF) + Verdi, and Reno Stead Water Reclamation Facility (RSWRF) and no additional increases outside of annual Consumer Price Index (CPI) adjustments for inflation are recommended at this time.\n\nSewer connection fees are calculated based on the cost of past and future capital improvements to the sewer collection system and treatment plants divided by the remaining sewer capacity available in equivalent dwelling units (single-family home). Currently, a single-family home consumes an average capacity of 165 gallons per day. The Sewer Connection Fee Sufficiency Analysis utilizes a minimum planning horizon of 20 years.\n\nTruckee Meadows Water Reclamation Facility (TMWRF):\n\u2022 Reno Existing Capacity = 25.1 million gallons per day (MGD)\n\u2022 Reno Total Utilized Capacity = 19.0 MGD\n\u2022 Reno Remaining Capacity = 6.1 MGD; equivalent of 36,970 homes\n\u2022 Historical growth (TMWRF): 1,200 homes per year; sewer capacity = +/- 30 years.\n\nReno-Stead Water Reclamation Facility (RSWRF):\n\u2022 Existing Capacity = 4.0 MGD (after completion of Advanced Purified Water Facility (APWF))\n\u2022 Total Utilized Capacity = 2.1 MGD\n\u2022 Remaining Capacity = 1.9 MGD; equivalent of 11,515 homes\n\u2022 Historical growth (RSWRF): 380 homes per year; sewer capacity = +/- 30 years.\n\nIn prior connection fee models, the RSWRF sewershed area had planned for growth up to 6 MGD. Based on the historical growth over the past 6 years of approximately 380 homes per year, it is reasonable to assume that 4 MGD RSWRF sewer capacity will meet the City of Reno's 20-year need. This change removed a significant amount of costs related to expansion projects to expand RSWRF from 4 MGD to 6 MGD in the later years of the 20-year model.\n\nThe model also had the Advanced Purified Water Facility (APWF) project costs allocated at a 50/50 cost share between user fees and connection fees. This cost share was used based on the perspective of treatment capacity at RSWRF (water-in) with the RSWRF capacity increasing from 2 MGD to 4 MGD. Upon further review and adjusting costs based on the perspective of \"water out\", the new connections will receive a larger benefit because a portion of the existing effluent flows out of RSWRF go to irrigation of Sierra Sage Golf Course, North Valleys Sports Complex, and Mayors Park as well as non-potable construction water which are all costs the current users pay. The existing users primarily benefit from APWF during the late fall through early spring when water currently flows to Swan Lake. APWF will now take those flows and treat those flows to drinking water standards for injection into the American Flat aquifer reducing the discharge into Swan Lake. For these reasons, the cost share allocation of APWF was changed to 30% user fee / 70% connection fee to equitably reflect the benefit of APWF to the new connections.\n\nRegional Infrastructure staff will be reaching out to industry groups to share the results of the Sewer Connection Fee Sufficiency Analysis including The Builders Association and Associated General Contractors. Regional Infrastructure staff will collect feedback regarding growth projections and sewer financial modeling and then inform Council about any concerns that arise.",
+  "fields": {
+    "department": "Regional Infrastructure",
+    "authors": "John Flansberg, Regional Infrastructure Administrator; Kayla Garcia, Senior Management Analyst",
+    "category": "Infrastructure",
+    "subcategory": "Sewer/Wastewater Utilities",
+    "tldr": "The Sewer Connection Fee Sufficiency Analysis concludes that current sewer connection fees are sufficient across all three service areas and no fee increases beyond annual CPI adjustments are recommended. Both TMWRF and RSWRF have approximately 30 years of remaining sewer capacity at historical growth rates. A key modeling change reduced RSWRF's planned expansion from 6 MGD to 4 MGD, removing significant future capital costs. The cost allocation for the Advanced Purified Water Facility was also revised from a 50/50 split to 30% user fees / 70% connection fees to better reflect benefits to new connections.",
+    "key_stats": "TMWRF: 25.1 MGD existing capacity, 19.0 MGD utilized, 6.1 MGD remaining (~36,970 homes, ~30 years at 1,200 homes/year). RSWRF: 4.0 MGD existing capacity (post-APWF), 2.1 MGD utilized, 1.9 MGD remaining (~11,515 homes, ~30 years at 380 homes/year). Single-family home average consumption: 165 gallons per day. Planning horizon: minimum 20 years.",
+    "key_decisions": "1) No sewer connection fee increases recommended beyond annual CPI adjustments. 2) RSWRF growth planning ceiling reduced from 6 MGD to 4 MGD, eliminating expansion project costs from the 20-year model. 3) APWF cost allocation revised from 50% user fee / 50% connection fee to 30% user fee / 70% connection fee based on benefit analysis favoring new connections.",
+    "action_items": "Regional Infrastructure staff will reach out to The Builders Association and Associated General Contractors to share analysis results, collect feedback on growth projections and sewer financial modeling, and report any concerns to City Council.",
+    "keywords": [
+      "sewer connection fees",
+      "sufficiency analysis",
+      "TMWRF",
+      "RSWRF",
+      "Advanced Purified Water Facility",
+      "APWF",
+      "CPI adjustment",
+      "wastewater capacity",
+      "equivalent dwelling units",
+      "cost allocation",
+      "user fees",
+      "growth projections",
+      "Swan Lake",
+      "American Flat aquifer"
+    ],
+    "entities": {
+      "departments": [
+        "Regional Infrastructure"
+      ],
+      "projects": [
+        "Sewer Connection Fee Sufficiency Analysis",
+        "Advanced Purified Water Facility (APWF)",
+        "Truckee Meadows Water Reclamation Facility (TMWRF)",
+        "Reno Stead Water Reclamation Facility (RSWRF)"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "April 21, 2026 (memo date)",
+        "20-year planning horizon (minimum)",
+        "Past 6 years (historical RSWRF growth reference period)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "John Flansberg, Regional Infrastructure Administrator",
+        "Kayla Garcia, Senior Management Analyst"
+      ]
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "global_id": "JAN-010",
+  "month": "JAN",
+  "memo_id": 10,
+  "date_published": "2026-01-22",
+  "title": "Approved Position Update",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95296/639046886640970000",
+  "doc_id": "95296",
+  "resolved_text": "Memorandum\nDATE: January 22, 2026\nTO: Mayor and Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Lynsey Hatfield, Budget Manager\nDEPT: Finance\nSUBJECT: Approved Position Update\nThis memo provides an update on current vacant positions and the City of Reno's process for determining whether and when vacancies are filled. Positions are measured in \"Full Time Equivalent\" (FTE), where one FTE equates to one full-time position. For Fiscal Year 2026 (FY26), the City of Reno adopted 1,528.25 FTE's and Redevelopment Agency (RDA) 10.25 FTE's for a combined FTE count of 1,538.50.\n\nApproved positions are reviewed annually during the budget adoption process. The authorized positions by function can be found in the Fiscal Year 2026 Annual Budget Book \u2013 Personnel Changes. Any increase to the City of Reno's overall approved FTE count is brought forward to Mayor and Council for review and approval quarterly through the budget augmentation process. Vacancies occur regularly throughout the fiscal year and fluctuate over time, particularly as Public Safety departments align hiring with academy schedules.\n\nThroughout the fiscal year, as vacancies arise, departments evaluate each department's current staffing levels to determine the necessity of filling the vacancy. If a department identifies a position as critical, the department must submit a request for review through the City Manager's Office (CMO). The review process involves several key steps. First, the CMO assesses the operational need, followed by Human Resources evaluating the appropriateness of the classification for the position, if changes are recommended to the classification, the classification is reviewed by Civil Service and presented to the Civil Service Commission for recommendation, and finally, the Finance Department calculates cost recovery timelines and verifies there is sufficient funding available. When representatives from the CMO, Human Resources, and the Finance Department agree on a recommendation, the recommendation is provided to Jackie Bryant, City Manager, who makes the final determination on whether to proceed with the recruitment process.\n\nThe City of Reno regularly experiences vacancies throughout the fiscal year. Vacancy numbers fluctuate, especially as Public Safety departments prepare for training academies. Table 1 summarizes current vacancies, as of December 15, 2025. Table 1 includes twenty (20) positions that were frozen and unfunded at FY26 budget adoption, eight (8) positions frozen with the reduction in force (RIF), twenty-six (26) actively in recruitment, forty-four (44) currently vacant, and twelve (12) Police and Fire positions awaiting the next academy.\n\nTable 1 \u2013 Vacant positions as of December 15, 2025\n\nPosition Status | General Fund | Building Fund | Fleet Fund | Grant Funds | Sewer Fund | Street Fund | RDA | Grand Total\nFrozen/Unfunded at adoption | 17.95 | 1.00 | | | 0.40 | 0.40 | | 19.75\nRIF | 5.80 | 2.20 | | | | | | 8.00\nIn Recruitment | 14.00 | | | 1.00 | 7.00 | 4.00 | | 26.00\nVacant (other) | 23.55 | 7.50 | 1.00 | 1.00 | 4.10 | 4.85 | 2.00 | 44.00\nVacant (Public Safety pending academy) | 12.00 | | | | | | | 12.00\nGrand Total | 73.30 | 10.70 | 1.00 | 2.00 | 11.50 | 9.25 | 2.00 | 109.75",
+  "fields": {
+    "department": "Finance",
+    "authors": "Lynsey Hatfield, Budget Manager",
+    "category": "Human Resources / Workforce",
+    "subcategory": "Position Vacancies and Staffing",
+    "tldr": "This memo updates the Mayor and Council on the City of Reno's current vacant positions as of December 15, 2025, and explains the process for determining whether and when vacancies are filled. The City has adopted 1,538.50 combined FTEs for FY26. As of the reporting date, 109.75 FTE positions are vacant across various statuses, including frozen/unfunded, RIF-related, actively recruiting, and pending academy. Departments must submit critical vacancy requests through the City Manager's Office, which coordinates review with Human Resources and Finance before the City Manager makes a final determination.",
+    "key_stats": "FY26 adopted FTEs: 1,528.25 (City of Reno) + 10.25 (RDA) = 1,538.50 combined. Total vacant positions as of December 15, 2025: 109.75 FTE. Breakdown: 19.75 frozen/unfunded at adoption, 8.00 frozen via RIF, 26.00 in active recruitment, 44.00 otherwise vacant, 12.00 Public Safety positions pending next academy.",
+    "key_decisions": "The City Manager (Jackie Bryant) makes the final determination on whether to proceed with recruitment for any identified critical vacancy. Any increase to the overall approved FTE count requires Mayor and Council review and approval through the quarterly budget augmentation process.",
+    "action_items": "No specific action items are requested of the Mayor and Council in this memo; it is provided as an informational update on current vacancies and the vacancy review process.",
+    "keywords": [
+      "vacant positions",
+      "FTE",
+      "Full Time Equivalent",
+      "budget",
+      "FY26",
+      "staffing",
+      "recruitment",
+      "frozen positions",
+      "reduction in force",
+      "RIF",
+      "Public Safety",
+      "academy",
+      "City Manager",
+      "Human Resources",
+      "Finance",
+      "Civil Service",
+      "Redevelopment Agency",
+      "RDA",
+      "General Fund"
+    ],
+    "entities": {
+      "departments": [
+        "Finance Department",
+        "City Manager's Office (CMO)",
+        "Human Resources",
+        "Civil Service Commission",
+        "Public Safety departments",
+        "Redevelopment Agency (RDA)"
+      ],
+      "projects": [
+        "Fiscal Year 2026 Annual Budget Book \u2013 Personnel Changes",
+        "Budget augmentation process"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "January 22, 2026 (memo date)",
+        "December 15, 2025 (vacancy data as-of date)",
+        "Fiscal Year 2026 (FY26)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Lynsey Hatfield, Budget Manager"
+      ]
+    }
+  }
+}

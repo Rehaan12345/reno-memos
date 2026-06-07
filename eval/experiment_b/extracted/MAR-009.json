@@ -1,0 +1,64 @@
+{
+  "global_id": "MAR-009",
+  "month": "MAR",
+  "memo_id": 9,
+  "date_published": "2026-03-17",
+  "title": "Monthly Hexagon Update - March 2026",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95591/639093387398700000",
+  "doc_id": "95591",
+  "resolved_text": "Memorandum\nDATE: March 17, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Cody Shadle, Director of Public Safety Dispatch\nDEPT: Public Safety Dispatch\nSUBJECT: Monthly Hexagon Update: March 2026\nStaff is pleased to provide the March 2026 monthly update on the Regional Hexagon Computer\u2011Aided Dispatch/Records Management System (CAD/RMS) Modernization Project. This update supports the Council's ongoing oversight of major public safety technology improvements and provides transparent insight into Regional Hexagon CAD/RMS Modernization Project status, risk areas, and upcoming deliverables.\nProject Purpose\nThe Hexagon CAD/RMS modernization replaces aging systems that no longer meet modern operational, reporting, and interoperability needs for law enforcement, fire, EMS, and regional partners. The Regional Hexagon CAD/RMS Modernization Project aims to improve call\u2011processing efficiency, enhance responder safety, support unified regional reporting, and strengthen long\u2011term scalability and data quality.\nCurrent Progress\n\u2022 The majority of blocker defects have been resolved with support from the on\u2011site Hexagon strike team.\n\u2022 Functional acceptance testing is underway, including end\u2011to\u2011end testing with custom interfaces (Jail, Citations, Accident Reports).\n\u2022 GIS layers, AVL feeds, and radio/telephony interface readiness continue to be refined.\n\u2022 MFR configuration has been finalized and MFR configuration has achieved product readiness.\nTicket Resolution\n\n\u2022 Initial priority tickets: 73\n\u2022 Currently open: 11\no 6 of the 11 open tickets are blocker defects.\no Of the 6 blockers, 4 patches are pending or already installed, and the remaining items are under review by Hexagon developers and agency staff.\n\u2022 Ticket resolution remains on track.\nGo\u2011Live Plan\nThe Regional Hexagon CAD/RMS Modernization Project remains on schedule for late summer/early fall cutover. The following activities support go\u2011live readiness:\n\u2022 Mandatory user training prior to cutover.\n\u2022 24/7 on\u2011site support at all locations during the transition.\n\u2022 Final validation of interfaces, GIS layers, and radio/telephony connectivity.\n\u2022 Data migration and freeze date will be finalized as part of cutover preparation.\nRisks & Mitigation\nActive risk areas include:\n\u2022 Staff availability for testing and training.\n\u2022 Data quality during migration cycles.\n\u2022 Multi\u2011agency alignment on interface\u2011dependent workflows.\n\u2022 Vendor dependencies for interface and RMS configuration completion.\n\u2022 All risks remain actively managed and are not expected to impact the current timeline.\nUpcoming Deliverables\n\u2022 Completion of remaining CAD/RMS testing cycles.\n\u2022 Release of the first dispatcher and field user training curriculum.\n\u2022 Integrated end\u2011to\u2011end system testing and performance load testing.\n\u2022 Final cutover/go\u2011live readiness package and regional communications materials.\nExpected Organizational Value\nThe modernized Hexagon CAD/RMS system will provide:\n\u2022 Faster, more reliable 9\u20111\u20111 response capabilities.\n\u2022 Enhanced operational awareness and responder safety.\n\u2022 Improved regional reporting accuracy and transparency.\n\u2022 A modern, scalable platform capable of supporting long\u2011term public safety needs.\n\nAttachment\n\u2022 Monthly Hexagon CAD/RMS Update \u2013 March 2026 (Full Report)\nExecutive Project Update Summary: Hexagon CAD/RMS Implementation\nProject Purpose / Problem Statement\nThe Hexagon CAD/RMS project addresses aging public safety technology that no longer meets modern operational, reporting, and interoperability needs. The new Hexagon CAD/RMS platform aims to improve call processing speed, enhance responder safety, strengthen data quality, and provide the regional capability required to support future population growth and multi-agency coordination.\nObjectives & Goals\n\u2022 Modernize CAD and RMS systems to improve reliability and response efficiency.\n\u2022 Establish unified data standards and reporting for law, fire, and EMS partners.\n\u2022 Improve situational awareness through enhanced GIS, unit status monitoring, and integrated field mobility tools.\n\u2022 Reduce administrative workload with automated workflows and streamlined case/incident documentation.\n\u2022 Support long term scalability, cybersecurity requirements, and regional interoperability.\nProgress Overview (Last Month / This Month / Next Month)\nLast Month (February 2026):\n\u2022 Ticket Resolution was the main focus with continued onsite support from the Hexagon team working side by side with the agency core teams closing the majority of the blocker defects.\n\u2022 Finalized several core CAD workflow configurations.\n\u2022 Concluded RMS module reviews with agency stakeholders.\n\u2022 Resolved key functionality issues with reporting and GIS.\n\u2022 Finalized MFR Configuration and achieved product readiness.\nThis Month (March 2026):\n\u2022 Refining GIS layers, AVL feeds, and radio/telephony interface readiness.\n\u2022 Functional Acceptance Testing and subsequent issues resolution for priority issues discovered in the Functional Acceptance Testing phase.\n\u2022 Delivering and testing custom interfaces for the Jail, Citations and Accident Reports.\n\u2022 Work on RMS configuration based on interface-dependent workflows.\nNext Month (April 2026):\n\u2022 Continued issues resolution, achieve product readiness.\n\u2022 Complete RMS configuration based on interface-dependent workflows.\n\u2022 Update and release the first draft of the training curriculum for dispatch and field users.\n\u2022 Prepare integrated end-to-end system tests to include custom interfaces.\n\u2022 Perform performance load testing.\n\nExpected Deliverables (Upcoming):\n\u2022 Completion of remaining CAD/RMS testing cycles.\n\u2022 Deployment of dispatcher and first responder training.\n\u2022 Final cutover/go-live readiness package.\n\u2022 Regional communication and onboarding materials.\nResources & Timeline\nThe Regional Hexagon CAD/RMS Modernization Project continues to track within approved staffing and resource allocations. Subject matter experts from dispatch, IT, law enforcement, and fire agencies remain engaged in testing, data validation, and workflow design.\nTimeline Overview:\n\nOutline of Recent Changes\n\u2022 Adjusted workflow mapping based on dispatcher feedback.\n\u2022 Updated and reconfigured Geolocators to improve address accuracy.\n\u2022 Added interface refinements for field mobility and reporting.\n\u2022 Minor timeline adjustments for testing alignment; no impact to go-live.\nTicket Trends\n\u2022 Priority tickets continue to be resolved at an acceptable pace with blocker defects as the main focus.\n\u2022 The Hexagon strike team started with 73 open priority tickets. Currently there are 11 open, 6 of which are blockers. Of the 6 blockers, 4 have patches pending or installed. The remainder are being evaluated and addressed by Hexagon development as well as agency resources (in cases where the issue is an agency responsibility).\n\nCutover / Go-Live Plan\nThe go-live approach is phased to ensure stability and minimize operational risk.\n\u2022 Finalize data migration and freeze date.\n\u2022 Conduct mandatory user training prior to cutover.\n\u2022 Perform round-the-clock command center support during transition.\n\u2022 Validate all interfaces, radio/telephony connectivity, and GIS layers ahead of live deployment.\n\nRisk Management & Value\nTop Risks (actively mitigated):\n\u2022 Staff availability for testing and training.\n\u2022 Data quality during migration cycles.\n\u2022 Multi-agency readiness and operational alignment.\n\u2022 Vendor dependency on interface and RMS configuration completion.\nExpected Organizational Value:\n73\n24\n33\n9\n1\n8 11\n24 27 29\n18\n13 15\n0\n10\n20\n30\n40\n50\n60\n70\n80Value\nCategory\nOpen vs Closed\nTotal Opened\nTotal Closed\n\u2022 Faster, more accurate 9-1-1 response capabilities.\n\u2022 Enhanced operational awareness and responder safety.\n\u2022 Regional data sharing, reporting accuracy, and transparency improvements.\n\u2022 Modern Hexagon CAD/RMS platform supporting long-term growth and evolving public safety needs.",
+  "fields": {
+    "department": "Public Safety Dispatch",
+    "authors": "Cody Shadle, Director of Public Safety Dispatch",
+    "category": "Public Safety",
+    "subcategory": "Technology / Computer-Aided Dispatch & Records Management",
+    "tldr": "The City of Reno's Public Safety Dispatch department provides the March 2026 monthly status update on the Regional Hexagon CAD/RMS Modernization Project, which is replacing aging dispatch and records systems for law enforcement, fire, EMS, and regional partners. Of the original 73 priority tickets, only 11 remain open (6 of which are blocker defects), and functional acceptance testing is actively underway. The project remains on schedule for a late summer/early fall go-live, with mandatory user training, 24/7 transition support, and final interface validation planned ahead of cutover.",
+    "key_stats": "73 initial priority tickets; 11 currently open; 6 of 11 open tickets are blocker defects; 4 of 6 blockers have patches pending or installed; go-live target is late summer/early fall 2026.",
+    "key_decisions": "No formal Council decisions requested in this memo; the update is provided for ongoing oversight and transparency. Minor timeline adjustments for testing alignment were made with no impact to the go-live date.",
+    "action_items": "Upcoming deliverables include: completion of remaining CAD/RMS testing cycles; release of first dispatcher and field user training curriculum (April 2026); integrated end-to-end and performance load testing; finalization of data migration and freeze date; and preparation of the final cutover/go-live readiness package and regional communications materials.",
+    "keywords": [
+      "CAD/RMS",
+      "Computer-Aided Dispatch",
+      "Records Management System",
+      "Hexagon",
+      "public safety technology",
+      "modernization",
+      "go-live",
+      "functional acceptance testing",
+      "GIS",
+      "AVL",
+      "radio/telephony",
+      "MFR configuration",
+      "data migration",
+      "blocker defects",
+      "dispatcher training",
+      "9-1-1",
+      "regional interoperability",
+      "law enforcement",
+      "fire",
+      "EMS"
+    ],
+    "entities": {
+      "departments": [
+        "Public Safety Dispatch",
+        "City Manager's Office"
+      ],
+      "projects": [
+        "Regional Hexagon CAD/RMS Modernization Project",
+        "Hexagon Computer-Aided Dispatch/Records Management System (CAD/RMS) Modernization Project"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "March 17, 2026 (memo date)",
+        "February 2026 (last month reporting period)",
+        "March 2026 (current reporting period)",
+        "April 2026 (next month / upcoming deliverables)",
+        "Late summer/early fall 2026 (go-live target)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Cody Shadle, Director of Public Safety Dispatch"
+      ]
+    }
+  }
+}

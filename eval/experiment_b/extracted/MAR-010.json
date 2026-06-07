@@ -1,0 +1,58 @@
+{
+  "global_id": "MAR-010",
+  "month": "MAR",
+  "memo_id": 10,
+  "date_published": "2026-03-17",
+  "title": "Park Partners Pilot Program at Oxbow and Summit Ridge Park",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95593/639093386927330000",
+  "doc_id": "95593",
+  "resolved_text": "Memorandum\nDATE: March 17, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Nathan Ullyot, Director\nRiplee Foli, Office Assistant II\nMatt Brezina, Parks Manager\nDEPT: Parks and Recreation\nSUBJECT: Park Partners Pilot Program at Oxbow and Summit Ridge Park\n\nPurpose\nThis memo outlines a new community engagement pilot program that will be launched at Oxbow Nature Study and Summit Ridge Park in April called the Park Partners program. The purpose of the Park Partners program is to create a safe and easy way to encourage community members to report safety concerns or maintenance issues community members find while visiting Oxbow Nature Study and Summit Ridge Park. After initial engagement Parks and Recreation staff will seek to connect volunteers with more intentional involvement that will support efficiencies and free up Parks and Recreation staff bandwidth for more critical and technical maintenance tasks.\n\nInitial Steps\nThe Park Partners program is expected to roll out in early April 2026 with a brief media event put on by the Communications Department and installation of signs at Oxbow Nature Study and Summit Ridge Park. Signs will be installed in March and will include examples of incidents to report along with the correct phone numbers connecting the citizen to the appropriate City of Reno (City) department. Additionally, a QR code on the sign will send the reporting party directly to Reno Direct for notification and future tracking purposes.\n\nConcerned citizens that show a pattern of reporting may be contacted by Parks and Recreation staff and invited to participate in a volunteer program that will further engage concerned citizens in the care and upkeep of Oxbow Nature Study and Summit Ridge Park. Engagement tools to be presented to the volunteers may include City labeled safety vests, litter collection tools, and gloves.\n\nThe pilot program at Oxbow Nature Study and Summit Ridge Park will run through December 2026, upon which Parks and Recreation staff will evaluate the quantity of service requests reported to the Parks Department, along with the quantity of dedicated volunteers that took part in the Park Partners program. Quarterly updates will be presented to Reno City Council.\n\nFuture Opportunities\nShould the Park Partners program prove successful, Parks and Recreation staff will expand the Park Partners program to other highly visited parks, such as Teglia's Paradise Park and Virginia Lake Park. The Park Partners program will be identified on the City website with detailed instructions of how and where to participate. Depending on participation, Parks and Recreation Staff and Park Rangers may create community engagement workshops to show community members what issues to look for and how to report to the correct department.\n\nFor volunteers who desire to be engaged at a deeper level, volunteer processing will allow volunteers to support Parks and Recreation staff by opening, closing and stocking public restrooms. Along with direct reporting to park maintenance staff and Park Rangers.\n\nSignage",
+  "fields": {
+    "department": "Parks and Recreation",
+    "authors": "Nathan Ullyot (Director), Riplee Foli (Office Assistant II), Matt Brezina (Parks Manager)",
+    "category": "Parks and Recreation",
+    "subcategory": "Community Engagement / Volunteer Programs",
+    "tldr": "The Parks and Recreation Department is launching the Park Partners pilot program at Oxbow Nature Study and Summit Ridge Park in April 2026. The program creates a structured way for community members to report safety concerns and maintenance issues via signage, phone numbers, and a QR code linked to Reno Direct. Active reporters may be invited to volunteer for hands-on park upkeep tasks. The pilot runs through December 2026, with quarterly updates to City Council and potential expansion to other parks if successful.",
+    "key_stats": "Pilot runs April\u2013December 2026 at 2 parks (Oxbow Nature Study and Summit Ridge Park); quarterly updates to City Council; potential future expansion to Teglia's Paradise Park and Virginia Lake Park.",
+    "key_decisions": "Approval/awareness of the Park Partners pilot program launch at Oxbow Nature Study and Summit Ridge Park; program evaluation criteria include quantity of service requests reported and number of dedicated volunteers.",
+    "action_items": "Install signs at Oxbow Nature Study and Summit Ridge Park in March 2026; hold media event with Communications Department in early April 2026; track reports via Reno Direct; provide quarterly updates to City Council; evaluate program in December 2026; expand to additional parks if successful.",
+    "keywords": [
+      "Park Partners",
+      "pilot program",
+      "community engagement",
+      "volunteers",
+      "Oxbow Nature Study",
+      "Summit Ridge Park",
+      "Reno Direct",
+      "park maintenance",
+      "signage",
+      "Park Rangers",
+      "Virginia Lake Park",
+      "Teglia's Paradise Park"
+    ],
+    "entities": {
+      "departments": [
+        "Parks and Recreation",
+        "Communications Department",
+        "Reno Direct"
+      ],
+      "projects": [
+        "Park Partners Pilot Program",
+        "Park Partners program"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "March 17, 2026 (memo date)",
+        "March 2026 (sign installation)",
+        "April 2026 (program launch / media event)",
+        "December 2026 (pilot program end / evaluation)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Nathan Ullyot, Director (Parks and Recreation)",
+        "Riplee Foli, Office Assistant II (Parks and Recreation)",
+        "Matt Brezina, Parks Manager"
+      ]
+    }
+  }
+}

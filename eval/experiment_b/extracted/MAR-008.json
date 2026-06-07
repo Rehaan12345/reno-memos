@@ -1,0 +1,62 @@
+{
+  "global_id": "MAR-008",
+  "month": "MAR",
+  "memo_id": 8,
+  "date_published": "2026-03-17",
+  "title": "LDC26-00033 (Trego Grid Battery Energy Storage System)",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95589/639093388066770000",
+  "doc_id": "95589",
+  "resolved_text": "Memorandum\nDATE: March 17, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Chris Pingree, Director of Development Services\nDEPT: Development Services Department\nSUBJECT: LDC26-00033 (Trego Grid Battery Energy Storage System)\n\nThe purpose of this memo is to provide a status update on the Trego Grid Battery Energy Storage System (case # LDC26-00033). The Planning Commission reviewed and unanimously approved the conditional use permit (CUP) request on March 4, 2026. The CUP allows the establishment of a new 200 MW lithium-ion Battery Energy Storage System (BESS) with a supporting substation and 120 kV connection to the abutting NV Energy Mira Loma substation. The Trego Grid Battery Energy Storage System facility will utilize existing energy on the grid to charge batteries during low peak demands and provide energy during high peak demands, serving as a peaking power plant to provide system stability to the overall grid. The Trego Grid Battery Energy Storage System consists of 256 Tesla Megapack Units across 16-unit pods, which are stepped up the hillside to reduce grading and lesson visual impact.\n\nA determination of appropriate compatibility with adjacent residential land uses (Talus Valley East residential subdivision) was made by the Planning Commission. Specifically evaluated were concerns regarding fire safety, noise, operations, decommissioning, feral horse management, screening, site design, and comments provided by the Ward 3 Neighborhood Advisory Board (NAB). The Reno Fire Marshal, John Beck, provided a memo outlining no concerns with the Trego Grid Battery Energy Storage System project as conditioned. John Beck was in attendance at the Planning Commission and answered numerous questions from the Commissioners regarding public safety concerns.\n\nFollowing Planning Commission approval, the Trego Grid Battery Energy Storage System application will be reviewed by the Regional Planning Commission for Regional Plan conformance. As the Trego Grid Battery Energy Storage System facility is abutting the existing Mira Loma substation, the Trego Grid Battery Energy Storage System facility is considered an expansion of existing transmission infrastructure. A corresponding application for annexation of the Trego Grid Battery Energy Storage System site is scheduled for Council review on April 22, 2026. Annexation of the Trego Grid Battery Energy Storage System site would ensure that the associated tax revenue is allocated to the City of Reno and that City of Reno services are provided. The Fiscal Impact Analysis estimates general fund revenue of $4.2 million dollars and street fund revenue of $1.3 million dollars over a 20-year period.",
+  "fields": {
+    "department": "Development Services Department",
+    "authors": "Chris Pingree, Director of Development Services",
+    "category": "Land Use & Development",
+    "subcategory": "Conditional Use Permit / Energy Infrastructure",
+    "tldr": "The Planning Commission unanimously approved a conditional use permit on March 4, 2026 for the Trego Grid Battery Energy Storage System, a 200 MW lithium-ion facility consisting of 256 Tesla Megapack Units. The facility will connect to NV Energy's Mira Loma substation and serve as a peaking power plant for grid stability. An annexation application is scheduled for Council review on April 22, 2026, which would direct associated tax revenues to the City of Reno. Over a 20-year period, the project is estimated to generate $4.2 million in general fund revenue and $1.3 million in street fund revenue.",
+    "key_stats": "200 MW lithium-ion BESS; 256 Tesla Megapack Units across 16-unit pods; 120 kV grid connection; $4.2 million estimated general fund revenue over 20 years; $1.3 million estimated street fund revenue over 20 years",
+    "key_decisions": "Planning Commission unanimously approved the CUP on March 4, 2026; Council to review annexation application on April 22, 2026; Regional Planning Commission review for Regional Plan conformance pending",
+    "action_items": "Regional Planning Commission to review application for Regional Plan conformance; City Council to review annexation application on April 22, 2026",
+    "keywords": [
+      "Battery Energy Storage System",
+      "BESS",
+      "conditional use permit",
+      "lithium-ion",
+      "Tesla Megapack",
+      "NV Energy",
+      "Mira Loma substation",
+      "annexation",
+      "peaking power plant",
+      "grid stability",
+      "fiscal impact",
+      "Planning Commission",
+      "Ward 3",
+      "Trego Grid"
+    ],
+    "entities": {
+      "departments": [
+        "Development Services Department",
+        "Regional Planning Commission",
+        "Reno Fire Marshal"
+      ],
+      "projects": [
+        "Trego Grid Battery Energy Storage System (LDC26-00033)",
+        "Talus Valley East residential subdivision",
+        "NV Energy Mira Loma substation"
+      ],
+      "dollar_amounts": [
+        "$4.2 million general fund revenue over 20-year period",
+        "$1.3 million street fund revenue over 20-year period"
+      ],
+      "dates": [
+        "March 4, 2026 \u2013 Planning Commission approval of CUP",
+        "March 17, 2026 \u2013 Memo date",
+        "April 22, 2026 \u2013 Council review of annexation application"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Chris Pingree, Director of Development Services",
+        "John Beck, Reno Fire Marshal"
+      ]
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "run_id": "P05__A-research__2026-06-07T21-47-33Z",
+  "prompt_id": "P05",
+  "system_id": "A-research",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:47:33.199203+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:8c83b92ba0df0cdf",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## What the Homelessness and Outreach Data Actually Shows \u2014 and Where It Contradicts Itself\n\nThe memos, taken together, reveal a program that is generating more activity over time but whose core outputs \u2014 housing placements \u2014 are volatile and, in the most recent month, sharply declining. Several specific tensions emerge.\n\n---\n\n### Tension 1: Enforcement is rising faster than outreach, and outreach is shrinking\n\nAcross the four monthly Clean & Safe reports (December through March), the ratio of enforcement actions to outreach interactions is moving in a troubling direction:\n\n| Month | Outreach Interactions | Citations | Arrests | Housing Placements |\n|---|---|---|---|---|\n| December 2025 | 69 | 201 | 127 | 9 (FEB-008) |\n| January 2026 | 25 | 151 | 73 | 6 (MAR-004) |\n| February 2026 | 55 | 91 | 80 | 11 (APR-002) |\n| March 2026 | 41 | 176 | 96 | 4 (APR-014) |\n\nOutreach interactions dropped from 69 in December to 25 in January, recovered partially to 55 in February, then fell again to 41 in March. Meanwhile, arrests hit their highest point of the tracked period in March at 96 (APR-014). The memos do not explain why outreach volume is declining even as enforcement volume is rising \u2014 that gap is unaddressed.\n\n---\n\n### Tension 2: The best housing month coincided with rising visible homelessness\n\nFebruary 2026 produced the highest housing placement count of the tracked period \u2014 11 arrangements \u2014 which the memo itself flags as \"highest of the year so far\" (APR-002). But that same month, camping in city parks was up **113% from January** (APR-002). The memos offer no explanation for how both can be true simultaneously. Either the visible population is growing faster than placements can absorb, or enforcement displacement is shifting people into parks rather than off the streets entirely. The memos do not resolve this.\n\n---\n\n### Tension 3: March's numbers are the starkest contradiction in the dataset\n\nMarch is the worst housing month in the tracked period \u2014 only **4 placements** \u2014 yet it is simultaneously the month with:\n- The **highest arrest count** (96, APR-014)\n- The **highest citation count** (176, APR-014)\n- The **highest service request volume** (351, APR-014)\n- The **most City Walk operations** of any month (17, APR-015)\n- The **most Park/River Ranger site visits** (872, APR-014)\n\nMore enforcement, more walks, more ranger visits, and more community complaints \u2014 but the fewest people housed. The memos present these figures without acknowledging the contradiction.\n\nThe one positive note the March memo highlights \u2014 a 4-year case resolved with a permanent supportive housing move-in on March 27 (APR-014) \u2014 is a single individual and does not offset the overall decline.\n\n---\n\n### Tension 4: Service requests keep rising regardless of enforcement intensity\n\nService requests have climbed from 270 in December (FEB-008) to 325 in January (MAR-004) to 323 in February (APR-002) to 351 in March (APR-014). Occupied vehicle nuisance requests specifically rose 29% from December to January (MAR-004) and another 35% from February to March (APR-014). The memos suggest the community is reporting *more* visible homelessness over time, not less \u2014 even during months of high enforcement activity.\n\n---\n\n### Tension 5: City Walk contact counts are inconsistent with Clean & Safe outreach trends\n\nCity Walk contacts rose from 36 in January (MAR-003) to 74 in February (MAR-018) to 94 in March (APR-015) \u2014 a clear upward trend. But Clean & Safe outreach interactions moved in the opposite direction over the same period (55 in February, 41 in March). The memos treat these as separate programs and do not reconcile whether they are reaching the same people, different populations, or whether one is substituting for the other.\n\n---\n\n### What the memos do not tell us\n\n- The memos do not report what happens to people after arrest or citation \u2014 whether enforcement leads to any durable change in their situation.\n- The PIT Count was conducted January 29 (MAR-004) but no results appear in any subsequent memo, so there is no baseline population figure to evaluate whether the overall numbers are improving.\n- Housing \"arrangements\" and \"transitional housing\" placements are not consistently defined across memos, making month-to-month comparison uncertain.\n\n---\n\n### Bottom line\n\nThe memos suggest a program that is becoming more enforcement-heavy and less housing-productive over the most recent months, while visible homelessness indicators (service requests, park camping, occupied vehicles) continue to rise. The February spike in housing placements (APR-002) looks like an outlier rather than a trend. Whether the approach is \"working\" depends on what the goal is \u2014 but if the goal is reducing visible homelessness and increasing stable housing, the trajectory through March 2026 does not support an optimistic reading.",
+    "cited_sources": [
+      {
+        "memo_id": "APR-002",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-014",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639124654440770000"
+      },
+      {
+        "memo_id": "APR-015",
+        "title": "City Walk Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95760/639124654437600000"
+      },
+      {
+        "memo_id": "FEB-008",
+        "title": "December 2025 Clean & Safe Team Homeless Actions & Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95463/639064819937100000"
+      },
+      {
+        "memo_id": "FEB-009",
+        "title": "December 2025 City Walk Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95461/639064260517970000"
+      },
+      {
+        "memo_id": "MAR-003",
+        "title": "January 2026 City Walk Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95552/639083214420930000"
+      },
+      {
+        "memo_id": "MAR-004",
+        "title": "January 2026 Clean & Safe Team Homeless Actions & Outcomes",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95554/639083214266900000"
+      },
+      {
+        "memo_id": "MAR-018",
+        "title": "City Walk Outcomes \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95611/639104841446370000"
+      }
+    ],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "APR-002",
+      "APR-014",
+      "APR-015",
+      "FEB-008",
+      "FEB-009",
+      "MAR-003",
+      "MAR-004",
+      "MAR-018"
+    ]
+  },
+  "error": null
+}

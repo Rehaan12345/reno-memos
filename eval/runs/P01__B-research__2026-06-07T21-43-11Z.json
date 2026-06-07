@@ -1,0 +1,944 @@
+{
+  "run_id": "P01__B-research__2026-06-07T21-43-11Z",
+  "prompt_id": "P01",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:43:11.458685+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Parking Revenue Recovery: Current Status and Primary Blocker\n\n### Where Things Stand\n\nThe memos paint a clear upward trajectory that has since plateaued at a lower monthly run rate. After DMV registered-owner data access was restored on June 20, 2025, collections surged \u2014 July and August 2025 each brought in over $120,000 (JAN-002). By the end of December 2025, the program had collected $530,534.89 across 15,655 tickets (JAN-002). January 2026 added $48,746.21 (FEB-018), and February 2026 added $54,058.75 (APR-005), bringing the cumulative total to **$633,339.85 across 18,156 tickets** as of the April 2026 memo (APR-005).\n\nHowever, the monthly collection rate has dropped sharply from its summer 2025 peak \u2014 from roughly $120,000\u2013$128,000/month in July\u2013August 2025 down to $43,000\u2013$55,000/month by late 2025 and early 2026 (JAN-002, FEB-018, APR-005). The memos do not explicitly explain this decline, but it is consistent with the initial backlog of easily-resolved tickets being worked through.\n\nAdjudication is also reducing balances significantly: in January and February 2026 combined, original violation balances of roughly $20,355 were reduced to about $9,358 \u2014 a 54\u201355% reduction (APR-005, FEB-018). This means the program is collecting less per ticket than face value.\n\n---\n\n### The Single Biggest Blocker: Nevada DMV Holds\n\nAcross **three consecutive memos** (JAN-002, FEB-018, APR-005), the same obstacle appears word-for-word: **Nevada DMV holds cannot be activated because the Nevada Department of Public Safety has not yet processed the request at the state level.**\n\n- JAN-002 (December 2025 update): \"AIMs is awaiting the Department of Public Safety at the state level to process the request to finalize DMV holds setup.\"\n- FEB-018 (January 2026 update): \"AIMS awaiting Department of Public Safety approval for Nevada DMV holds.\"\n- APR-005 (February 2026 update): \"Nevada DMV holds remain pending state-level action from the Nevada Department of Public Safety.\"\n\nThis matters enormously because DMV holds \u2014 which prevent vehicle registration renewal until fines are paid \u2014 are one of the most effective enforcement levers available. The City has no control over this; it is entirely dependent on a state agency acting. The memos suggest no timeline has been given and no escalation path is described.\n\nA secondary (and solvable) issue is California out-of-state notifications: the software vendor AIMS has quoted a cost for mailing notices to California-registered owners, and staff say they will review that quote before proceeding (APR-005, FEB-018). But this is a decision the City can make on its own, unlike the DMV holds situation.\n\n---\n\n### Bottom Line\n\nThe memos suggest the program has recovered over $633,000 since mid-2025 (APR-005), but monthly collections have fallen well below their early peak. The one thing the City cannot work around on its own \u2014 and which has been unresolved for at least four months across three memo cycles \u2014 is the **Nevada Department of Public Safety's failure to finalize the DMV holds setup** (JAN-002, FEB-018, APR-005). Until that is resolved, the program lacks its most powerful tool for compelling payment from non-compliant vehicle owners.",
+    "cited_sources": [
+      {
+        "memo_id": "APR-005",
+        "title": "Parking Program Updates \u2013 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "FEB-018",
+        "title": "Parking Program Updates - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000"
+      },
+      {
+        "memo_id": "JAN-002",
+        "title": "Parking Program Updates - December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000"
+      },
+      {
+        "memo_id": "MAR-014",
+        "title": "2026 Waste Management Rate Increase Notice",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95601/639093344890300000"
+      },
+      {
+        "memo_id": "FEB-001",
+        "title": "Regional Fee Schedule Comparison",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95340/639058843242300000"
+      },
+      {
+        "memo_id": "MAR-024",
+        "title": "Monthly Economic Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000"
+      },
+      {
+        "memo_id": "APR-012",
+        "title": "Sewer Connection Fee Sufficiency Analysis",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95756/639123702521170000"
+      },
+      {
+        "memo_id": "FEB-012",
+        "title": "Quarterly Financial Report \u2013 December 31, 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95492/639070216121470000"
+      },
+      {
+        "memo_id": "FEB-006",
+        "title": "FY 2026 Federal Appropriations for the City of Reno",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95460/639064260237100000"
+      },
+      {
+        "memo_id": "JAN-014",
+        "title": "Monthly Economic Update - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000"
+      },
+      {
+        "memo_id": "MAR-001",
+        "title": "Monthly Economic Update - February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95542/639081516545570000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Police Department",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001",
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005",
+            "APR-012",
+            "FEB-001",
+            "FEB-006",
+            "FEB-012",
+            "FEB-018",
+            "JAN-002",
+            "JAN-014",
+            "MAR-001",
+            "MAR-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Public Safety (state level)",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada Department of Motor Vehicles",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "AIMS Cloud-Hosted System Transition",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "IPS Group Meter Maintenance",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada DMV Holds Setup",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Parking Program Updates",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Ashley Turney, Assistant City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001",
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Lynsey Hatfield, Budget Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Public Works",
+          "type": "departments",
+          "memo_ids": [
+            "APR-012",
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Bureau of Labor Statistics (BLS)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Department of Employment, Training and Rehabilitation (DETR)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012",
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Gaming Control Board",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Tax Commission",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Office of Policy and Strategy",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-006",
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "U.S. Department of Labor (DOL)",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "C-Tax (Consolidated Tax) series",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Monthly Economic Update",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Sales Tax Performance series (upcoming)",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "The Six Months of Consolidated Tax: Part Six \u2013 Supplemental City-County Relief Tax",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-014"
+          ]
+        },
+        {
+          "name": "Calli Wilsey, Director of Policy and Strategy",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006",
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Jason Gortari, Urban Economist",
+          "type": "people",
+          "memo_ids": [
+            "JAN-014",
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Business License",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Development Services",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Maintenance and Operations",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Utility Services",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Building",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Reno Fire Department \u2013 Fire Prevention Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Reno Municipal Court",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-001",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Special Events",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "FY2025/26 Regional Fee Schedule Comparison",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "FY2026/27 Budget Cycle",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-001"
+          ]
+        },
+        {
+          "name": "Matt Taylor, Assistant Finance Director",
+          "type": "people",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "City of Reno",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "City of Sparks",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Regional Transportation Commission",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Evelyn Mount Northeast Community Center \u2013 Wellness Remodel",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Marsh Avenue and Sharon Way Neighborhood Street Rehabilitation",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Reno Police Department \u2013 Real Time Information Center (RTIC)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Truckee Meadows Water Reclamation Facility (TMWRF)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-012",
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Congressman Mark Amodei",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Nic Ciccone, Government Affairs Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "President Donald Trump",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006",
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Senator Catherine Cortez Masto",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "Senator Jacky Rosen",
+          "type": "people",
+          "memo_ids": [
+            "FEB-006"
+          ]
+        },
+        {
+          "name": "John Flansberg, Regional Infrastructure Administrator",
+          "type": "people",
+          "memo_ids": [
+            "APR-012"
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "2025-26 Quarterly Financial Report \u2013 2nd Quarter Ending December 31, 2025",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Reno Tahoe Airport fire personnel regionalization",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Suzanne Groneman, Environmental Services Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "California DMV",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "AIMS Expanded Reporting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Nevada DMV Registered Owner Data Access",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Clark County Department of Aviation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Federal Aviation Administration",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Reno\u2013Tahoe Airport Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "U.S. Department of Transportation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Modernize Your Nevada Tax (MYNT)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-001",
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: Deplaned Passengers and Taxable Sales in Reno and Las Vegas",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Stevie Scott (Intern)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-001"
+          ]
+        },
+        {
+          "name": "Environmental Services",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "April Puhaida (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Jonathan Crabtree (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Jorge Ballesteros (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Kendra Kostelecky, Waste Management",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Maria Davis (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Sean Banks (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "2026 Waste Management Rate Increase",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "City of Reno Residential Rates Effective 4/1/2026",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Ali Heinle (CC)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-014"
+          ]
+        },
+        {
+          "name": "Reno-Sparks Convention and Visitors Authority",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Conference Board",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "BLS Quarterly Census of Employment and Wages (QCEW)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Consumer Price Index for All Urban Consumers (CPI-U) West Region",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Special Topic: When Wages Outpace Inflation",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Worker Adjustment and Retraining Notification (WARN)",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-024"
+          ]
+        },
+        {
+          "name": "Nevada Department of Public Safety",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "California Mail Notifications for Unpaid Parking Citations",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "Advanced Purified Water Facility (APWF)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-012"
+          ]
+        },
+        {
+          "name": "Reno Stead Water Reclamation Facility (RSWRF)",
+          "type": "projects",
+          "memo_ids": [
+            "APR-012"
+          ]
+        },
+        {
+          "name": "Sewer Connection Fee Sufficiency Analysis",
+          "type": "projects",
+          "memo_ids": [
+            "APR-012"
+          ]
+        },
+        {
+          "name": "Kayla Garcia, Senior Management Analyst",
+          "type": "people",
+          "memo_ids": [
+            "APR-012"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): AIMS Expanded Reporting, IPS Group Meter Maintenance, Nevada DMV Holds Setup, Nevada DMV Registered Owner Data Access, Parking Program Updates"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-018, 2026-02-24) is the January 2026 parking program update whose decisions and pending actions\u2014Nevada DMV holds awaiting DPS approval, IPS meter battery/solar replacements targeted by end of February, weekly revenue monitoring, and AIMS expanded reporting\u2014are directly carried forward an"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, January 2026) is an earlier status update on the Parking Program establishing ongoing actions\u2014DMV holds setup, IPS technician support, weekly revenue monitoring\u2014that Memo B (APR-005, April 2026) directly continues and reports progress on, making A's decisions and actions the logical"
+        },
+        {
+          "source_id": "FEB-006",
+          "target_id": "APR-012",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Truckee Meadows Water Reclamation Facility (TMWRF)"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, 2026-01-11) is the December 2025 Parking Program update and explicitly states that IPS Group technician support began the week of January 5, 2026 and that DMV holds setup was pending, with updates to be provided in next month's memo. Memo B (FEB-018, 2026-02-24) is the January 2026 "
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-001",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-014, 2026-01-29) is the January 2026 monthly economic update and explicitly states that the Office of Policy and Strategy 'will launch a new series next month focused on key variables influencing sales tax performance.' Memo B (MAR-001, 2026-03-03) is the February 2026 monthly economic u"
+        },
+        {
+          "source_id": "JAN-014",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Modernize Your Nevada Tax (MYNT), Monthly Economic Update"
+        },
+        {
+          "source_id": "MAR-001",
+          "target_id": "MAR-024",
+          "rel_type": "precedes",
+          "evidence": "MAR-001 (2026-03-03) is the February 2026 monthly economic update and MAR-024 (2026-03-27) is the March 2026 monthly economic update, both produced by the Office of Policy and Strategy as part of the same recurring series; MAR-001 temporally and logically precedes MAR-024 in that series, and the ong"
+        }
+      ],
+      "fields": {
+        "APR-005": {
+          "title": "Parking Program Updates \u2013 February 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "The City of Reno's Parking Program update for February 2026 reports $633,339.85 in total parking fines and fees collected since DMV registered owner data access was reinstated on June 20, 2025. Adjudication activity in January and February 2026 reduced original violation balances by roughly 55\u201360%. Software vendor AIMS is pursuing California mail notifications and awaiting state action on Nevada DMV holds. IPS technicians are ongoing in replacing solar panels and batteries on single-space meters, with all critical issues expected resolved by end of March 2026.",
+          "key_stats": "Total collected since June 20, 2025: $633,339.85 across 18,156 tickets paid. February 2026: 1,206 tickets paid, $54,058.75 collected. January 2026 adjudications: 89 cases, original balance $8,914.00 reduced to $3,545.00. February 2026 adjudications: 119 cases, original balance $11,441.00 reduced to $5,813.00.",
+          "key_decisions": "Staff will continue monitoring revenue collections weekly and may send unpaid citations to collections. Staff will review AIMS quote for California mail notifications before proceeding. Nevada DMV holds remain pending state-level action from the Nevada Department of Public Safety.",
+          "action_items": "1. Monitor parking revenue collections weekly. 2. Review AIMS quote for California registered owner mail notifications and determine next steps. 3. Await Nevada Department of Public Safety action to complete DMV holds setup. 4. Work with AIMS to develop expanded reports with additional metrics for future memos. 5. Ensure IPS resolves all battery-critical meter issues by end of March 2026."
+        },
+        "FEB-018": {
+          "title": "Parking Program Updates - January 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "This memo updates the Mayor and Council on the City of Reno Parking Program as of January 2026. Since regaining access to Nevada DMV registered owner data on June 20, 2025, the City has collected $579,281.10 in parking fines and fees. New access to California DMV data has been established, Nevada DMV holds setup is in progress, and IPS Group technicians are actively replacing solar panels and batteries on single-space meters with resolution expected by end of February 2026.",
+          "key_stats": "15,655 tickets paid ($530,534.89) from June 20\u2013Dec 31, 2025; 1,295 tickets paid ($48,746.21) in January 2026; total collected: $579,281.10. January 2026 adjudications: 89 cases, original violation balance $8,914.00 reduced to $3,545.00 after adjudication.",
+          "key_decisions": "Council previously approved (November 19, 2025) an agreement with IPS Group for gateway merchant fees and meter maintenance parts for one year with up to four renewal options, not to exceed $200,000.",
+          "action_items": "Staff to monitor revenue collections weekly and send unpaid citations to collections as needed; AIMS awaiting Department of Public Safety approval for Nevada DMV holds; staff working with AIMS on expanded reporting metrics; IPS Group technicians continuing meter battery/solar panel replacements with full resolution targeted by end of February 2026."
+        },
+        "JAN-002": {
+          "title": "Parking Program Updates - December 2025",
+          "department": "City Manager's Office",
+          "category": "Operations",
+          "tldr": "This memo updates the Mayor and Council on the Parking Program as of December 2025. Since reinstating access to Nevada DMV registered owner data on June 20, 2025, the City has collected $530,534.89 in parking fines and fees. The Parking Program has also completed a transition from an on-site to a cloud-hosted software system with vendor AIMs, and IPS Group technician support for single space meter maintenance began the week of January 5, 2026.",
+          "key_stats": "Total collected since June 20, 2025 DMV data reinstatement: $530,534.89 across 15,655 parking tickets paid. Monthly breakdown: June 20\u201330 ($15,611.39, 490 tickets), July ($120,735.94, 3,972 tickets), August ($128,398.64, 4,436 tickets), September ($100,946.34, 2,488 tickets), October ($65,130.45, 1,844 tickets), November ($43,736.32, 1,165 tickets), December ($55,975.81, 1,260 tickets). IPS Group agreement approved November 19, 2025, not to exceed $200,000 for one year with up to four renewal options.",
+          "key_decisions": "Council approved an agreement with IPS Group on November 19, 2025 for gateway merchant fees and parking meter maintenance parts, not to exceed $200,000 for a one-year term with up to four additional renewal years.",
+          "action_items": "Parking Program staff to continue monitoring revenue collections weekly and may send unpaid citations to collections. AIMs is awaiting the Department of Public Safety at the state level to process the request to finalize DMV holds setup. Updates on IPS Group technician support progress to be provided in next month's memo."
+        },
+        "MAR-014": {
+          "title": "2026 Waste Management Rate Increase Notice",
+          "department": "Community Engagement & Services",
+          "category": "Waste Management",
+          "tldr": "Waste Management notified the City of Reno on March 6, 2026 of rate adjustments effective April 1, 2026, driven by a 5.27% CPI increase for garbage and trash collection from December 2024 to December 2025. Rates are also affected by the City Council's February 11, 2026 vote to raise the franchise fee from 8% to 14%. New rates were calculated by removing the old franchise fee from current rates, applying the CPI increase to the base rate, and then adding the new 14% franchise fee. The memo transmits the formal notification letter and updated rate sheets from Waste Management.",
+          "key_stats": "CPI increase: 5.27% (December 2024 to December 2025); Franchise fee increase: 8% to 14% (approved February 11, 2026); Rate trigger: Waste Management's Return on Revenue (ROR) falls below 10% on a three-year rolling average; Sample residential rate change: standard 35-gal solid waste / 64-gal recycle cart from $20.56 to $23.15; Senior rate for same service: $18.38 to $20.70; Low Income/Senior rate: $13.79 to $17.36; Animal-resistant 96-gal automated service: $30.64 to $34.51; Cart Replacement: $126.27 to $142.20",
+          "key_decisions": "City Council voted on February 11, 2026 to increase the franchise fee from 8% to 14%. Rate adjustments are triggered under Section 6.2 of the residential and commercial franchise agreements when Waste Management's ROR falls below 10% on a three-year rolling average.",
+          "action_items": "Rates take effect April 1, 2026; parties with questions are directed to contact Kendra Kostelecky at Waste Management."
+        },
+        "FEB-001": {
+          "title": "Regional Fee Schedule Comparison",
+          "department": "Finance",
+          "category": "Finance",
+          "tldr": "At Council's request, the Finance Department prepared a regional fee schedule comparison of Reno's adopted FY2025/26 fees against those of Washoe County, the City of Sparks, and Carson City to inform the FY2026/27 budget cycle. The memo cautions that direct fee comparisons are difficult due to differences in fee structures, methodologies, and service delivery models across jurisdictions. The attached comparison (Attachment A) covers fees across departments including Building, Business License, Parks, Police, Public Works, and Utilities. Council is encouraged to provide clear policy direction on cost recovery versus General Fund subsidization goals ahead of upcoming budget workshops.",
+          "key_stats": "Fee categories compared include City Wide, Building (Fire, Other, Permit, Valuation), Business License, Development Services, Enforcement, Fire Prevention Permits, Maintenance and Operations, Municipal Court, Parks and Recreation, Police, Public Works, Special Events, and Utility Services. Sample fees: standard copies $0.05/page (Reno) vs. $0.50/page (Sparks); return check fee $39 (Reno) vs. $25 (Sparks/Carson City); administrative appeal $100 (Reno) vs. N/A (Sparks/Carson City); land use appeal $1,200 (Reno) vs. $1,043\u2013$1,448 (Washoe County) vs. $250 + $60/hour (Carson City); standard hourly rate for plan check $131.25 (Reno) vs. $100 (Sparks) vs. $90 (Washoe County); fire alarm systems $2.00/device (Reno) vs. $69.75 (Washoe County).",
+          "key_decisions": "Council is asked to provide policy direction on whether specific fee-supported services should fully recover costs, partially recover costs, or be subsidized by the General Fund, to guide staff analysis and recommendations for the FY2026/27 budget workshops.",
+          "action_items": "Staff will use Council's cost recovery versus subsidization policy direction to evaluate fee schedules, assess fiscal impacts, and develop options for consideration during upcoming FY2026/27 budget workshops."
+        },
+        "MAR-024": {
+          "title": "Monthly Economic Update - March 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The March 2026 monthly economic update for the Reno-Sparks MSA shows a moderating but still expanding economy with growing uncertainty tied to national trade policy and geopolitical tensions. Tourism was a bright spot in January 2026 with visitor volume up 12.3 percent and gains in hotel occupancy, room rates, and gaming revenue. The housing market remains stable but competitive, with limited supply sustaining seller's market conditions and rents rising 8.4 percent over the year. Consumer conditions are mixed, with strong real wage growth and rising taxable sales offset by declining consumer confidence.",
+          "key_stats": "Visitors Jan 2026: 307,686 (+12.3% YoY); Hotel occupancy Jan 2026: 58.9% (+5.3% YoY); Avg. daily room rate Jan 2026: $137.19 (+$1.76 YoY); Gaming win Jan 2026: +$1.9M (+2.9% YoY); Avg. single-family home value Feb 2026: $566,802 (-0.4% YoY, +0.1% MoM); Median days on market Feb 2026: 72 days; Housing supply: 2.0 months; 30-yr fixed mortgage rate Feb 2026: 5.98% (down from 6.76% YoY); Avg. apartment rent: $1,769 (+8.4% YoY, 12 consecutive months of increases); Nevada initial unemployment claims Feb 2026: 10,745 (+16.9% MoM, flat YoY); Avg. weekly wages Reno MSA Q3 2025: $1,415 (+6.4% YoY, outpacing national 4.7% and state 4.3%); Washoe County taxable sales Dec 2025: $1.3B (+9.4% YoY); CCI Feb 2026: 91.2 (-8.9 pts YoY, lowest since May 2014); U.S. headline inflation Feb 2026: 2.4% YoY; Nominal wage growth vs. inflation gap Q3 2025: +3.2 percentage points (wages 6.4%, inflation 3.2%)",
+          "key_decisions": "No formal decisions requested; memo is informational to assist Council in making informed policy decisions regarding labor market, housing, tourism, consumer activity, and other economic drivers.",
+          "action_items": "Office of Policy and Strategy will examine key economic variables influencing taxable sales in coming months, as sales tax remains one of the largest revenue sources for local government; next monthly economic update expected April 2026."
+        },
+        "APR-012": {
+          "title": "Sewer Connection Fee Sufficiency Analysis",
+          "department": "Regional Infrastructure",
+          "category": "Infrastructure",
+          "tldr": "The Sewer Connection Fee Sufficiency Analysis concludes that current sewer connection fees are sufficient across all three service areas and no fee increases beyond annual CPI adjustments are recommended. Both TMWRF and RSWRF have approximately 30 years of remaining sewer capacity at historical growth rates. A key modeling change reduced RSWRF's planned expansion from 6 MGD to 4 MGD, removing significant future capital costs. The cost allocation for the Advanced Purified Water Facility was also revised from a 50/50 split to 30% user fees / 70% connection fees to better reflect benefits to new connections.",
+          "key_stats": "TMWRF: 25.1 MGD existing capacity, 19.0 MGD utilized, 6.1 MGD remaining (~36,970 homes, ~30 years at 1,200 homes/year). RSWRF: 4.0 MGD existing capacity (post-APWF), 2.1 MGD utilized, 1.9 MGD remaining (~11,515 homes, ~30 years at 380 homes/year). Single-family home average consumption: 165 gallons per day. Planning horizon: minimum 20 years.",
+          "key_decisions": "1) No sewer connection fee increases recommended beyond annual CPI adjustments. 2) RSWRF growth planning ceiling reduced from 6 MGD to 4 MGD, eliminating expansion project costs from the 20-year model. 3) APWF cost allocation revised from 50% user fee / 50% connection fee to 30% user fee / 70% connection fee based on benefit analysis favoring new connections.",
+          "action_items": "Regional Infrastructure staff will reach out to The Builders Association and Associated General Contractors to share analysis results, collect feedback on growth projections and sewer financial modeling, and report any concerns to City Council."
+        },
+        "FEB-012": {
+          "title": "Quarterly Financial Report \u2013 December 31, 2025",
+          "department": "Finance",
+          "category": "Financial Report",
+          "tldr": "The City of Reno's second quarter financial report for FY2025-26 (October 1 \u2013 December 31, 2025) shows total General Fund revenues at 44.7% of budget, up from 40.0% at the same point last year, representing a 7.81% year-over-year increase. Property tax, business licenses, charges for services, and fines and forfeits are all trending favorably. Expenditures are at 46.8% of budget, within expected range for the midpoint of the fiscal year. Ongoing challenges with the Nevada Department of Taxation's new financial system continue to complicate CTax distribution reporting and revenue projections.",
+          "key_stats": "Total General Fund revenues: $139,899,319 (44.7% of $313,119,191 amended budget); Total General Fund expenditures: $153,401,600 (46.8% of $327,567,822 amended budget); Revenue growth year-over-year: 7.81%; Property tax actuals: $47,902,919 (up 10.5% YoY); Consolidated Tax actuals: $35,614,370 (up 7.5% YoY); Charges for Services actuals: $15,103,344 (up 23.8% YoY); Franchise Fees actuals: $9,767,427 (down 23.8% YoY); Intergovernmental actuals: $4,446,485 (down 27.6% YoY)",
+          "key_decisions": "No formal decisions requested; report is informational. Council is being updated on fiscal status and budget-to-actual performance for Q2 FY2025-26.",
+          "action_items": "Report to be published on reno.gov for public review. City management should continue monitoring revenue and expenditure variances, particularly CTax distributions affected by the Department of Taxation's new financial system, to support accurate projections for the remainder of FY2025-26 and next year's budget."
+        },
+        "FEB-006": {
+          "title": "FY 2026 Federal Appropriations for the City of Reno",
+          "department": "Office of Policy & Strategy",
+          "category": "Federal Funding / Appropriations",
+          "tldr": "President Trump signed the FY 2026 federal spending package on February 3, 2026, which includes Community Project Funding awards totaling $4,200,000 directly to the City of Reno for two projects. The Reno Police Department's Real Time Information Center will receive $1,200,000 for equipment and software to enhance intelligence-led policing, and the Evelyn Mount Northeast Community Center will receive $3,000,000 for a wellness remodel. Additional regional awards include $2,000,000 toward Reno neighborhood street rehabilitation via an RTC Washoe joint proposal, and $3,773,000 to the City of Sparks for backup power systems at the shared Truckee Meadows Water Reclamation Facility.",
+          "key_stats": "Direct City of Reno CPF awards: $4,200,000 total ($1,200,000 for RPD Real Time Information Center; $3,000,000 for Evelyn Mount Northeast Community Center Wellness Remodel). Regional partner awards: $6,000,000 joint RTC Washoe street rehabilitation proposal (with $2,000,000 allocated to Marsh Avenue and Sharon Way); $3,773,000 to City of Sparks for Truckee Meadows Water Reclamation Facility backup power. Evelyn Mount CPF requested amount was $3,150,000 vs. $3,000,000 awarded.",
+          "key_decisions": "No council action items explicitly requested; memo is an informational update on confirmed federal appropriations awards secured with support from Senators Cortez Masto and Rosen and Congressman Amodei.",
+          "action_items": "No specific action items listed; staff to proceed with implementation of awarded projects per CPF requirements."
+        },
+        "JAN-014": {
+          "title": "Monthly Economic Update - January 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The January 2026 monthly economic update for the Reno-Sparks MSA shows mixed signals: the labor market remains stable with modest job growth and a 4.2% unemployment rate, while tourism posted higher visitor volumes and gaming win in November 2025. Housing is stabilizing with flat home values and rising rents, but consumer confidence dropped to 89.1 in December amid concerns over jobs and income despite inflation falling to its lowest level since 2021. The special topic covers the Supplemental City-County Relief Tax (SCCRT), the largest contributor to the consolidated tax system, which distributed $1.5 billion to local governments in FY2025.",
+          "key_stats": "Reno MSA employment grew 0.3% over-the-year (~800 jobs); unemployment rate 4.2% (Nov. 2025); Nevada statewide unemployment 5.2%; 276,013 visitors in Nov. 2025 (+5.0% YoY); hotel occupancy 55.2% (+4.0% YoY); avg. daily room rate $126.08 (-$4.69 YoY); gaming win up $3.7M (+7.1%) YoY; avg. single-family home value $561,394 (-0.2% YoY); median days on market 78 days; avg. apartment rent $1,745 (+6.5% YoY); 30-year fixed mortgage rate 6.06%; CCI 89.1 (-20.4 pts YoY); headline inflation 2.7% (lowest since March 2021); SCCRT distributed $1.488B in FY2025 (67.4% of total C-Tax); total Washoe County sales tax rate 8.265%; SCCRT rate $1.75 per $100.",
+          "key_decisions": "No formal decisions requested; memo is informational. Council is advised of data gaps due to the 2025 government shutdown (BLS did not release October data), which affects standard monthly comparisons and federal data accuracy.",
+          "action_items": "No explicit action items assigned. Office of Policy and Strategy will launch a new series next month focused on key variables influencing sales tax performance. More information on C-Tax available at Reno.Gov/Ctax."
+        },
+        "MAR-001": {
+          "title": "Monthly Economic Update - February 2026",
+          "department": "Office of Policy and Strategy",
+          "category": "Economic Development",
+          "tldr": "The February 2026 monthly economic update for the Reno-Sparks MSA shows a slowing economy with stable but softening labor market conditions, steady tourism activity, a seasonal housing slowdown with stable prices, and rising taxable sales offset by sharply declining consumer confidence. Key upside cushions include housing price stability, decreasing inflation, and increasing wages, while downside risks include consumer credit stress, national policy uncertainty, low housing supply, and weakening consumer confidence. A special topic section examines the relationship between deplaned passengers and taxable sales in Reno and Las Vegas, motivated by a federal government shutdown in October 2025 that disrupted air traffic. The memo is intended to help Council make informed policy decisions across labor, tourism, housing, and consumer spending sectors.",
+          "key_stats": "Reno MSA unemployment rate: 4.0% (Dec. 2025, down 0.1% from Nov., down 0.7 pp year-over-year); Nevada statewide unemployment: 5.2% (seasonally adjusted); Nevada initial unemployment claims: 13,852 (Dec. 2025, +13.3% from Nov., +4.6% year-over-year); Nevada job openings declined 25.6% year-over-year (Dec. 2025); Reno MSA employment declined 0.3% year-over-year (-800 jobs); Visitor volume: 285,162 (Dec. 2025, +1.8% year-over-year); Hotel occupancy: 54.1% (+1.2% year-over-year); Avg. daily room rate: $127.90 (-$4.69 year-over-year); Gaming win declined $1.1M (-1.6%) year-over-year; Avg. single-family home price: $559,258 (Jan. 2026, -0.4% year-over-year); Median days on market: 81 days (+6 days year-over-year); 30-year fixed mortgage rate: 6.10% (down from 6.95% year-over-year); Avg. apartment rent: $1,757 (+6.6%/$112 year-over-year, 11 consecutive months of increases); Washoe County taxable sales: $1.1B (Nov. 2025, +10.4% year-over-year); Consumer Confidence Index: 84.5 (Jan. 2026, -14.7 points year-over-year, lowest since May 2014); U.S. headline inflation: 2.4% year-over-year (Jan. 2026, down from 2.7% in Dec. 2025).",
+          "key_decisions": null,
+          "action_items": "Office of Policy and Strategy to continue examining key economic variables influencing taxable sales in coming months, with a focus on deplaned passengers and their relationship to taxable sales in Reno and Las Vegas."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "APR-005",
+      "FEB-018",
+      "JAN-002",
+      "MAR-014",
+      "FEB-001",
+      "MAR-024",
+      "APR-012",
+      "FEB-012",
+      "FEB-006",
+      "JAN-014",
+      "MAR-001"
+    ]
+  },
+  "error": null
+}

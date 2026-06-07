@@ -1,0 +1,26 @@
+{
+  "run_id": "P13__A-vanilla__2026-06-07T21-59-09Z",
+  "prompt_id": "P13",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:59:09.321184+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Governance & Appointments: Complete Picture Across the Quarter\n\nBased on the available context, here is a consolidated view drawing primarily from the **Q3 vacancy report (jan-002)** and **Q4 vacancy report (apr-013)**, plus the **RTAA appointments memo (mar-015)**.\n\n---\n\n### STANDING BOARD VACANCIES (Persistent Across Both Reports)\n\nThese vacancies appear in **both** the January and April reports, suggesting they remained unfilled:\n\n| Board | Jan Report (as of Jan 1) | Apr Report (as of Apr 1) |\n|---|---|---|\n| Access Advisory Board | 6 vacancies | 6 vacancies |\n| Senior Residents Advisory Board | 4 vacancies | 4 vacancies |\n| Ward 4 NAB | 5 vacancies | 6 vacancies *(grew by 1)* |\n| Ward 6 NAB | 6 vacancies | 6 vacancies |\n\n---\n\n### NEW OR ESCALATED VACANCIES (Appearing in April Report)\n\nThese were either new or not flagged in January:\n\n- **Urban Forestry Commission:** 4 current vacancies\n- **Ward 1 NAB:** 4 vacancies\n- **Ward 2 NAB:** 2 seats expiring April 30\n- **Human Rights Commission (HRC):** 3 seats expiring **April 30**\n- **Civil Service Commission:** 2 seats expiring **May 31**\n- **Arts Board:** terms expiring **May 31**\n\n---\n\n### UPCOMING TERM EXPIRATIONS WITH HARD DEADLINES\n\n| Board | Expiration Date | Notes |\n|---|---|---|\n| Financial Advisory Board | **Feb 28, 2026** | 1 current + 1 upcoming (flagged in Jan report) |\n| HRC | **Apr 30, 2026** | 3 seats |\n| Ward 2 NAB | **Apr 30, 2026** | 2 seats |\n| Ward 4 NAB | **Apr 30, 2026** | 1 additional seat |\n| Civil Service Commission | **May 31, 2026** | 2 seats |\n| Arts Board | **May 31, 2026** | Terms expiring |\n\n---\n\n### SPECIAL APPOINTMENT PROCESS: RTAA (mar-015)\n\nA separate, active recruitment was underway for the **Reno-Tahoe Airport Authority Board of Trustees**:\n- **2 vacancies** created by resignations of Edward Ableser and Kitty Jung\n- **34 applications** received\n- Application portal closed **April 6, 2026**\n- Council scheduled to appoint two trustees at the **April 22, 2026 meeting**\n\n---\n\n### PROCESS & STRUCTURAL NOTES\n\n- The Q3 report (jan-002) was **informational only** \u2014 no decisions required; staff were directed to meet individually with council members to support timely appointments\n- The Q4 report (apr-013) references jan-002 and mar-015 as related memos, indicating these are tracked as a continuous thread\n- Both reports cover **city council-appointed boards only**\n- A separate memo (apr-001) clarifies that **NAB schedules interact with statutory development review deadlines**, meaning NAB vacancies and quorum failures have downstream consequences for planning timelines \u2014 adding urgency to filling NAB seats specifically\n\n---\n\n### SUMMARY ASSESSMENT\n\nThe most urgent unresolved issues as of the April report are:\n1. **HRC, Ward 2 NAB, and Ward 4 NAB** \u2014 terms expiring April 30\n2. **Persistent, multi-cycle vacancies** on Access Advisory (6), Ward 6 NAB (6), and Senior Residents Advisory (4) that appear to have gone unfilled across at least two quarterly reporting periods\n3. **RTAA appointments** \u2014 active process with a firm April 22 council action date",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "JAN-002#0",
+      "APR-013#0",
+      "FEB-004#0",
+      "APR-001#0",
+      "MAR-015#0",
+      "MAR-019#0",
+      "MAR-001#0",
+      "JAN-016#0"
+    ]
+  },
+  "error": null
+}

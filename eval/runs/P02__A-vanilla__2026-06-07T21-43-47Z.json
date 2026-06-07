@@ -1,0 +1,26 @@
+{
+  "run_id": "P02__A-vanilla__2026-06-07T21-43-47Z",
+  "prompt_id": "P02",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:43:47.519496+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "Based on the context provided, two long-running issues show no meaningful progress across the January to April period:\n\n---\n\n**1. Parking Illegally / Abandoned Vehicles**\n\nThis remains the **top service request category** in both the January and February Reno Direct reports (901 requests in January, 751 in February), with no indication of resolution or declining trend. It consistently dominates citywide request volumes, suggesting no structural fix or enforcement improvement has taken hold.\n\n---\n\n**2. Code Enforcement Cases**\n\nRather than improving, this issue is actually **getting worse**. Cases rose from 96 (the then-2026 high) during the week of Feb 20\u201326, to **107 cases** by the week of Apr 10\u201316 \u2014 described as a \"new 2026 high\" with a \"rising sharply\" trend noted. Despite being tracked weekly throughout the entire period, there is no sign of meaningful reduction.\n\n---\n\n**Important caveat:** The context does not include detailed March or April Reno Direct reports, nor does it provide root-cause analysis for why these issues persist. The conclusion that they are \"stuck\" is based on the trajectory visible in the data, but the context does not explain *why* progress has stalled \u2014 any deeper explanation would go beyond what is provided here.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "MAR-001#0",
+      "MAR-016#0",
+      "JAN-016#0",
+      "APR-012#0",
+      "FEB-020#0",
+      "JAN-007#0",
+      "JAN-013#0",
+      "MAR-017#0"
+    ]
+  },
+  "error": null
+}

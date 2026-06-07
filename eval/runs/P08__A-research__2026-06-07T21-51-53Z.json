@@ -1,0 +1,91 @@
+{
+  "run_id": "P08__A-research__2026-06-07T21-51-53Z",
+  "prompt_id": "P08",
+  "system_id": "A-research",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:51:53.020097+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:8c83b92ba0df0cdf",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Affordable Housing in Reno: Pipeline vs. Rising Rents\n\n### The Rent Pressure Is Real and Accelerating\n\nThe memos document a sustained and worsening rent squeeze. Average rent rose 6.6% year-over-year as of February 2026 (MAR-001), then accelerated to **+8.4% YoY by March 2026**, reaching $1,769/month \u2014 the **12th consecutive monthly increase** (MAR-023). Home prices are essentially flat (-0.4% YoY), so ownership isn't absorbing the pressure either. Consumer confidence hit its lowest point since May 2014 (MAR-001), suggesting households are feeling the strain even as average weekly wages rose 6.4% (MAR-023) \u2014 a figure that sounds encouraging but masks wide variation across income levels.\n\n---\n\n### What the Pipeline Actually Looks Like\n\nThe supply-side response is modest relative to the scale of the problem:\n\n- **703 units** across two developments (Vintage at Redfield and Vintage at Stoker) received fee waivers in FY25, with the City recouping $1.25M of the $2.5M in waived fees through a state grant (FEB-015). These are the largest numbers in the memo set, but they are already-completed FY25 projects, not new pipeline.\n- **28 units** of permanent supportive housing at Hi-Way 40 (for individuals at \u226430% AMI with disabilities) were nearing construction completion in March 2026, with lease-up expected April 2026 (FEB-014). This is a very small project targeting the most vulnerable, not the broader affordability gap.\n- The fee waiver program that enabled the 703-unit projects has **no confirmed future** \u2014 staff were directed to evaluate it and report back (FEB-015). Whether that tool continues is unresolved.\n- A master plan amendment (MAR-024) is working its way through Planning Commission and Council to embed state attainable housing law (AB 540) into Reno's land-use framework. This is a **policy foundation step**, not units in the ground \u2014 and it won't produce housing on any near-term timeline.\n\n---\n\n### The Gap Between Need and Supply\n\nThe memos suggest the pipeline is **not keeping pace**, for several reasons:\n\n1. **Scale mismatch**: 703 units (FY25, already built) and 28 units (FY26, deeply subsidized) against 12 straight months of rent increases affecting the entire rental market is a thin response.\n2. **Demand-side spending is rising**: The City spent $354,482 in December 2025 alone on rental and deposit assistance for 141 households, with FY26 cumulative spending already at $1.57M by mid-January (JAN-006). This is emergency stabilization, not supply creation \u2014 and its steady level suggests the affordability crisis is not self-resolving.\n3. **Homelessness indicators are worsening**: Camping in city parks was up 113% month-over-month in February (APR-002), occupied vehicle service requests rose 35% in March (APR-014), and arrests hit a year-high of 96 in March (APR-014). These are downstream indicators of housing unaffordability, and they are moving in the wrong direction.\n4. **Existing affordable stock has quality problems**: Vintage at the Crossings \u2014 an existing affordable senior development \u2014 required a community meeting with 105 attendees, commitments on basic maintenance like air filters and work order response times, and ongoing fire safety and ADA remediation (FEB-013, APR-008). This suggests the existing affordable inventory is under stress, not just the pipeline.\n\n---\n\n### Key Uncertainties\n\n- The memos **do not provide** a total count of units in the development pipeline beyond what's cited above, so it's possible more projects exist that aren't captured here.\n- The fee waiver program's continuation is explicitly unresolved (FEB-015) \u2014 if it lapses, a key subsidy tool disappears.\n- The master plan amendment (MAR-024) could unlock more attainable housing over time, but the timeline from policy change to built units is long and not addressed in the memos.\n- Two significant layoffs are coming (244 jobs total \u2014 Water Safety Corp and SK Food Group, per MAR-023), which could increase housing instability among affected workers.\n\n---\n\n### Bottom Line\n\nThe memos suggest the affordable housing pipeline is **producing units at a pace well below what rising rents demand**. The City is deploying multiple tools \u2014 fee waivers, state grants, emergency rental assistance, policy reform \u2014 but the rent trend (8.4% YoY and accelerating), the rising homelessness indicators, and the strain on existing affordable properties collectively point to a widening gap, not a closing one.",
+    "cited_sources": [
+      {
+        "memo_id": "MAR-001",
+        "title": "Monthly Economic Update: February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95542/639081516545570000"
+      },
+      {
+        "memo_id": "FEB-015",
+        "title": "Nevada Attainable Housing Account \u2014 Affordable Housing Fee Waiver Program",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95491/639070168105430000"
+      },
+      {
+        "memo_id": "MAR-024",
+        "title": "Master Plan Amendment for Conformance",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95642/639102186468370000"
+      },
+      {
+        "memo_id": "MAR-023",
+        "title": "Monthly Economic Update: March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000"
+      },
+      {
+        "memo_id": "FEB-014",
+        "title": "Hi-Way 40 Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95498/639070252999530000"
+      },
+      {
+        "memo_id": "APR-002",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "JAN-006",
+        "title": "Monthly Rental and Deposit Assistance Program Update \u2013 December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95269/639040050270200000"
+      },
+      {
+        "memo_id": "APR-008",
+        "title": "Vintage at the Crossings Community Meeting Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95746/639118722437270000"
+      },
+      {
+        "memo_id": "APR-001",
+        "title": "Development Project Timelines",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95652/639106353940770000"
+      },
+      {
+        "memo_id": "APR-014",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639124654440770000"
+      },
+      {
+        "memo_id": "APR-015",
+        "title": "City Walk Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95760/639124654437600000"
+      },
+      {
+        "memo_id": "FEB-013",
+        "title": "Vintage at the Crossings Community Meeting Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95499/639070275479230000"
+      }
+    ],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "MAR-001",
+      "FEB-015",
+      "MAR-024",
+      "MAR-023",
+      "FEB-014",
+      "APR-002",
+      "JAN-006",
+      "APR-008",
+      "APR-001",
+      "APR-014",
+      "APR-015",
+      "FEB-013"
+    ]
+  },
+  "error": null
+}

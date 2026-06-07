@@ -1,0 +1,57 @@
+{
+  "global_id": "FEB-015",
+  "month": "FEB",
+  "memo_id": 15,
+  "date_published": "2026-02-18",
+  "title": "Washoe County Emergency Management Evacuation Study and Zoning",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95500/639070275898370000",
+  "doc_id": "95500",
+  "resolved_text": "Memorandum\nDATE: February 18, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Jenifer Alvarez, Council Relations Liaison\nDEPT: City Manager's Office\nSUBJECT: Washoe County Emergency Management Evacuation Study and Zoning\n\nWashoe County Emergency Management (WCEM) is leading a comprehensive regional evacuation study to strengthen community resilience in the face of wildfires and other emergencies that may require evacuation. The regional evacuation study is being conducted in close collaboration with local agencies, regional partners, and the community. The regional evacuation study is designed to improve safety, coordination, and clarity during emergency events.\n\nEvacuations during wildfire or emergency events follow a coordinated, multi-agency process. Fire agencies evaluate conditions and determine when an area is unsafe, law enforcement agencies implement evacuations and ensure routes remain clear, and Emergency Management coordinates public communication, alerts, maps, and resource support. The regional evacuation study is intended to strengthen coordination across all phases of that process.\n\nTo support the regional evacuation study, WCEM has retained two professional vendors: Perimeter and CNA. Perimeter is providing traffic modeling to better understand evacuation movement and roadway capacity, while CNA is supporting data analysis and updates to the regional evacuation plan. The regional evacuation study is currently focused on the development of standardized evacuation zones that will be used by first responders during real-world incidents for orders such as \"shelter-in-place\" or \"evacuate.\" These zones will be used internally by first responders through the Perimeter platform and are intended to replace past practices where evacuation areas were manually drawn, sometimes resulting in unclear or inconsistent boundaries, including lines cutting through individual properties. The goal is to improve accuracy, consistency, and operational effectiveness during emergencies.\n\nWCEM and regional partners recognize the importance of local knowledge in the regional evacuation study process. Workshops are being planned with first responders and partner agencies, including Reno Fire Department, Reno Police Department, Reno Public Works, Parks, Perimeter, Washoe County GIS, and WCEM. These sessions will focus on building evacuation zones that reflect how neighborhoods function in real life, including access points, road networks, and community characteristics.\n\nResidents are being invited to participate in developing evacuation zones through surveys, interactive tools such as community mapping, and public meetings. These tools allow community members to share past evacuation experiences, identify neighborhood-specific challenges, and suggest practical improvements. Public input is being reviewed alongside technical data to inform decisions. Ongoing WCEM updates will explain how feedback is shaping the outcomes in order to build an evacuation plan which prioritizes safety, coordination, and clarity. Those interested in participating can access the Swift Exit: Evacuation Study, which closes on March 30th, 2026 at 4:59pm.",
+  "fields": {
+    "department": "City Manager's Office",
+    "authors": "Jenifer Alvarez, Council Relations Liaison",
+    "category": "Public Safety",
+    "subcategory": "Emergency Management / Evacuation Planning",
+    "tldr": "Washoe County Emergency Management (WCEM) is leading a regional evacuation study to improve wildfire and emergency evacuation coordination across the region. Two vendors, Perimeter and CNA, have been retained to provide traffic modeling and data analysis respectively. The study aims to replace inconsistent, manually drawn evacuation boundaries with standardized zones used by first responders through the Perimeter platform. Community input is being gathered through surveys, mapping tools, and public meetings, with a participation deadline of March 30, 2026.",
+    "key_stats": "Two professional vendors retained (Perimeter for traffic modeling, CNA for data analysis); community survey closes March 30, 2026 at 4:59 PM.",
+    "key_decisions": "Adoption of standardized evacuation zones to replace manually drawn boundaries; use of the Perimeter platform internally by first responders for evacuation orders such as shelter-in-place or evacuate.",
+    "action_items": "Workshops to be held with first responders and partner agencies including Reno Fire Department, Reno Police Department, Reno Public Works, Parks, Perimeter, Washoe County GIS, and WCEM; community members encouraged to participate in the Swift Exit: Evacuation Study before the March 30, 2026 deadline.",
+    "keywords": [
+      "evacuation study",
+      "wildfire",
+      "emergency management",
+      "evacuation zones",
+      "traffic modeling",
+      "community resilience",
+      "shelter-in-place",
+      "Perimeter platform",
+      "public input",
+      "standardized zones"
+    ],
+    "entities": {
+      "departments": [
+        "City Manager's Office",
+        "Washoe County Emergency Management (WCEM)",
+        "Reno Fire Department",
+        "Reno Police Department",
+        "Reno Public Works",
+        "Reno Parks",
+        "Washoe County GIS"
+      ],
+      "projects": [
+        "Washoe County Emergency Management Evacuation Study",
+        "Swift Exit: Evacuation Study",
+        "Regional Evacuation Plan"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "February 18, 2026 (memo date)",
+        "March 30, 2026 at 4:59 PM (Swift Exit survey closes)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Jenifer Alvarez, Council Relations Liaison"
+      ]
+    }
+  }
+}

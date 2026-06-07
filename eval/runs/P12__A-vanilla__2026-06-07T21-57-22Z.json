@@ -1,0 +1,26 @@
+{
+  "run_id": "P12__A-vanilla__2026-06-07T21-57-22Z",
+  "prompt_id": "P12",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:57:22.756950+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Waste Management Rate Increase: Finalized and In Effect\n\n**Yes, the rate increase has been finalized.** Based on the context, here is what it means for residents:\n\n### What Was Approved\n- A **5.27% CPI increase** (based on December 2024\u2013December 2025 inflation) to residential and commercial collection rates\n- A **franchise fee increase from 8% to 14%**, which was voted on and approved by council on **February 11, 2026**\n\n### Impact on Residents\n- Rates took effect **April 1, 2026**\n- As a concrete example, a **96-gallon cart goes from $25.20 to $28.38** per month \u2014 an increase of roughly **$3.18/month**\n- Detailed rate tables were attached to the notice (memo mar-009)\n\n### Behind the Scenes\nResidents may not see it directly, but the city's **collection allowances also increased** (from ~$1.29M to ~$1.36M) and the **host fee rose from $0.63 to $0.66/ton**, as outlined in the companion memo (mar-008).\n\n### Bottom Line\nThe increase reflects both inflation-driven adjustments and a significant policy decision to nearly **double the franchise fee**, which together meaningfully raised what residents pay for waste collection services.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "MAR-009#0",
+      "MAR-008#0",
+      "FEB-011#0",
+      "APR-009#0",
+      "APR-006#0",
+      "FEB-015#0",
+      "FEB-014#0",
+      "FEB-009#0"
+    ]
+  },
+  "error": null
+}

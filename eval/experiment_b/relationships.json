@@ -1,0 +1,992 @@
+[
+  {
+    "source_id": "APR-003",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "APR-003",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "APR-003",
+    "target_id": "APR-010",
+    "rel_type": "precedes",
+    "evidence": "Memo A (APR-003, 2026-04-06) covers February 2026 Reno Direct data (323 service requests related to homeless concerns) and precedes Memo B (APR-010, 2026-04-21), which covers March 2026 Reno Direct service request activity citywide. The February report logically and temporally precedes the March rep"
+  },
+  {
+    "source_id": "APR-003",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Regional Alliance to End Homelessness (RAH), Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+  },
+  {
+    "source_id": "APR-003",
+    "target_id": "APR-015",
+    "rel_type": "precedes",
+    "evidence": "Memo A is the February 2026 Clean and Safe Team report (APR-003, dated 2026-04-06) and Memo B is the March 2026 report (APR-015, dated 2026-04-22) covering the same recurring interdepartmental homelessness program. Memo A's decisions and actions\u2014such as continuing the Mobile Camera Trailer Pilot Pro"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-009",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-003",
+    "rel_type": "precedes",
+    "evidence": "Memo A reports January 2026 City Walk outcomes (MAR-003, dated 2026-03-05) covering operations and metrics from January, while Memo B reports February 2026 Clean and Safe Team outcomes (APR-003, dated 2026-04-06). Both concern the same Clean and Safe interdepartmental program addressing homelessness"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): City of Reno and Cares Campus Collaboration, City of Reno and NDOT Interlocal Agreement, Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Fusus Program, HUD-VASH Voucher Program, Karma Box Project, Mobile Camera Trailer Pilot Program, Rapid Rehousing Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, School of Public Health Street Health Collaborative, Washoe County Outreach Case Conferencing"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-003",
+    "rel_type": "precedes",
+    "evidence": "Memo A (MAR-004, 2026-03-05) covers January 2026 Clean and Safe Team activities and decisions\u2014including the Council-approved NDOT interlocal agreement on January 28\u2014which logically and temporally precede Memo B (APR-003, 2026-04-06), which covers February 2026 and explicitly references the operation"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-003",
+    "rel_type": "precedes",
+    "evidence": "Memo A (MAR-017, issued 2026-03-23) reports February 2026 Reno Direct service request data citywide, and Memo B (APR-003, issued 2026-04-06) draws on that same Reno Direct data \u2014 citing 323 service requests related to homeless concerns \u2014 making A's reporting temporally and logically prior to B's use"
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-003",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers January 2026 Reno Direct service request data (including homeless-related requests), which temporally precedes and provides the baseline comparison referenced in Memo B, which notes the February 2026 figure of 323 homeless-related Reno Direct service requests represents 'a 1% decrease "
+  },
+  {
+    "source_id": "FEB-008",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-020",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-006",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-007",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-021",
+    "target_id": "APR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-018",
+    "target_id": "APR-005",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): AIMS Expanded Reporting, IPS Group Meter Maintenance, Nevada DMV Holds Setup, Nevada DMV Registered Owner Data Access, Parking Program Updates"
+  },
+  {
+    "source_id": "FEB-018",
+    "target_id": "APR-005",
+    "rel_type": "precedes",
+    "evidence": "Memo A (FEB-018, 2026-02-24) is the January 2026 parking program update whose decisions and pending actions\u2014Nevada DMV holds awaiting DPS approval, IPS meter battery/solar replacements targeted by end of February, weekly revenue monitoring, and AIMS expanded reporting\u2014are directly carried forward an"
+  },
+  {
+    "source_id": "JAN-002",
+    "target_id": "APR-005",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+  },
+  {
+    "source_id": "JAN-002",
+    "target_id": "APR-005",
+    "rel_type": "precedes",
+    "evidence": "Memo A (JAN-002, January 2026) is an earlier status update on the Parking Program establishing ongoing actions\u2014DMV holds setup, IPS technician support, weekly revenue monitoring\u2014that Memo B (APR-005, April 2026) directly continues and reports progress on, making A's decisions and actions the logical"
+  },
+  {
+    "source_id": "APR-008",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "APR-008",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-014",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Vintage at the Crossings Community Meeting"
+  },
+  {
+    "source_id": "FEB-014",
+    "target_id": "APR-008",
+    "rel_type": "precedes",
+    "evidence": "Memo A (FEB-014, 2026-02-18) documents the initial community meeting held February 10, 2026, and the corrective actions committed to by Asset Living and the Community Engagement and Services Department. Memo B (APR-008, 2026-04-15) explicitly describes itself as a follow-up to that same February 10 "
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "APR-010",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-010",
+    "rel_type": "precedes",
+    "evidence": "MAR-017 covers February 2026 service request data while APR-010 covers March 2026, making the February report a temporal predecessor to the March report in the same recurring monthly series."
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-010",
+    "rel_type": "precedes",
+    "evidence": "MAR-018 covers January 2026 service request data while APR-010 covers March 2026 data; the January report temporally precedes the March report in the same recurring monthly reporting series."
+  },
+  {
+    "source_id": "JAN-008",
+    "target_id": "APR-011",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Seniors EngAGED Program, Senior Art Classes, Senior Enrichment ARPA Funding, Weekly Line Dance Classes"
+  },
+  {
+    "source_id": "FEB-006",
+    "target_id": "APR-012",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Truckee Meadows Water Reclamation Facility (TMWRF)"
+  },
+  {
+    "source_id": "JAN-003",
+    "target_id": "APR-013",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): City of Reno Boards and Commissions Vacancy Report"
+  },
+  {
+    "source_id": "JAN-003",
+    "target_id": "APR-013",
+    "rel_type": "precedes",
+    "evidence": "Memo A is the Q3 2025 vacancy report dated January 11, 2026, while Memo B is the Q4 2026 vacancy report dated April 22, 2026. Memo A's reporting cycle and appointment decisions temporally and logically precede Memo B's subsequent quarterly vacancy reporting and appointment planning process for the s"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "APR-014",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Business Improvement District (BID), DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-014",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-014",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation"
+  },
+  {
+    "source_id": "MAR-016",
+    "target_id": "APR-014",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Business Improvement District (BID), DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+  },
+  {
+    "source_id": "MAR-016",
+    "target_id": "APR-014",
+    "rel_type": "precedes",
+    "evidence": "MAR-016 reports on City Walk operations for February 2026, while APR-014 reports on the same program for March 2026, making the February report temporally prior to the March report in the same ongoing reporting series."
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-009",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Clean and Safe Team, Downtown Reno Partnership Security and Safety Collaboration, Mobile Camera Trailer Pilot Program, Reno Direct, Reno Housing Authority Motel Assistance Program, Safe Camp, Washoe County Outreach Case Conferencing"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "APR-015",
+    "rel_type": "precedes",
+    "evidence": "Memo A reports February 2026 service request data, which Memo B explicitly uses as a baseline, noting a '9% increase over February' in service requests \u2014 establishing that Memo A's reporting period and data logically and temporally precede Memo B's March 2026 analysis."
+  },
+  {
+    "source_id": "MAR-018",
+    "target_id": "APR-015",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-002",
+    "target_id": "MAR-011",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Lear Theater"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "FEB-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "MAR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks, Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "MAR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "MAR-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Business Improvement District (BID), DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "MAR-017",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-007",
+    "target_id": "MAR-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "FEB-008",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "FEB-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "FEB-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "FEB-008",
+    "rel_type": "precedes",
+    "evidence": "Memo A (JAN-004, dated 2026-01-11) covers the reporting period of January 2\u20138, 2026, while Memo B (FEB-008, dated 2026-02-11) covers January 30\u2013February 5, 2026. Both are recurring weekly reports of the same type, making A's reporting period temporally prior to B's."
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "FEB-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "FEB-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "FEB-008",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers January 30\u2013February 5, 2026, making Memo A's reporting period temporally prior to Memo B's within the same recurring weekly report series."
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "FEB-008",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "FEB-008",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 23\u201329, 2026, while Memo B covers January 30\u2013February 5, 2026. These are consecutive weekly reporting periods of the same recurring report type, making A's period temporally prior to B's."
+  },
+  {
+    "source_id": "FEB-008",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-008",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-008",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-009",
+    "target_id": "FEB-010",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Virginia Range Horse Protection Project"
+  },
+  {
+    "source_id": "FEB-009",
+    "target_id": "MAR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Clean and Safe Team, Reno Housing Authority Motel Assistance Program, Safe Camp"
+  },
+  {
+    "source_id": "FEB-009",
+    "target_id": "MAR-004",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the December 2025 Clean and Safe Team report (dated 2026-02-11) while Memo B covers the January 2026 report (dated 2026-03-05); both are sequential monthly reports of the same ongoing Clean and Safe Team program, making A's reporting period and decisions temporally prior to B's."
+  },
+  {
+    "source_id": "FEB-011",
+    "target_id": "FEB-013",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Nevada Attainable Housing Account (NAHA)"
+  },
+  {
+    "source_id": "FEB-016",
+    "target_id": "FEB-017",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Titles 4 and 5 Overhaul"
+  },
+  {
+    "source_id": "FEB-016",
+    "target_id": "FEB-017",
+    "rel_type": "precedes",
+    "evidence": "Memo A schedules the repeal of Title 5, Sec. 5.90.070 (removing outdated and contradictory language) for February 25, 2026, which temporally and logically precedes Memo B's broader Council-directed effort to open and amend Title 5 in its entirety, as described in FEB-017 dated February 24, 2026."
+  },
+  {
+    "source_id": "JAN-002",
+    "target_id": "FEB-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+  },
+  {
+    "source_id": "JAN-002",
+    "target_id": "FEB-018",
+    "rel_type": "precedes",
+    "evidence": "Memo A (JAN-002, 2026-01-11) is the December 2025 Parking Program update and explicitly states that IPS Group technician support began the week of January 5, 2026 and that DMV holds setup was pending, with updates to be provided in next month's memo. Memo B (FEB-018, 2026-02-24) is the January 2026 "
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "FEB-020",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers February 20\u201326, 2026. Both are recurring weekly informational transmittals of the same type (public records requests, media requests, and code enforcement service requests) to the Mayor and City Council, making A's report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "FEB-020",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "FEB-020",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 23\u201329, 2026, while Memo B covers February 20\u201326, 2026. Both are recurring weekly reports of the same type (public records requests, media requests, and code enforcement service requests) transmitted to the Mayor and City Council, making Memo A temporally"
+  },
+  {
+    "source_id": "FEB-020",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-020",
+    "target_id": "MAR-006",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of February 20\u201326, 2026, while Memo B covers February 27 through March 5, 2026. These are consecutive weekly reporting periods of the same recurring report series, making A's period temporally prior to B's."
+  },
+  {
+    "source_id": "FEB-020",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "FEB-020",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-004",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the period December 26, 2025 through January 1, 2026, while Memo B covers January 2\u20138, 2026, making Memo A the temporally prior installment of the same recurring weekly reporting cycle."
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-007",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of December 26, 2025 through January 1, 2026, while Memo B covers January 9\u201315, 2026. Both are recurring weekly report transmittals of the same type (public records requests, media requests, and code enforcement service requests), making Memo A's reporting cycle te"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-012",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "JAN-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-001",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "JAN-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "JAN-007",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 2\u20138, 2026, while Memo B covers January 9\u201315, 2026, making Memo A's reporting period temporally prior to Memo B's in the same recurring weekly report series."
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "JAN-012",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "JAN-012",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 2\u20138, 2026 and was issued on January 11, 2026, while Memo B covers January 16\u201322, 2026 and was issued on January 26, 2026. Memo A temporally precedes Memo B as part of the same recurring weekly reporting series."
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "JAN-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "MAR-007",
+    "rel_type": "precedes",
+    "evidence": "JAN-004 (2026-01-11) covers the reporting period of January 2\u20138, 2026, while MAR-007 (2026-03-13) covers March 6\u201312, 2026. Both are recurring weekly report transmittals of the same type, making JAN-004 temporally prior to MAR-007 in the same reporting series."
+  },
+  {
+    "source_id": "JAN-004",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "JAN-012",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "JAN-012",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 9\u201315, 2026, while Memo B covers January 16\u201322, 2026, making Memo A's reporting period temporally prior to Memo B's in the same recurring weekly report series."
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "JAN-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-007",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "JAN-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "JAN-016",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers January 23\u201329, 2026, making A's reporting period temporally prior to B's in the same recurring weekly report series."
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-012",
+    "target_id": "MAR-021",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers March 20\u201326, 2026. Both are recurring weekly reports of the same type (public records requests, media requests, and code enforcement service requests) transmitted to the Mayor and City Council, and Memo A's reporting peri"
+  },
+  {
+    "source_id": "JAN-014",
+    "target_id": "MAR-001",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Monthly Economic Update"
+  },
+  {
+    "source_id": "JAN-014",
+    "target_id": "MAR-001",
+    "rel_type": "precedes",
+    "evidence": "Memo A (JAN-014, 2026-01-29) is the January 2026 monthly economic update and explicitly states that the Office of Policy and Strategy 'will launch a new series next month focused on key variables influencing sales tax performance.' Memo B (MAR-001, 2026-03-03) is the February 2026 monthly economic u"
+  },
+  {
+    "source_id": "JAN-014",
+    "target_id": "MAR-024",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Monthly Economic Update"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "MAR-003",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "MAR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "MAR-004",
+    "rel_type": "precedes",
+    "evidence": "Memo A documents December 2025 Reno Direct service request volumes, which serve as the baseline for Memo B's statement that 'Reno Direct service requests rose 20% month-over-month' in January 2026, making Memo A's data temporally and logically prior to Memo B's comparative analysis."
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "MAR-017",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  },
+  {
+    "source_id": "JAN-015",
+    "target_id": "MAR-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "MAR-006",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "MAR-007",
+    "rel_type": "precedes",
+    "evidence": "Memo A (JAN-016, dated 2026-01-30) covers the weekly reporting period of January 23\u201329, 2026, while Memo B (MAR-007, dated 2026-03-13) covers March 6\u201312, 2026. Both are recurring weekly reports of the same type (public records requests, media requests, and code enforcement service requests) transmit"
+  },
+  {
+    "source_id": "JAN-016",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-001",
+    "target_id": "MAR-024",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Modernize Your Nevada Tax (MYNT), Monthly Economic Update"
+  },
+  {
+    "source_id": "MAR-001",
+    "target_id": "MAR-024",
+    "rel_type": "precedes",
+    "evidence": "MAR-001 (2026-03-03) is the February 2026 monthly economic update and MAR-024 (2026-03-27) is the March 2026 monthly economic update, both produced by the Office of Policy and Strategy as part of the same recurring series; MAR-001 temporally and logically precedes MAR-024 in that series, and the ong"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-004",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Downtown Reno Partnership / Business Improvement District City Walks"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-016",
+    "rel_type": "precedes",
+    "evidence": "MAR-003 reports on January 2026 City Walk operations, while MAR-016 reports on February 2026 City Walk operations for the same ongoing program. January temporally precedes February, making MAR-003's reporting period logically prior to MAR-016's."
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-017",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-003",
+    "target_id": "MAR-018",
+    "rel_type": "precedes",
+    "evidence": "Memo A documents a graffiti abatement service request submitted on January 8, 2026, which temporally precedes and logically feeds into the January 2026 citywide service request totals (2,760 new requests) reported in Memo B's ServiceNow platform report."
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "MAR-016",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): DEEDS Operation, Loitering Program"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "MAR-017",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "MAR-017",
+    "rel_type": "precedes",
+    "evidence": "Memo A (MAR-004, 2026-03-05) notes a 20% month-over-month rise in Reno Direct service requests in January 2026, driven by a 29% increase in occupied vehicle nuisance requests. Memo B (MAR-017, 2026-03-23) presents the subsequent February 2026 Reno Direct and service requests report, making A's Janua"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "MAR-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct"
+  },
+  {
+    "source_id": "MAR-004",
+    "target_id": "MAR-018",
+    "rel_type": "references",
+    "evidence": "Memo A (MAR-004) explicitly references the 20% month-over-month rise in Reno Direct service requests and the 29% increase in occupied vehicle nuisance requests, which are data points drawn from the Reno Direct & Service Requests Report covered in Memo B (MAR-018)."
+  },
+  {
+    "source_id": "MAR-006",
+    "target_id": "MAR-007",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-006",
+    "target_id": "MAR-007",
+    "rel_type": "precedes",
+    "evidence": "MAR-006 covers the reporting period of February 27 through March 5, 2026, while MAR-007 covers March 6\u201312, 2026. Both are weekly activity reports of the same recurring type (public records requests, media requests, and code enforcement), making MAR-006 the temporally preceding installment in the sam"
+  },
+  {
+    "source_id": "MAR-006",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-006",
+    "target_id": "MAR-021",
+    "rel_type": "precedes",
+    "evidence": "Memo A covers the reporting period of February 27\u2013March 5, 2026 and was transmitted on March 13, 2026, while Memo B covers March 20\u201326, 2026 and was transmitted on March 27, 2026. Memo A's reporting period and transmission date logically and temporally precede Memo B's, as both are recurring weekly "
+  },
+  {
+    "source_id": "MAR-007",
+    "target_id": "MAR-021",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+  },
+  {
+    "source_id": "MAR-017",
+    "target_id": "MAR-018",
+    "rel_type": "same_project",
+    "evidence": "Shared project(s): Reno Direct, ServiceNow"
+  }
+]

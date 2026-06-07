@@ -1,0 +1,26 @@
+{
+  "run_id": "P03__A-vanilla__2026-06-07T21-44-58Z",
+  "prompt_id": "P03",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:44:58.701507+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "Based on the context provided, there is **no explicit mention of a funding cliff** for any city program. The documents do not describe a scenario where funding is set to expire with a warning about consequences if nothing is done.\n\nThe closest relevant detail is the **Love Your Block program** (jan-011), which notes it is in **Year 2** and is funded by the **Bloomberg Center for Public Innovation**. This implies the program is grant-funded on a time-limited basis, which *could* suggest a future funding cliff \u2014 but the context does not explicitly state what happens when Bloomberg funding ends or whether there is a plan to sustain it beyond the current grant period.\n\n**The context does not contain enough information to fully answer this question.** A more complete answer would require documents addressing long-term funding sustainability, budget projections, or grant expiration details, none of which are present here.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "JAN-011#0",
+      "FEB-005#0",
+      "FEB-014#0",
+      "FEB-009#0",
+      "APR-007#0",
+      "MAR-018#0",
+      "MAR-003#0",
+      "APR-015#0"
+    ]
+  },
+  "error": null
+}

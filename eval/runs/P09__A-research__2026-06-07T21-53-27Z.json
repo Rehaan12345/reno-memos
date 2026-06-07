@@ -1,0 +1,91 @@
+{
+  "run_id": "P09__A-research__2026-06-07T21-53-27Z",
+  "prompt_id": "P09",
+  "system_id": "A-research",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:53:27.736079+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:8c83b92ba0df0cdf",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Technology Systems Being Replaced or Upgraded\n\nThe memos reference two distinct technology systems undergoing significant transitions:\n\n---\n\n### 1. ERP System (Tyler Technologies New World) \u2014 **Most Urgent**\n\nThe memos suggest the city's core enterprise resource planning system is approaching end-of-life. MAR-005 flags active problems: payroll calculation errors affecting FLSA overtime compliance and issues with fire shift trade processing. The vendor has not yet formally announced an end-of-life date, but the system is described as approaching it. Critically, Council budget authorization for a replacement procurement had not yet been confirmed as of that memo.\n\nThis is the most urgent of the two systems for two reasons:\n- **Active errors are occurring now** \u2014 payroll miscalculations and FLSA compliance issues carry legal and financial risk that compounds over time.\n- **The procurement window is closing** \u2014 if the city waits for the vendor to announce end-of-life before beginning procurement, it loses negotiating leverage and risks a forced, rushed transition. The curated analysis flags this as a medium-escalation risk with a clear next step: confirm Council authorization and begin procurement before the vendor acts.\n\n---\n\n### 2. Hexagon CAD/RMS System \u2014 On Track, Lower Urgency\n\nThe city is also implementing a new Hexagon computer-aided dispatch and records management system for public safety. As of MAR-010, six \"blocker\" tickets remained open, functional acceptance testing was underway, and the go-live target was late summer or early fall 2026. April milestones included RMS configuration, training curriculum development, and end-to-end testing.\n\nUnlike the ERP, this project is described as **on track** \u2014 it is a planned replacement proceeding through a defined implementation schedule, not a system failing in production. The remaining uncertainty is whether the April milestones were met and whether the go-live date holds (MAR-010).\n\n---\n\n### 3. Parking Meter Software (IPS Group / Cloud Hosting) \u2014 Largely Resolved\n\nA third, narrower technology item: the parking program transitioned its software to cloud hosting and engaged IPS Group for meter maintenance (Council approved a contract up to $200,000 in November 2025, per JAN-003). Battery and solar panel replacements were ongoing through early 2026 (JAN-003, FEB-018, APR-004). This is not a full system replacement and appears largely operational, though IPS meter battery issues caused some delays into March 2026 (APR-004).\n\n---\n\n### Summary\n\n| System | Status | Urgency |\n|---|---|---|\n| ERP (Tyler New World) | Failing in production; procurement not yet authorized | \ud83d\udd34 Most urgent |\n| Hexagon CAD/RMS | Implementation on track; go-live late summer 2026 | \ud83d\udfe1 Monitor |\n| IPS Parking Meters | Largely resolved; minor delays | \ud83d\udfe2 Low |\n\nThe ERP situation stands out because it combines **current operational harm** (payroll errors) with a **closing window for proactive action** before the vendor forces the city's hand \u2014 a combination the memos do not show for any other technology item.",
+    "cited_sources": [
+      {
+        "memo_id": "APR-002",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-004",
+        "title": "Parking Program Updates \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "APR-010",
+        "title": "Reno Seniors EngAGED Quarterly Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95754/639123702505330000"
+      },
+      {
+        "memo_id": "APR-011",
+        "title": "Reno Direct & Service Requests Report \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639123702500100000"
+      },
+      {
+        "memo_id": "APR-013",
+        "title": "City of Reno Boards & Commissions 2026 Q4 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95758/639124654434230000"
+      },
+      {
+        "memo_id": "APR-014",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639124654440770000"
+      },
+      {
+        "memo_id": "FEB-018",
+        "title": "Parking Program Updates \u2014 January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000"
+      },
+      {
+        "memo_id": "JAN-002",
+        "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95257/639038034123830000"
+      },
+      {
+        "memo_id": "JAN-003",
+        "title": "Parking Program Updates \u2013 December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000"
+      },
+      {
+        "memo_id": "JAN-008",
+        "title": "Reno Seniors EngAGED Program Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95291/639046102085270000"
+      },
+      {
+        "memo_id": "JAN-014",
+        "title": "Monthly Economic Update: January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000"
+      },
+      {
+        "memo_id": "JAN-015",
+        "title": "December 2025 Reno Direct & Service Requests Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95313/639052803983630000"
+      }
+    ],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "APR-002",
+      "APR-004",
+      "APR-010",
+      "APR-011",
+      "APR-013",
+      "APR-014",
+      "FEB-018",
+      "JAN-002",
+      "JAN-003",
+      "JAN-008",
+      "JAN-014",
+      "JAN-015"
+    ]
+  },
+  "error": null
+}

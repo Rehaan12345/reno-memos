@@ -1,0 +1,589 @@
+{
+  "run_id": "P03__B-research__2026-06-07T21-45-18Z",
+  "prompt_id": "P03",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:45:18.233055+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Funding Cliff Analysis: Reno Seniors EngAGED Program\n\n### The Clearest and Most Urgent Funding Cliff\n\nThe memos point to one program with an explicit, confirmed funding cliff: the **Reno Seniors EngAGED Program**.\n\nTwo separate memos \u2014 JAN-008 (January 2026) and APR-011 (April 2026) \u2014 both state that ARPA funding for all components of this program will end at the close of **December 2026**. Critically, JAN-008 states plainly that \"no additional funds are currently available to extend the program beyond that date.\" APR-011, filed three months later, repeats the same deadline without reporting any new funding source, suggesting no solution had been found as of April 2026.\n\n**What the memos say happens if nothing is done:** The program simply ends. There is no stated contingency plan, no alternative funder identified, and no council vote requested in either memo. JAN-008 implicitly signals the need for a funding decision but stops short of requesting one. The program served **1,720 participants** in just four months (September\u2013December 2025, per JAN-008) and **1,256 more** in Q1 2026 alone (APR-011), suggesting meaningful community reliance on free senior programming \u2014 line dance classes, art classes, tech connect sessions, and social events \u2014 that would disappear without action.\n\n---\n\n### A Second, Less Defined Cliff: City ERP System\n\nMAR-005 describes a different kind of cliff: the city's core financial and HR software (Tyler Technologies' New World) is approaching **end-of-life**, after which it will no longer be supported. The memo warns of existing risks \u2014 payroll miscalculations, FLSA compliance failures, fire shift recording errors \u2014 that would worsen without a replacement. However, **no specific sunset date has been provided by the vendor**, making this a cliff without a confirmed edge. The memo asks Council to authorize budget for a replacement before the deadline is known, precisely to avoid being caught unprepared.\n\n---\n\n### What Is NOT a Funding Cliff in These Memos\n\n- **Love Your Block** (JAN-009) is externally funded by Bloomberg and appears to be a one-year cycle, but the memos do not describe it as facing a cliff or termination risk.\n- **Hi-Way 40** (FEB-013) had a funding gap that was **already resolved** by a NAHA grant.\n- **Park Partners** (MAR-010) is a pilot with no funding crisis flagged.\n\n---\n\n### Bottom Line\n\nThe memos suggest the **Reno Seniors EngAGED Program faces the most concrete and time-bound funding cliff** \u2014 a hard stop at December 2026 with no replacement funding identified as of April 2026 (JAN-008, APR-011). If nothing is done, roughly 1,700+ seniors per quarter lose access to free programming with no stated alternative. The ERP situation (MAR-005) is a second risk, but its timeline is uncertain and a council ask is already on the table.",
+    "cited_sources": [
+      {
+        "memo_id": "MAR-010",
+        "title": "Park Partners Pilot Program at Oxbow and Summit Ridge Park",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95593/639093386927330000"
+      },
+      {
+        "memo_id": "JAN-008",
+        "title": "Reno Seniors EngAGED Program Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95291/639046102085270000"
+      },
+      {
+        "memo_id": "APR-011",
+        "title": "Reno Seniors EngAGED Quarterly Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95754/639137585427170000"
+      },
+      {
+        "memo_id": "APR-006",
+        "title": "Roadway Debris and Litter",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95742/639137583069670000"
+      },
+      {
+        "memo_id": "JAN-009",
+        "title": "Love Your Block Program Year Two Updates",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95295/639046884171270000"
+      },
+      {
+        "memo_id": "FEB-003",
+        "title": "FY 2025 Popular Annual Financial Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95342/639056480426000000"
+      },
+      {
+        "memo_id": "MAR-005",
+        "title": "Enterprise Resource Planning Software (ERP) Current State",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95567/639088395198430000"
+      },
+      {
+        "memo_id": "FEB-013",
+        "title": "Hi-Way 40 Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95498/639070252999530000"
+      },
+      {
+        "memo_id": "FEB-011",
+        "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95491/639070168105430000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "JAN-009"
+          ]
+        },
+        {
+          "name": "Strategic Communications",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-006",
+            "APR-011",
+            "FEB-003",
+            "FEB-011",
+            "FEB-013",
+            "JAN-008",
+            "JAN-009",
+            "MAR-005",
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Matt Brezina, Parks Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Nathan Ullyot, Director of Parks and Recreation",
+          "type": "people",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Housing and Neighborhood Development",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013",
+            "JAN-009"
+          ]
+        },
+        {
+          "name": "Monica Kirch, Director of Housing and Neighborhood Development",
+          "type": "people",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013",
+            "JAN-009",
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Community Engagement and Services",
+          "type": "departments",
+          "memo_ids": [
+            "APR-006",
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Adopt-a-Senior",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Fun Friday Dances",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Reno Seniors EngAGED Program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Art Classes",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Day at the Automobile Museum",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Enrichment ARPA Funding",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Night at Dragon Lights",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Senior Tech Connect Classes",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Weekly Line Dance Classes",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Cynthia Esparza, Director of Community Engagement and Services",
+          "type": "people",
+          "memo_ids": [
+            "APR-006",
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "Izabella Baumann, Senior Engagement Coordinator",
+          "type": "people",
+          "memo_ids": [
+            "APR-011",
+            "JAN-008"
+          ]
+        },
+        {
+          "name": "CommUNITY Grant",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-009"
+          ]
+        },
+        {
+          "name": "Love Your Block Program",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-009"
+          ]
+        },
+        {
+          "name": "Cori Fisher, Housing Manager, Housing and Neighborhood Development",
+          "type": "people",
+          "memo_ids": [
+            "JAN-009"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "GFOA PAFR Award Program",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Popular Annual Financial Report (PAFR)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Triple Crown Winner \u2013 Financial Reporting (Budget Book, ACFR, PAFR)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Matt Taylor, Assistant Finance Director",
+          "type": "people",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Vicki Van Buren, Director of Finance",
+          "type": "people",
+          "memo_ids": [
+            "FEB-003"
+          ]
+        },
+        {
+          "name": "Reno Direct",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Nevada Department of Transportation (NDOT)",
+          "type": "departments",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "City of Reno Sewer Enterprise Fund",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Nevada Housing Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Assembly Bill 540",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Development Opportunities",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Homeownership Opportunities",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Local Government Matching Fund",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Nevada Attainable Housing Account (NAHA)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Vintage at Redfield",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Vintage at Stoker",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-011"
+          ]
+        },
+        {
+          "name": "Elaine Wiseman, Housing Administrator",
+          "type": "people",
+          "memo_ids": [
+            "FEB-011",
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Coronavirus State and Local Fiscal Recovery Funds (SLFRF)",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Hi-Way 40 Motel Rehabilitation / Permanent Supportive Housing Project",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-013"
+          ]
+        },
+        {
+          "name": "Suzanne Groneman, Environmental Services Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "ERP Replacement Initiative",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Mark Stone, Payroll Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Park Partners Program",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Riplee Foli, Office Assistant II (Parks and Recreation)",
+          "type": "people",
+          "memo_ids": [
+            "MAR-010"
+          ]
+        },
+        {
+          "name": "Nevada Department of Public Safety",
+          "type": "departments",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "Franchise Partner Support \u2013 Waste Management bill insert messaging",
+          "type": "projects",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "Funding application for comprehensive debris/litter program",
+          "type": "projects",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "Public Communications campaign for free dump days",
+          "type": "projects",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "Regional Coordination \u2013 commercial hauler contact list and planning call",
+          "type": "projects",
+          "memo_ids": [
+            "APR-006"
+          ]
+        },
+        {
+          "name": "Senior Resource Fair",
+          "type": "projects",
+          "memo_ids": [
+            "APR-011"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "JAN-008",
+          "target_id": "APR-011",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Reno Seniors EngAGED Program, Senior Art Classes, Senior Enrichment ARPA Funding, Weekly Line Dance Classes"
+        },
+        {
+          "source_id": "FEB-011",
+          "target_id": "FEB-013",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Nevada Attainable Housing Account (NAHA)"
+        }
+      ],
+      "fields": {
+        "MAR-010": {
+          "title": "Park Partners Pilot Program at Oxbow and Summit Ridge Park",
+          "department": "Parks and Recreation",
+          "category": "Parks and Recreation",
+          "tldr": "The Parks and Recreation Department is launching the Park Partners pilot program at Oxbow Nature Study and Summit Ridge Park in April 2026. The program creates a structured way for community members to report safety concerns and maintenance issues via signage, phone numbers, and a QR code linked to Reno Direct. Active reporters may be invited to volunteer for hands-on park upkeep tasks. The pilot runs through December 2026, with quarterly updates to City Council and potential expansion to other parks if successful.",
+          "key_stats": "Pilot runs April\u2013December 2026 at 2 parks (Oxbow Nature Study and Summit Ridge Park); quarterly updates to City Council; potential future expansion to Teglia's Paradise Park and Virginia Lake Park.",
+          "key_decisions": "Approval/awareness of the Park Partners pilot program launch at Oxbow Nature Study and Summit Ridge Park; program evaluation criteria include quantity of service requests reported and number of dedicated volunteers.",
+          "action_items": "Install signs at Oxbow Nature Study and Summit Ridge Park in March 2026; hold media event with Communications Department in early April 2026; track reports via Reno Direct; provide quarterly updates to City Council; evaluate program in December 2026; expand to additional parks if successful."
+        },
+        "JAN-008": {
+          "title": "Reno Seniors EngAGED Program Update",
+          "department": "Community Engagement and Services Department",
+          "category": "Community Services",
+          "tldr": "The Reno Seniors EngAGED Program provided free senior-centered programming from September to December 2025, serving a total of 1,720 participants across events including line dance classes, art classes, dances, and tech connect sessions. The program is funded through ARPA funds allocated by City Council in April 2023. ARPA funding will conclude by the end of December 2026, and no additional funds are currently available to extend the program beyond that date.",
+          "key_stats": "Total participants September\u2013December 2025: 1,720; Weekly Line Dance Classes: 828 participants; Fun Friday Dances: 210 participants; Senior Art Classes: 189 participants; Senior Night at Dragon Lights: 250 participants; Senior Day at the Automobile Museum: 124 participants; Senior Tech Connect Classes (Oct): 43 participants; Adopt-a-Senior: 50 participants; Senior Tech Connect Classes (Dec): 26 participants.",
+          "key_decisions": "City Council allocated ARPA funds for senior enrichment in April 2023. No additional funds are currently available to extend the Reno Seniors EngAGED Program beyond December 2026.",
+          "action_items": "No specific action items are stated in the memo; however, the memo implicitly signals a need for future funding decisions before December 2026 to continue the program."
+        },
+        "APR-011": {
+          "title": "Reno Seniors EngAGED Quarterly Update",
+          "department": "Community Engagement and Services Department",
+          "category": "Community Services",
+          "tldr": "The Community Engagement and Services Department provided a quarterly update on the Reno Seniors EngAGED program for January through March 2026. The program, funded by an ARPA senior enrichment allocation approved in April 2023, offers free senior-centered programming including weekly line dance classes, art classes, and a resource fair. A total of 1,256 participants were served during the quarter. ARPA funding for all three program components is set to conclude at the end of December 2026.",
+          "key_stats": "Total Q1 2026 participants: 1,256; Weekly Line Dance Classes: 664 participants; Senior Art Classes: 232 participants; Senior Resource Fair (January 22, 2026): 360 participants",
+          "key_decisions": "Reno City Council approved a senior enrichment ARPA allocation in April 2023 to combat senior isolation post-pandemic; ARPA funding for all Reno Seniors EngAGED programming will conclude at end of December 2026.",
+          "action_items": null
+        },
+        "APR-006": {
+          "title": "Roadway Debris and Litter",
+          "department": "Community Engagement & Services",
+          "category": "Public Works / Environmental Services",
+          "tldr": "Unsecured vehicle loads are causing roadway debris and safety hazards along I-80 and routes to the Lockwood Landfill. Nevada statutes prohibit unsecured loads, and 75 citations were issued over the past 24 months, but enforcement alone has not resolved the problem. The City is coordinating with Waste Management and NDOT, launching public communications around free dump days, and pursuing additional funding for a broader education and cleanup program.",
+          "key_stats": "75 citations issued in the last 24 months under NRS 444.615 and NAC 444.629; free dump days run April 16\u201325, 2026; cleanup of I-80 areas reported by residents completed March 7, 2026.",
+          "key_decisions": "No formal council votes requested in this memo; memo is informational. Waste Management has committed to tracking unsecured-load instances at Lockwood Landfill. City will post public reminders ahead of free dump days.",
+          "action_items": "1) Community Engagement & Services to develop a commercial hauler contact list and hold a planning coordination call. 2) City to post load-securing reminders ahead of April 16\u201325 free dump days. 3) Community Engagement & Services to await outcome of submitted funding application for enforcement tracking, public education, and regional cleanups. 4) Waste Management to begin tracking unsecured-load instances at Lockwood Landfill."
+        },
+        "JAN-009": {
+          "title": "Love Your Block Program Year Two Updates",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing and Neighborhood Development",
+          "tldr": "The City of Reno's Love Your Block program is entering its second year, funded by Bloomberg's Center for Public Innovation, with Ward 1 selected as the focus area due to high concentrations of residential code violations. The 2026 program features two grant rounds: the CommUNITY Grant for neighborhood beautification and community events, and a second round for individual home exterior improvements. Applications for the CommUNITY Grant open February 13 and close March 31, 2026, with awards announced April 22. The second round opens May 1, 2026, on a rolling basis until funds are exhausted.",
+          "key_stats": "Two grant funding rounds in 2026; Ward 1 selected as focus area based on high concentration of residential code violations; CommUNITY Grant open February 13\u2013March 31, 2026; awards announced April 22, 2026; implementation phase runs late April through end of September; second round opens May 1, 2026 on a rolling basis.",
+          "key_decisions": "Ward 1 selected as the 2026 program focus area in coordination with Code Enforcement; two distinct grant categories established to support both larger neighborhood initiatives and individual home improvements; rolling application basis for second grant round until funding is exhausted.",
+          "action_items": "Open CommUNITY Grant applications on February 13, 2026; close CommUNITY Grant applications on March 31, 2026; subcommittee to review and score submissions in April 2026; announce grant awards on April 22, 2026; begin project implementation late April through end of September 2026; open second application round on May 1, 2026 on a rolling basis."
+        },
+        "FEB-003": {
+          "title": "FY 2025 Popular Annual Financial Report",
+          "department": "Finance",
+          "category": "Finance",
+          "tldr": "The City of Reno's Finance Department has completed and submitted the FY 2025 Popular Annual Financial Report (PAFR) to the Government Finance Officers Association (GFOA) for review. The PAFR is a public-friendly summary of the city's financial position, major initiatives, and local economic conditions. If the GFOA award is received, it will mark the fourth consecutive year of recognition and qualify Reno as a Triple Crown Winner in financial reporting, covering the Budget Book, ACFR, and PAFR. The report is publicly available on the City of Reno's Finance Department website.",
+          "key_stats": "Fourth consecutive year of potential GFOA PAFR award recognition; Triple Crown Winner status at stake covering Budget Book, ACFR, and PAFR achievements.",
+          "key_decisions": "No council action required; memo is informational, notifying the Mayor and City Council of the PAFR submission to the GFOA.",
+          "action_items": "No formal action items identified; Finance Department invites questions and is available for discussion regarding the PAFR submission."
+        },
+        "MAR-005": {
+          "title": "Enterprise Resource Planning Software (ERP) Current State",
+          "department": "City Manager's Office",
+          "category": "Technology & Infrastructure",
+          "tldr": "The City of Reno's current ERP system, Tyler Technologies' New World, is approaching end-of-life and will no longer be supported, creating significant compliance, payroll, and operational risks. The system already requires extensive manual workarounds for FLSA overtime, contractual pay changes, fire shift trades, budgeting, financial reporting, and HR management. Staff recommends proactive action to evaluate and procure a modern ERP replacement before the sunset date is confirmed. Council is asked to authorize budget allocation for procurement, implementation, and training.",
+          "key_stats": "Six major operational pain points identified: FLSA overtime miscalculations, contractual pay manual adjustments, fire shift trade recording errors, inadequate budget module, insufficient financial reporting capability, and deficient HR/personnel management module. No exact end-of-life date has been provided by Tyler Technologies.",
+          "key_decisions": "Council is asked to authorize budget allocation to support procurement, implementation, and training for a replacement ERP system to ensure a planned, seamless transition before the current system reaches end-of-life.",
+          "action_items": "Authorize budget allocation for ERP procurement, implementation, and training; initiate evaluation and selection process for a modern ERP replacement system before Tyler Technologies' New World reaches its sunset date."
+        },
+        "FEB-013": {
+          "title": "Hi-Way 40 Update",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing",
+          "tldr": "The City partnered with Volunteers of America (VOA) to rehabilitate the Hi-Way 40 Motel into 28 units of Permanent Supportive Housing for homeless individuals with disabilities earning at or below 30% AMI. The project faced unforeseen cost overruns due to extensive asbestos abatement and deteriorated building conditions. A $1,479,476 grant from the Nevada Attainable Housing Account (NAHA), awarded February 5, 2026, closed the remaining funding gap. Construction is expected to finish by end of March 2026, with lease-up beginning in April 2026.",
+          "key_stats": "28 units of Permanent Supportive Housing; total known public funding: $2,000,000 (initial SLFRF) + $350,000 (additional SLFRF) + $1,479,476 (NAHA) = $3,829,476; target population: individuals at or below 30% AMI with mental or physical disability experiencing homelessness",
+          "key_decisions": "NAHA Council awarded Hi-Way 40 the full requested amount of $1,479,476 on February 5, 2026, resolving the project funding gap and enabling completion.",
+          "action_items": "Housing and Neighborhood Development staff will keep Mayor and City Council informed of grand opening events and opportunities to recognize the Hi-Way 40 project completion as a community milestone."
+        },
+        "FEB-011": {
+          "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+          "department": "Housing and Neighborhood Development",
+          "category": "Housing",
+          "tldr": "Nevada's Assembly Bill 540 created the Nevada Attainable Housing Account (NAHA), appropriating $133 million statewide for affordable housing. The City of Reno applied for reimbursement of half the fees waived for two FY 2025 affordable housing developments, totaling $1,248,579, and was awarded the full amount on February 5, 2026. Reno remains eligible for an additional ~$891,404 in the 2026 NAHA Allocation Plan. Staff will continue evaluating the program and keep Council informed.",
+          "key_stats": "Statewide NAHA appropriation: $133 million; Total fees waived by Reno to date: ~$11.8 million; Reno's total NAHA reimbursement eligibility: $2,139,983; FY 2025 qualifying developments: Vintage at Redfield and Vintage at Stoker (703 combined affordable units); Total fees waived for those two projects: $2,497,158; Reimbursement requested (50% match requirement): $1,248,579; Amount awarded: $1,248,579; Remaining 2026 NAHA eligibility: ~$891,404",
+          "key_decisions": "The NAHA Council awarded the City of Reno the full requested reimbursement of $1,248,579 on February 5, 2026. The City must provide a 50% match to qualify for NAHA reimbursement under Assembly Bill 540.",
+          "action_items": "Housing and Neighborhood Development staff will convene internally to evaluate the future of the NAHA-Affordable Housing Fee Waiver Program and will keep the Mayor and City Council informed; the City may apply for approximately $891,404 in reimbursement from the 2026 NAHA Allocation Plan."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "MAR-010",
+      "JAN-008",
+      "APR-011",
+      "APR-006",
+      "JAN-009",
+      "FEB-003",
+      "MAR-005",
+      "FEB-013",
+      "FEB-011"
+    ]
+  },
+  "error": null
+}

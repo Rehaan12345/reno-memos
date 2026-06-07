@@ -1,0 +1,622 @@
+{
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "date_ceiling_inclusive": "2026-04-26",
+  "documents": [
+    {
+      "doc_id": "95243",
+      "title": "Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-01-02",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95243/639029680536130000",
+      "text_path": "documents/95243.txt",
+      "pdf_sha256": "3e4de1ca8ee54fc644a25402ab66893dd3c5ffc31b57b792dfad5cbfc8b8d539"
+    },
+    {
+      "doc_id": "95257",
+      "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+      "publication_date": "2026-01-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95257/639038034123830000",
+      "text_path": "documents/95257.txt",
+      "pdf_sha256": "0d5ec29d24fb00672495b31f08a5b6b11ac0c26b39409e3839cce0cb5ef7d209"
+    },
+    {
+      "doc_id": "95256",
+      "title": "Parking Program Updates - December 2025",
+      "publication_date": "2026-01-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000",
+      "text_path": "documents/95256.txt",
+      "pdf_sha256": "6bec8ecfc9c3b2779c475b1660aa1ac3cf09234066a3c08e9403987a0feed100"
+    },
+    {
+      "doc_id": "95258",
+      "title": "01.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-01-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95258/639038045448000000",
+      "text_path": "documents/95258.txt",
+      "pdf_sha256": "8bb0404ff8dd6165369c83c2f22b478960289426e7416c16cdaad2c12d8d5c72"
+    },
+    {
+      "doc_id": "95268",
+      "title": "2026 Park Vandalism Incidents",
+      "publication_date": "2026-01-14",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95268/639040050085370000",
+      "text_path": "documents/95268.txt",
+      "pdf_sha256": "d2168d2c5a3585a0b3308220cf304f7d9517a38765db2c7eb745575b918cc49f"
+    },
+    {
+      "doc_id": "95269",
+      "title": "Monthly Rental and Deposit Assistance Program Update \u2013 December 2025",
+      "publication_date": "2026-01-14",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95269/639040050270200000",
+      "text_path": "documents/95269.txt",
+      "pdf_sha256": "23bd5b24ee4b13883695a72dc4698673d82da908eb103e0df47cc849df49c24c"
+    },
+    {
+      "doc_id": "95286",
+      "title": "01.16.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-01-16",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95286/639041775283930000",
+      "text_path": "documents/95286.txt",
+      "pdf_sha256": "d636d634282911543f2fffdbc55199fe5429c81013814d4ac40a760a707e6355"
+    },
+    {
+      "doc_id": "95291",
+      "title": "Reno Seniors EngAGED Program Update",
+      "publication_date": "2026-01-21",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95291/639046102085270000",
+      "text_path": "documents/95291.txt",
+      "pdf_sha256": "33a3909db0acea240b3efef069ff2c044cb1220bbf47fe96c93e15b3b02d9744"
+    },
+    {
+      "doc_id": "95297",
+      "title": "RTC ICA FY2020 through FY2026",
+      "publication_date": "2026-01-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95297/639046976342530000",
+      "text_path": "documents/95297.txt",
+      "pdf_sha256": "515e0b552b443cb3cfbf58211210a82b28296af59a87e2f1ef95c307697fd618"
+    },
+    {
+      "doc_id": "95296",
+      "title": "Approved Position Update",
+      "publication_date": "2026-01-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95296/639046886640970000",
+      "text_path": "documents/95296.txt",
+      "pdf_sha256": "4d68f6333c07fc95b07259289146d768a331854808c37d46cb09235fea2b347f"
+    },
+    {
+      "doc_id": "95295",
+      "title": "Love Your Block Program Year Two Updates",
+      "publication_date": "2026-01-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95295/639046884171270000",
+      "text_path": "documents/95295.txt",
+      "pdf_sha256": "d6f32aaa3df27558e7d82ba62f50727bceabafad9641b92edcd98ed9c430bcc2"
+    },
+    {
+      "doc_id": "95301",
+      "title": "2026 Reno Police Department Beat-Based Town Halls and Neighborhood Advisory Board Presentations",
+      "publication_date": "2026-01-26",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95301/639050428618130000",
+      "text_path": "documents/95301.txt",
+      "pdf_sha256": "802c0969b9b2a7350ec84e5c095531f6c6d9c594ad841b86c64a482a141966e2"
+    },
+    {
+      "doc_id": "95300",
+      "title": "Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-01-26",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95300/639050428428870000",
+      "text_path": "documents/95300.txt",
+      "pdf_sha256": "2deb457e68dba2393a09dd4131c7c0d5766789948c390d003b38673dcfa8d683"
+    },
+    {
+      "doc_id": "95312",
+      "title": "Monthly Economic Update - January 2026",
+      "publication_date": "2026-01-29",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000",
+      "text_path": "documents/95312.txt",
+      "pdf_sha256": "666fe1aaa8c304e80f1dbf6852a8b7fbe7c3e2bc29ae0f4ff60fc0da0eed6954"
+    },
+    {
+      "doc_id": "95313",
+      "title": "Reno Direct & Service Requests Report - December 2025",
+      "publication_date": "2026-01-29",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95313/639052803983630000",
+      "text_path": "documents/95313.txt",
+      "pdf_sha256": "d26ea38385a29284322d263e4949c4e4ac0c258b815fd19da3ac092040d52792"
+    },
+    {
+      "doc_id": "95331",
+      "title": "01.30.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-01-30",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95331/639056158287470000",
+      "text_path": "documents/95331.txt",
+      "pdf_sha256": "a64958b73f2201df401aa7ac94ef81f428e15d7511266a0a432d2bb0edb80b84"
+    },
+    {
+      "doc_id": "95340",
+      "title": "Regional Fee Schedule Comparison",
+      "publication_date": "2026-02-02",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95340/639058843242300000",
+      "text_path": "documents/95340.txt",
+      "pdf_sha256": "e4b4446d581b4d9ffece1180ff5b82aab569be570878d9a49b885f43b6264812"
+    },
+    {
+      "doc_id": "95341",
+      "title": "Planned Tree Removals at Lear Theater",
+      "publication_date": "2026-02-02",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95341/639056480242370000",
+      "text_path": "documents/95341.txt",
+      "pdf_sha256": "5d6475018657e792587e21a5d20c37d7e0be160dabcf88c4b548f4af1b4f4791"
+    },
+    {
+      "doc_id": "95342",
+      "title": "FY 2025 Popular Annual Financial Report",
+      "publication_date": "2026-02-02",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95342/639056480426000000",
+      "text_path": "documents/95342.txt",
+      "pdf_sha256": "61075b6658519b21db093c96acd7bdd38aeb4e4a036da633fbd5040ec090095e"
+    },
+    {
+      "doc_id": "95356",
+      "title": "February 11, 2026 City Council Meeting \u2013 Item C.6 Correction",
+      "publication_date": "2026-02-06",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95356/639059875869770000",
+      "text_path": "documents/95356.txt",
+      "pdf_sha256": "241c98fb3c2c1a69bdd512213baa3b1f0138dd258d94e624ce20abcceb4b34e3"
+    },
+    {
+      "doc_id": "95460",
+      "title": "FY 2026 Federal Appropriations for the City of Reno",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95460/639064260237100000",
+      "text_path": "documents/95460.txt",
+      "pdf_sha256": "f7a1df842fdf6383869f9d38386ffb470a66dffde50845fe6d137993db36a4ca"
+    },
+    {
+      "doc_id": "95464",
+      "title": "Virginia Range Horse Fencing Progress Update",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95464/639064818584200000",
+      "text_path": "documents/95464.txt",
+      "pdf_sha256": "cac4b2a5c6bf271ca541d4e81152fc7930cfa4aec872a6e56928b10eb1209feb"
+    },
+    {
+      "doc_id": "95459",
+      "title": "Washoe County School District Intern Program",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95459/639064259993500000",
+      "text_path": "documents/95459.txt",
+      "pdf_sha256": "65c3b834b88343464f3bddb512a0ee704700ba391487fe4e2188e11dd1e64c20"
+    },
+    {
+      "doc_id": "95463",
+      "title": "December 2025 Clean and Safe Team Homeless Actions and Outcomes",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95463/639064819937100000",
+      "text_path": "documents/95463.txt",
+      "pdf_sha256": "8d63127aedfd38071e6195aba6e90cab7149a090eb3d73293e5139a7370a2a6b"
+    },
+    {
+      "doc_id": "95461",
+      "title": "December 2025 City Walk Outcomes",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95461/639064260517970000",
+      "text_path": "documents/95461.txt",
+      "pdf_sha256": "10a06f69c17edba5c7b7c43c2b2c0424a508e16a644979fb473b6d28c4993495"
+    },
+    {
+      "doc_id": "95462",
+      "title": "02.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-02-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95462/639064817375270000",
+      "text_path": "documents/95462.txt",
+      "pdf_sha256": "62acc440aa51e7594360a98174a8b90945b0e7695100f53cb5bc2b3d28f7883b"
+    },
+    {
+      "doc_id": "95501",
+      "title": "Waste Management Contract and Billing Clarification",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95501/639070276216770000",
+      "text_path": "documents/95501.txt",
+      "pdf_sha256": "2f29fb79773793ba9582f19c35ba4b0edd8e4b4d4ac6d992ca1a6d305d31bd1e"
+    },
+    {
+      "doc_id": "95500",
+      "title": "Washoe County Emergency Management Evacuation Study and Zoning",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95500/639070275898370000",
+      "text_path": "documents/95500.txt",
+      "pdf_sha256": "5654b149310f9e0c95b9e66807799b987f64f3758963a5918094d8f6b1f43022"
+    },
+    {
+      "doc_id": "95499",
+      "title": "Vintage at the Crossings Community Meeting Update",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95499/639070275479230000",
+      "text_path": "documents/95499.txt",
+      "pdf_sha256": "704ef0adc157df393fdb07c7faf5a8a18b3e3217d6b19bc10226f162172401d4"
+    },
+    {
+      "doc_id": "95498",
+      "title": "Hi-Way 40 Update",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95498/639070252999530000",
+      "text_path": "documents/95498.txt",
+      "pdf_sha256": "2ab1698641439b4ce81a5447153d2ee947ec3761e1a464efe1e2ed95546f6918"
+    },
+    {
+      "doc_id": "95491",
+      "title": "Nevada Attainable Housing Account-Affordable Housing Fee Waivers",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95491/639070168105430000",
+      "text_path": "documents/95491.txt",
+      "pdf_sha256": "9b4be89a433e472bf374644a6e42584762727ce07cb1ac39ecf8b5e2dd1be51a"
+    },
+    {
+      "doc_id": "95492",
+      "title": "Quarterly Financial Report \u2013 December 31, 2025",
+      "publication_date": "2026-02-18",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95492/639070216121470000",
+      "text_path": "documents/95492.txt",
+      "pdf_sha256": "39d82f5835caab53496258026a5218905699b66010697e42027e47fe344f7e57"
+    },
+    {
+      "doc_id": "95513",
+      "title": "Quarterly Investment Report \u2013 December 31, 2025",
+      "publication_date": "2026-02-24",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95513/639075418805670000",
+      "text_path": "documents/95513.txt",
+      "pdf_sha256": "8dd57d004874f644c74a7eae521af5777278ba698e7dadb72f35e959e7d86cc1"
+    },
+    {
+      "doc_id": "95511",
+      "title": "Parking Program Updates - January 2026",
+      "publication_date": "2026-02-24",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000",
+      "text_path": "documents/95511.txt",
+      "pdf_sha256": "da674c5071d421350f465901ddfe76fd7da34c3204a1d08eaae877e1eddbede1"
+    },
+    {
+      "doc_id": "95509",
+      "title": "Ordinance Updates and Timelines",
+      "publication_date": "2026-02-24",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95509/639076062916500000",
+      "text_path": "documents/95509.txt",
+      "pdf_sha256": "890a52d4baefe1da4683a2688b9db1d48da3a90f87910d54608f30723c23e2a2"
+    },
+    {
+      "doc_id": "95517",
+      "title": "02.27.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-02-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95517/639078055234070000",
+      "text_path": "documents/95517.txt",
+      "pdf_sha256": "01738e6ac81e127251f545d594665095b5bdfe5f3863ae1b8a5c13369cdc38f4"
+    },
+    {
+      "doc_id": "95542",
+      "title": "Monthly Economic Update - February 2026",
+      "publication_date": "2026-03-03",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95542/639081516545570000",
+      "text_path": "documents/95542.txt",
+      "pdf_sha256": "310a5cb43781c7d0231b30541481da333b9e7af781168529622d36233cd8a7a2"
+    },
+    {
+      "doc_id": "95550",
+      "title": "Code Enforcement Process Updates",
+      "publication_date": "2026-03-05",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95550/639083214610930000",
+      "text_path": "documents/95550.txt",
+      "pdf_sha256": "d429c2c0d9e04dac26f0de6cf396ca7838bc3a256aee7f0e485a79b0e3e80bc0"
+    },
+    {
+      "doc_id": "95552",
+      "title": "January 2026 City Walk Outcomes",
+      "publication_date": "2026-03-05",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95552/639083214420930000",
+      "text_path": "documents/95552.txt",
+      "pdf_sha256": "f985f2b47f1ec24b597188b54473814a053641f60801def2f7098306883b7bba"
+    },
+    {
+      "doc_id": "95554",
+      "title": "January 2026 Clean and Safe Team Homeless Actions and Outcomes",
+      "publication_date": "2026-03-05",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95554/639083214266900000",
+      "text_path": "documents/95554.txt",
+      "pdf_sha256": "13d590a6b066d0836ff31fb153285d40d8f16a6bb09aa554f0a2e836e1ae32db"
+    },
+    {
+      "doc_id": "95567",
+      "title": "Enterprise Resource Planning Software (ERP) Current State",
+      "publication_date": "2026-03-11",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95567/639088395198430000",
+      "text_path": "documents/95567.txt",
+      "pdf_sha256": "b784277b403161c3b5ce58443500c2666409a59536c1ff3846c9e5404caac02a"
+    },
+    {
+      "doc_id": "95581",
+      "title": "03.10.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-03-13",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95581/639092759565930000",
+      "text_path": "documents/95581.txt",
+      "pdf_sha256": "0f2287af7a6e7beab9cd168c18fb532a14e9b2a6b470ab23d31c6c9462a2d1fb"
+    },
+    {
+      "doc_id": "95583",
+      "title": "03.13.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-03-13",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95583/639092760009800000",
+      "text_path": "documents/95583.txt",
+      "pdf_sha256": "438c3bd8fd4a997ef482ee0067e152351ccb2ca8ca4a877bfc1a48f18030aa58"
+    },
+    {
+      "doc_id": "95599",
+      "title": "2026 Waste Management Allowance and Host Fees Increase Notice",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95599/639093385381570000",
+      "text_path": "documents/95599.txt",
+      "pdf_sha256": "bf2d004025238902f4fa29aa23bb49fa5c4ea75cd27a7a82fe218fa67e61d40e"
+    },
+    {
+      "doc_id": "95601",
+      "title": "2026 Waste Management Rate Increase Notice",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95601/639093344890300000",
+      "text_path": "documents/95601.txt",
+      "pdf_sha256": "df1b6f13235aa309d36b4a54e7bad38ebc5b8e9f27e991684101124cfffedb02"
+    },
+    {
+      "doc_id": "95591",
+      "title": "Monthly Hexagon Update - March 2026",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95591/639093387398700000",
+      "text_path": "documents/95591.txt",
+      "pdf_sha256": "55bc92056914a7f6c7654e78000e6f0bc934312a733d2a9ef424031b5748e25f"
+    },
+    {
+      "doc_id": "95589",
+      "title": "LDC26-00033 (Trego Grid Battery Energy Storage System)",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95589/639093388066770000",
+      "text_path": "documents/95589.txt",
+      "pdf_sha256": "f90907b9c457e1b6832ed9a49f29a2b15ae10cb04c15cc3ef01dd820d8c4f523"
+    },
+    {
+      "doc_id": "95595",
+      "title": "Update on Lear Community Meeting and Survey",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95595/639093344509200000",
+      "text_path": "documents/95595.txt",
+      "pdf_sha256": "4b33af6e63c5be0eb417a4697a472f89f77373f8af9b40b796442283562955c5"
+    },
+    {
+      "doc_id": "95593",
+      "title": "Park Partners Pilot Program at Oxbow and Summit Ridge Park",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95593/639093386927330000",
+      "text_path": "documents/95593.txt",
+      "pdf_sha256": "ccf9791864811ef37dc2f7587edb443ca268fa65f1260d76521f47d124f12792"
+    },
+    {
+      "doc_id": "95597",
+      "title": "Update Regarding Potential Acquisition of APN 019-232-69 (0 Lakeside Drive)",
+      "publication_date": "2026-03-17",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95597/639093344516870000",
+      "text_path": "documents/95597.txt",
+      "pdf_sha256": "db007ae37970d651e51076e0a6b7703efbb41117ca159c3f800f826d85b60f2a"
+    },
+    {
+      "doc_id": "95606",
+      "title": "Reno Tahoe Airport Authority Board of Trustees Appointments Update",
+      "publication_date": "2026-03-19",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95606/639095347402470000",
+      "text_path": "documents/95606.txt",
+      "pdf_sha256": "5790161834638ffc1c8bf530179e14d508fa791d78b59946a1979acb1cae27ba"
+    },
+    {
+      "doc_id": "95615",
+      "title": "Reno Direct & Service Requests Report \u2013 January 2026",
+      "publication_date": "2026-03-23",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95615/639104837813970000",
+      "text_path": "documents/95615.txt",
+      "pdf_sha256": "b4bf0cf4725d9918cf1917e7adf75d675b8f011ed7066627d6a6dfd5cbba06bf"
+    },
+    {
+      "doc_id": "95613",
+      "title": "Reno Direct & Service Requests Report \u2013 February 2026",
+      "publication_date": "2026-03-23",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95613/639104840089300000",
+      "text_path": "documents/95613.txt",
+      "pdf_sha256": "acb5857ce08bddc3d5f8c047f3a26517c10683417acd749c57a70f04e732494f"
+    },
+    {
+      "doc_id": "95611",
+      "title": "City Walk Outcomes - February 2026",
+      "publication_date": "2026-03-23",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95611/639104841446370000",
+      "text_path": "documents/95611.txt",
+      "pdf_sha256": "759a12436e345a9878f6ac532ad8445713acf3f55a9082437b99633e27f29ade"
+    },
+    {
+      "doc_id": "95634",
+      "title": "03.23.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-03-23",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95634/639101218216170000",
+      "text_path": "documents/95634.txt",
+      "pdf_sha256": "b1ec96d70006815c11863d273335659545fead16217db883b8100a334459ef58"
+    },
+    {
+      "doc_id": "95632",
+      "title": "CORRECTED MEMO 03.23.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-03-26",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95632/639101217747570000",
+      "text_path": "documents/95632.txt",
+      "pdf_sha256": "7af39398ee47cb86782b5ecd7d43f4f4a57b385b477b28105cee5af3803d9f28"
+    },
+    {
+      "doc_id": "95640",
+      "title": "Actions to Address Fire Risk in Landscape Maintenance District (LMD) Areas",
+      "publication_date": "2026-03-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95640/639104823748600000",
+      "text_path": "documents/95640.txt",
+      "pdf_sha256": "a43cab6c684af9452832ca005456feed8e75a2316211da34ef4d017f1945b81a"
+    },
+    {
+      "doc_id": "95646",
+      "title": "Revisions of Reno Municipal Code Section 8.32 (Trees and Shrubs)",
+      "publication_date": "2026-03-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95646/639104818443230000",
+      "text_path": "documents/95646.txt",
+      "pdf_sha256": "b5ab0871387d3729bb8bc96dd1b39750bb32cc3396a0eb21a389b5e5273993cf"
+    },
+    {
+      "doc_id": "95644",
+      "title": "Monthly Economic Update - March 2026",
+      "publication_date": "2026-03-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95644/639104821829330000",
+      "text_path": "documents/95644.txt",
+      "pdf_sha256": "02ef617dbe346c1a8a779cfd237c2645ee44bf1b35fe89a383b138836c5f12c5"
+    },
+    {
+      "doc_id": "95642",
+      "title": "Master Plan Amendment for Conformance",
+      "publication_date": "2026-03-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95642/639102186468370000",
+      "text_path": "documents/95642.txt",
+      "pdf_sha256": "1fffbeedfd7f80fb3b46da9c026e28ec24a6df7752dd362d4fe2e566e34b8705"
+    },
+    {
+      "doc_id": "95638",
+      "title": "03.27.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-03-27",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95638/639102186457130000",
+      "text_path": "documents/95638.txt",
+      "pdf_sha256": "80586b6945adf5b0537022070a4ff1e6e8b3750ddadb048fae40d25516ffb1c8"
+    },
+    {
+      "doc_id": "95652",
+      "title": "Development Project Timelines",
+      "publication_date": "2026-04-01",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95652/639106353940770000",
+      "text_path": "documents/95652.txt",
+      "pdf_sha256": "abdbe8be6fa3ee9d15075283470a1570d014b7fe8fa0c420e810f8a9b12a6d7e"
+    },
+    {
+      "doc_id": "95720",
+      "title": "Clean and Safe Team Homeless Actions and Outcomes - February 2026",
+      "publication_date": "2026-04-06",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000",
+      "text_path": "documents/95720.txt",
+      "pdf_sha256": "7479fee77d26bdc9172bc003200b5a7fee04dc126d7a33aac99e56be3a882cd6"
+    },
+    {
+      "doc_id": "95718",
+      "title": "04.06.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-04-06",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95718/639114289301130000",
+      "text_path": "documents/95718.txt",
+      "pdf_sha256": "b189fc871b8847f99127043806a5be5a2388001f7005e457b059fcffb6ae9342"
+    },
+    {
+      "doc_id": "95740",
+      "title": "Parking Program Updates \u2013 February 2026",
+      "publication_date": "2026-04-14",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000",
+      "text_path": "documents/95740.txt",
+      "pdf_sha256": "a2290e323a86828766ef1ffff37ebabaf1c238b61884b29e78d773985058fde7"
+    },
+    {
+      "doc_id": "95738",
+      "title": "04.14.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-04-14",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95738/639117766977830000",
+      "text_path": "documents/95738.txt",
+      "pdf_sha256": "897b46ab3907501feb4b2b69da59c86ecefb3a18c92d3666cd6193425315d38c"
+    },
+    {
+      "doc_id": "95742",
+      "title": "Roadway Debris and Litter",
+      "publication_date": "2026-04-15",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95742/639137583069670000",
+      "text_path": "documents/95742.txt",
+      "pdf_sha256": "68b63fa770457c7d8a11c025f1d9a020af404732818aaa7a7e1d8f9c241acd3d"
+    },
+    {
+      "doc_id": "95744",
+      "title": "Update on the Progress of the Parks Service Plan Development",
+      "publication_date": "2026-04-15",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95744/639137583348100000",
+      "text_path": "documents/95744.txt",
+      "pdf_sha256": "94e29e47064ef1a35d4d6bd8b4f954958bf6f19abaee964f834c8428d0352abc"
+    },
+    {
+      "doc_id": "95746",
+      "title": "Vintage at the Crossings Community Meeting Update",
+      "publication_date": "2026-04-15",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95746/639137583776800000",
+      "text_path": "documents/95746.txt",
+      "pdf_sha256": "5b4dbbb823e1bfee43cda05a722594c444d06eb052e75309e7049b7ca804704c"
+    },
+    {
+      "doc_id": "95756",
+      "title": "Sewer Connection Fee Sufficiency Analysis",
+      "publication_date": "2026-04-21",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95756/639123702521170000",
+      "text_path": "documents/95756.txt",
+      "pdf_sha256": "d2785298e05850a21160952fbcbf96effd0342c5167a8884616cad21fac7d26d"
+    },
+    {
+      "doc_id": "95754",
+      "title": "Reno Seniors EngAGED Quarterly Update",
+      "publication_date": "2026-04-21",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95754/639137585427170000",
+      "text_path": "documents/95754.txt",
+      "pdf_sha256": "844b52ea1c36f22ec1e6753dd5924daaad384a06d47a7861374b4b9164f49c69"
+    },
+    {
+      "doc_id": "95752",
+      "title": "Reno Direct & Service Requests Report \u2013 March 2026",
+      "publication_date": "2026-04-21",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639137587253200000",
+      "text_path": "documents/95752.txt",
+      "pdf_sha256": "10987bafffcd0abb1d11177776400aff014267310d6076de4f89f9bdb484b36b"
+    },
+    {
+      "doc_id": "95750",
+      "title": "04.21.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+      "publication_date": "2026-04-21",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95750/639138270435630000",
+      "text_path": "documents/95750.txt",
+      "pdf_sha256": "fb20dcc9d3859622cf4d0b1bc765a312b3f19cec42d4ccc03e5eb58e127c90b4"
+    },
+    {
+      "doc_id": "95758",
+      "title": "City of Reno Boards and Commissions 2026 Q4 Vacancy Report",
+      "publication_date": "2026-04-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95758/639137588987600000",
+      "text_path": "documents/95758.txt",
+      "pdf_sha256": "c24954b8bfa3b59b2510321b6c57c7aa37731a781e83273b79fd3b587a49b67e"
+    },
+    {
+      "doc_id": "95762",
+      "title": "Clean and Safe Team Homeless Actions and Outcomes - March 2026",
+      "publication_date": "2026-04-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639137591712200000",
+      "text_path": "documents/95762.txt",
+      "pdf_sha256": "fae08e3ef78e19f8f1fcdb7c1fb2626e2c8c0517066a4822d518ac9f3ed06258"
+    },
+    {
+      "doc_id": "95760",
+      "title": "City Walk Outcomes \u2013 March 2026",
+      "publication_date": "2026-04-22",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95760/639137589841200000",
+      "text_path": "documents/95760.txt",
+      "pdf_sha256": "e8d93c5025bbd1fef074f8245facbebf2c36d5dc717273c5e3b24e3ac923fba0"
+    },
+    {
+      "doc_id": "95770",
+      "title": "04.24.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+      "publication_date": "2026-04-26",
+      "source_url": "https://www.reno.gov/home/showpublisheddocument/95770/639137603854530000",
+      "text_path": "documents/95770.txt",
+      "pdf_sha256": "5d99f29be1fbdf1f93862c18151ece00ed3c7af18694909a35b9aa47d41a0c4a"
+    }
+  ]
+}

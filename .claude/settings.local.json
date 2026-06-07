@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python3 -m pip install --quiet openpyxl flask)",
+      "Bash(python3 -c \"import openpyxl, flask; print\\('openpyxl', openpyxl.__version__, 'flask', flask.__version__\\)\")"
+    ]
+  }
+}

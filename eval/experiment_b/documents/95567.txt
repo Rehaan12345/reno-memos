@@ -1,0 +1,173 @@
+Memorandum 
+DATE:  March 11, 2026 
+TO:  Mayor and City Council  
+THROUGH: Jackie Bryant, City Manager 
+FROM: Monica Kirch, Interim Human Resources Director  
+Mark Stone, Payroll Manager  
+DEPT:  City Manager’s Office 
+SUBJECT: Enterprise Resource Planning Software (ERP) Current State 
+The City currently relies on Tyler Technologies’ New World Enterprise Resource Planning (ERP) 
+system to manage critical administrative functions, including accounting, financial reporting, 
+payroll, budgeting, and human resource management. This integrated system ensures continuity 
+of data, regulatory compliance, and operational efficiency across departments.   
+However, the vendor has announced that this ERP system will soon reach end-of-life, after which 
+it will no longer be supported. While an exact date has not been provided, the discontinuation of 
+support poses a significant risk to the City’s ability to maintain compliance, process payroll 
+accurately, and manage financial operations effectively. If we wait until the sunset date is 
+confirmed, there will be insufficient time to evaluate, select, and implement a replacement 
+system without disrupting essential services.  
+Current Pain Points and Operational Risk: 
+The system presents material challenges which require manual workarounds and increase the 
+likelihood of errors: 
+• FLSA Overtime Premium Adjustments: The system’s overtime premium calculation
+is incorrect and convoluted, forcing the payroll team to manually recalculate to ensure
+compliance when bonuses, commissions, or incentives coincide with overtime. These
+manual recalculations increase the risk of under/overpayments and legal exposure.
+• Contractual Pay Changes: Percentage based payments (e.g., Reno Police
+Supervisory/Administrative Employees (RPSAE) additional insurance and Reno
+Police Protective Association (RPPA) Other Post Employment Benefits (OPEB)
+
+ 
+ 
+contributions) require manual adjustment; there is no configurable logic for 
+semiannual, date-based payments (e.g., uniform allowances).  
+• Fire Shift Trades: The system lacks a clean method to record shift trades. Current 
+processes rely on bank hour deductions without pay, but confusion over codes has led 
+to inaccurate payments, impacting payroll accuracy and employee trust.  
+• Compliance and Continuity: At end-of-life, the absence of vendor support heightens 
+the risk of catastrophic outage, audit findings, and emergency procurement at 
+premium cost. 
+• Budgeting and costing: Although the system contains a budget module, it is not robust 
+enough for the complexity of the City’s budget, especially in having the ability to 
+assist with costing for labor negotiations or provide a public facing digital budget 
+book.  This requires the City to purchase additional software in order to support our 
+budget. 
+• Financial Reporting: Similar to the budget module, the main financial platform of the 
+system does not provide the city with the ability to effectively report the Annual 
+Comprehensive Financial Report, thus requiring the City to acquire additional 
+software to complete the required annual financial reporting. 
+• Human resources and personnel management: The system module for managing the 
+city’s workforce is severely lacking compared to modern ERP systems, this causes a 
+great deal of duplicative work, especially for onboarding of new employees and 
+maintaining employee information post termination/retirement, and requires the usage 
+of additional software to complete essential functions related to recruitment and 
+employee performance reviews.  
+Risks of Inaction 
+ Failure to act promptly will expose the City to: 
+• Regulatory Compliance Risks: Inability to produce accurate financial and payroll 
+reports required by law. 
+• Operational Disruptions: Increase reliance on manual processes, creating 
+inefficiencies and potential for catastrophic system outages. 
+• Payroll Errors: Current system limitations already require manual recalculations for 
+Fair Labor Standards Act (FLSA) overtime adjustments and other complex pay 
+scenarios. These errors could result in employee dissatisfaction and legal exposure. 
+• Financial Impact: Manual workarounds increase labor costs and reduce productivity, 
+while system failure could lead to emergency procurement. 
+Core Components of an ERP System 
+A modern ERP solution is not just a payroll system. It is a comprehensive platform that unifies 
+multiple critical functions: 
+1. Accounting & Budget Management 
+a. Accounts payable/receivable 
+ 
+ 
+b. Bank reconciliation 
+c. Budget tracking and financial forecasting 
+d. Contracts and purchase order management 
+2. Financial Reporting 
+a. Financial statements 
+b. Performance reports 
+c. Expense-to-budget actuals and projections 
+3. Human Resources & Payroll Management 
+a. Employee compensation, deductions, and benefits administration 
+b. Performance management 
+c. Talent management and recruitment 
+4. Data Warehouse 
+a. Record maintenance of employees, transactions and other pertinent data 
+b. Enables strategic decision making from reporting 
+c. Real-time operational data 
+5. Asset Inventory & Management 
+a. Integrated management of City-owned assets and intangible property 
+b. Tracking of current inventory for accountability and planning  
+6. Business Intelligence 
+a. Actionable insights from operational data 
+b. Improved organizational efficiency 
+c. Enhanced forecasting and planning capabilities 
+Benefits of a Modern ERP Solution 
+A next-generation ERP system will: 
+• Integrate Core Functions: Accounting, budgeting payroll, HR, and asset management 
+in one platform. 
+• Enhance Financial Oversight: Real-time operational data, automated bank 
+reconciliation, and accurate forecasting. 
+• Improve Workforce Management: Streamlined payroll, benefits administration, 
+performance tracking, and talent management. 
+• Enable Strategic Decision-Making: Business intelligence tools for actionable insights 
+and improved forecasting. 
+• Ensure Asset Accountability: Centralized tracking of City-owned assets and 
+inventory. 
+Payroll Software & ERP Systems – Key Differences 
+Payroll software is designed to calculate pay, taxes, and direct deposits, and it is best for 
+organizations that simply need to run payroll reliably. It is typically lower cost and 
+straightforward for core payroll tasks, but it has limitations because it does not integrate 
+budgeting, HR, finance, asset management, or broader reporting. As a result, data often has to be 
+manually moved into other systems, and more complex pay rules can be difficult to configure. 
+ 
+ 
+An ERP system, by contrast, unifies payroll, HR, finance, budgeting, asset management, and 
+reporting in a single platform, making it a better fit for cities and larger organizations that need 
+accurate, shared data and automation across departments. While ERPs require higher upfront 
+cost and more implementation effort, they provide centralized data, real-time reporting, 
+configurable pay rules, stronger compliance controls, and workflow automation that reduce 
+manual work and errors, ultimately supporting long-term efficiency, risk reduction, and better 
+decision-making. 
+Next Steps 
+ Next steps are to authorize budget allocation to support procurement, implementation, and 
+training so the City can execute a planned, seamless transition. Delaying action will materially 
+increase both risk and cost, so moving forward now will protect compliance, maintain 
+operational continuity, and position the City for long-term efficiency and fiscal sustainability. 
+ERP
+ENTERPRISE RESOURCE PLANNING SOFTWARE
+01
+Accounting/Budget Management
+•Accounts Payable/Receivable
+•Bank Reconciliation
+•Contracts/Purchase Orders
+•Budget tracking and financial
+forecasting
+02
+Financial Reporting
+•Financial Statements
+•Performance Reports
+•Expense to budget actuals
+and projections.
+Human Resources/Payroll
+Manage
+ment
+03 •Manages employee
+compensation, deductions and
+benefits administration
+•Performance management
+•Talent management and
+recruitment.
+Data Warehouse
+04
+•Record maintenance of
+employees, transactions and
+other pertinent data
+•Enables strategic decision
+making from reporting
+•Real-time operational data
+Asset Inventory/Management
+05
+•Integrated management of
+City ow
+ned assets and
+intangible property
+•Tracking of current city
+inventory
+Business Intelligence
+•Utilizes operational data to
+inform actionable insight
+•Improves organization
+efficiency
+•Improves forecasting
+06

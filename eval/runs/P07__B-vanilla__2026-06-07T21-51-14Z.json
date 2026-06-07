@@ -1,0 +1,26 @@
+{
+  "run_id": "P07__B-vanilla__2026-06-07T21-51-14Z",
+  "prompt_id": "P07",
+  "system_id": "B-vanilla",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:51:14.313640+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:dece59affc3820b9",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Interdepartmental Dependency: Code Enforcement and the State (HCQC)\n\nYes, the context provides a clear example of this. In the complaint regarding the treatment center at **2840 (Northwest Reno)**, a resident describes being caught in a loop between two authorities:\n\n> *\"The city points to the state/HCQC and HCQC/state points to the city and I am stuck in the middle\"*\n\n### How the Dependency Works:\n\n1. The resident filed complaints with the **City of Reno** about a treatment center causing problems in their neighborhood\n2. The City directed them to the **state's HCQC (Healthcare Quality and Compliance) department**\n3. HCQC, in turn, pointed back to the **City**\n4. Neither entity took action, because each appeared to believe the issue fell under the **other's jurisdiction**\n\n### The Result:\nThe resident was left without resolution, with neither department taking accountability. The treatment center continued operating, police were repeatedly called, and the resident reported ongoing safety concerns for patients.\n\nThis illustrates how **overlapping or unclear jurisdictional boundaries** between departments \u2014 in this case city code enforcement and a state regulatory body \u2014 can create gaps where **neither acts**, leaving complaints unresolved despite being filed with both.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "95356#6",
+      "95492#3",
+      "95492#4",
+      "95331#40",
+      "95718#48",
+      "95300#25",
+      "95550#0",
+      "95340#30"
+    ]
+  },
+  "error": null
+}

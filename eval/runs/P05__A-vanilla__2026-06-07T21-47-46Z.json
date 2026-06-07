@@ -1,0 +1,26 @@
+{
+  "run_id": "P05__A-vanilla__2026-06-07T21-47-46Z",
+  "prompt_id": "P05",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:47:46.868009+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Assessing Whether the City's Approach Is Working: Tensions in the Data\n\nThe data presents a genuinely mixed picture, with several specific tensions worth examining carefully.\n\n---\n\n### Signs of Progress\n\n- **Housing placements exist but remain small in scale.** December saw 9 individuals into transitional housing, January 6, February 11 (described as \"highest of the year\"), and March 4. The February peak and a notable 4-year case resolved in March suggest some meaningful individual outcomes.\n- **The Hi-Way 40 project** adds 28 permanent supportive housing units, representing a structural intervention beyond enforcement.\n\n---\n\n### Tensions and Counterindicators\n\n**1. Enforcement is rising while housing placements remain modest.**\nCitations went from 151 (January) to 91 (February) to 176 (March), and arrests peaked at 96 in March \u2014 described as the highest of the year. Yet housing arrangements in March dropped back to 4 after February's high of 11. **Enforcement volume is not tracking with housing outcomes.**\n\n**2. Occupied vehicle nuisance requests keep climbing despite postings.**\nOccupied vehicles posted remained high (51 in January, 42 in February, 50 in March), yet service requests for occupied vehicles rose 29% in January and another 35% in March. **Posting vehicles is not reducing the underlying demand.**\n\n**3. Camping in parks surged 113% in February** even as cleanups and enforcement continued. This suggests displacement rather than resolution \u2014 people may be moving between locations rather than exiting homelessness.\n\n**4. Trash removal is declining but contacts are rising.** January removed 15 yards of trash across 36 contacts; February removed only 8 yards across 74 contacts. This is difficult to interpret cleanly but suggests the nature of encounters is shifting.\n\n---\n\n### Overall Assessment\n\nThe data suggests the city's approach is **managing visible homelessness more than resolving it**. Enforcement metrics are robust and growing, but housing placement numbers are small relative to contact and citation volumes, and key indicators like occupied vehicle requests continue rising. The approach appears to be **cycling individuals through enforcement without sufficient off-ramps into stable housing**.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "MAR-018#0",
+      "FEB-009#0",
+      "MAR-003#0",
+      "FEB-008#0",
+      "FEB-014#0",
+      "APR-014#0",
+      "MAR-004#0",
+      "APR-002#0"
+    ]
+  },
+  "error": null
+}

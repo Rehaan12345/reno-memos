@@ -1,0 +1,43 @@
+{
+  "run_id": "P12__A-research__2026-06-07T21-57-13Z",
+  "prompt_id": "P12",
+  "system_id": "A-research",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:57:13.958756+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:8c83b92ba0df0cdf",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Waste Management Rate Increase: Status and Resident Impact\n\n### Is it finalized?\n\nYes, the memos indicate the rate increase is finalized and already in effect. Two separate notices dated March 17, 2026 (MAR-008 and MAR-009) both confirm adjustments effective **April 1, 2026** \u2014 no further Council votes or contingencies are mentioned for the rate changes themselves.\n\n---\n\n### What drove the increase \u2014 and it's a double hit\n\nThe rate increase has **two distinct components**, which is an important pattern across the memos:\n\n1. **A CPI adjustment of 5.27%** (reflecting inflation from December 2024 to December 2025), applied to both resident/commercial collection rates and to the city's internal allowances and host fees (MAR-008, MAR-009).\n\n2. **A franchise fee increase from 8% to 14%**, voted on by Council on February 11, 2026 (MAR-009). This is a separate policy decision layered on top of the inflation adjustment.\n\nThe combination means residents are absorbing both an inflation-driven increase *and* a deliberate policy-driven fee hike simultaneously. MAR-009 illustrates this concretely: a standard 96-gallon cart goes from **$25.20 to $28.38 per month** \u2014 a jump of roughly **$3.18/month or about 12.6%** in total, well above the CPI figure alone.\n\n---\n\n### What it means for residents\n\n- **Higher monthly bills starting April 2026**, with the example above suggesting increases in the 12\u201313% range for a typical household (MAR-009).\n- The franchise fee portion (8% \u2192 14%) represents revenue flowing to the City, not to WM \u2014 so residents are partly funding city services through their trash bill (MAR-009).\n- **Free dump days (April 16\u201325)** offer some near-term relief for bulk disposal, coordinated partly in response to roadway debris concerns (APR-006), though this is not framed as a direct offset to the rate increase.\n\n---\n\n### What's still unresolved: composting\n\nThe memos suggest residents may eventually see *additional* service options \u2014 a composting survey found **91% interest and 73% willingness to pay for pickup** (FEB-011) \u2014 but the feasibility analysis is still in progress as of February 2026 (FEB-011). No timeline for a composting program decision is visible across these memos, meaning residents are paying more now without that potential added service yet in place.\n\n---\n\n### Bottom line\n\nThe rate increase is finalized and active. Residents face a combined inflation-plus-franchise-fee increase that the memos suggest totals roughly 12\u201313% for a typical account (MAR-009). The longer-term question of whether expanded composting services will accompany these higher rates remains open (FEB-011).",
+    "cited_sources": [
+      {
+        "memo_id": "APR-006",
+        "title": "Roadway Debris and Litter",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95742/639118722428530000"
+      },
+      {
+        "memo_id": "FEB-011",
+        "title": "Waste Management Contract and Billing Clarifications",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95501/639070276216770000"
+      },
+      {
+        "memo_id": "MAR-008",
+        "title": "2026 Waste Management Allowance and Host Fees Increase Notice",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95599/639093385381570000"
+      },
+      {
+        "memo_id": "MAR-009",
+        "title": "2026 Waste Management Rate Increase Notice",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95601/639093344890300000"
+      }
+    ],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "APR-006",
+      "FEB-011",
+      "MAR-008",
+      "MAR-009"
+    ]
+  },
+  "error": null
+}

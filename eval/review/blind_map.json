@@ -1,0 +1,152 @@
+{
+  "P01": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P02": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P03": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P04": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P05": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P06": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P07": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P08": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P09": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P10": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P11": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P12": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  },
+  "P13": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P14": {
+    "A": [
+      "A-vanilla",
+      "A-research"
+    ],
+    "B": [
+      "B-vanilla",
+      "B-research"
+    ]
+  },
+  "P15": {
+    "A": [
+      "A-research",
+      "A-vanilla"
+    ],
+    "B": [
+      "B-research",
+      "B-vanilla"
+    ]
+  }
+}

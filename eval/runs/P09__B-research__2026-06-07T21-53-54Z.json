@@ -1,0 +1,2071 @@
+{
+  "run_id": "P09__B-research__2026-06-07T21-53-54Z",
+  "prompt_id": "P09",
+  "system_id": "B-research",
+  "experiment": "B",
+  "timestamp": "2026-06-07T21:53:54.124148+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:ad8275801819e985",
+  "document_set_hash": "sha256:6d74de00858436eceb3d6092f6668c4b9ab8155faf97241eefcb221459c91d86",
+  "output": {
+    "answer": "## Technology Systems Being Replaced or Upgraded\n\nThe memos describe three distinct technology replacement or upgrade efforts underway at the City of Reno:\n\n---\n\n### 1. Public Safety Dispatch & Records System (CAD/RMS) \u2014 *Hexagon*\nThe city is replacing its aging dispatch and records management systems for law enforcement, fire, EMS, and regional partners with a new Hexagon CAD/RMS platform (MAR-009). This project is actively in testing, with a go-live target of late summer/early fall 2026. As of March 2026, 6 of the 11 remaining open tickets are blocker defects, though 4 of those 6 have patches pending or installed.\n\n---\n\n### 2. Enterprise Resource Planning (ERP) System \u2014 *Tyler Technologies New World*\nThe city's current ERP system, Tyler Technologies' New World, is approaching end-of-life and will lose vendor support, creating risks around payroll, compliance, financial reporting, and HR management (MAR-005). Staff has identified six major operational pain points already causing problems \u2014 including FLSA overtime miscalculations and fire shift trade recording errors \u2014 and is asking Council to authorize budget for procurement and implementation of a replacement. Notably, Tyler Technologies has not yet confirmed an exact sunset date.\n\n---\n\n### 3. Parking Software & Meter Hardware \u2014 *AIMS & IPS Group*\nThe Parking Program completed a transition from on-site to cloud-hosted software with vendor AIMS (JAN-002). Separately, IPS Group technicians have been actively replacing solar panels and batteries on single-space parking meters, with critical issues targeted for resolution by end of March 2026 (APR-005, FEB-018).\n\n---\n\n### Which Is Most Urgent?\n\nThe memos suggest the **ERP replacement (MAR-005)** carries the broadest and most consequential risk, but the **Hexagon CAD/RMS project (MAR-009)** is the most time-sensitive in terms of active execution pressure.\n\n- The ERP situation is urgent because the system is already failing operationally \u2014 staff are using manual workarounds for payroll, overtime, and financial reporting right now \u2014 and the city doesn't know exactly when vendor support will end (MAR-005). The lack of a confirmed sunset date makes planning harder, not easier.\n- The Hexagon CAD/RMS project, however, is further along and has a hard deadline (late summer/early fall 2026), with 6 blocker defects still open as of March 2026 (MAR-009). A failure here would directly affect emergency dispatch for police, fire, and EMS across the region.\n\n**In short:** The CAD/RMS project is the most operationally urgent right now given its imminent go-live date and unresolved blockers. The ERP replacement is the most strategically urgent given its broad organizational risk and undefined timeline.",
+    "cited_sources": [
+      {
+        "memo_id": "MAR-009",
+        "title": "Monthly Hexagon Update - March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95591/639093387398700000"
+      },
+      {
+        "memo_id": "MAR-005",
+        "title": "Enterprise Resource Planning Software (ERP) Current State",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95567/639088395198430000"
+      },
+      {
+        "memo_id": "FEB-018",
+        "title": "Parking Program Updates - January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000"
+      },
+      {
+        "memo_id": "FEB-012",
+        "title": "Quarterly Financial Report \u2013 December 31, 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95492/639070216121470000"
+      },
+      {
+        "memo_id": "FEB-002",
+        "title": "Planned Tree Removals at Lear Theater",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95341/639056480242370000"
+      },
+      {
+        "memo_id": "FEB-020",
+        "title": "02.27.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95517/639078055234070000"
+      },
+      {
+        "memo_id": "JAN-002",
+        "title": "Parking Program Updates - December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000"
+      },
+      {
+        "memo_id": "APR-005",
+        "title": "Parking Program Updates \u2013 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "APR-004",
+        "title": "04.14.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95738/639117766977830000"
+      },
+      {
+        "memo_id": "FEB-008",
+        "title": "02.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95462/639064817375270000"
+      },
+      {
+        "memo_id": "JAN-001",
+        "title": "Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95243/639029680536130000"
+      },
+      {
+        "memo_id": "JAN-004",
+        "title": "01.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95258/639038045448000000"
+      }
+    ],
+    "extracted_data": {
+      "entities": [
+        {
+          "name": "City Clerk's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "City Manager's Office",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "APR-005",
+            "FEB-008",
+            "FEB-018",
+            "FEB-020",
+            "JAN-001",
+            "JAN-002",
+            "JAN-004",
+            "MAR-005",
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Code Enforcement",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Police Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Reno Fire Department",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Strategic Communications",
+          "type": "departments",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Code Enforcement Service Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Ashlee Lipczynski",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Bash Assalimy",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Brandon Whitlock",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Brian Erbis",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "CIARA HOWARD",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "CRU LexisNexis",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Carlos Zamora",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Connor Welsh",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "David Hunt",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Dorian Freeman",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Esha Singh, Management Assistant",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "FBI NICS",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "FIREARMSHELP@DPS.STATE.NV.US",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Fernan P Dangaran",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "FEB-020",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Frosina Lazarevska",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Gregory Morgado",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Jackie Bryant, City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "APR-005",
+            "FEB-002",
+            "FEB-008",
+            "FEB-012",
+            "FEB-018",
+            "FEB-020",
+            "JAN-001",
+            "JAN-002",
+            "JAN-004",
+            "MAR-005",
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Jacqueline Firth",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Jade Hu",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "John Duhl",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Katie Neisler",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Kerry Dugan",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Loretta King",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "FEB-020",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Misty Hobbs",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Natalie Cozzi",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "OPM",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "SARA LITHENS",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Shannon Durkin",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Shayla Davis",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Susan Button",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "TASHA GASKILL",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Tammy Roberts",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "FEB-020",
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Torin Cassani",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "WCHSA CPS",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020",
+            "JAN-001",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Willard Hill",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "emily Blackburn",
+          "type": "people",
+          "memo_ids": [
+            "JAN-001"
+          ]
+        },
+        {
+          "name": "Department of Public Safety (state level)",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada Department of Motor Vehicles",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "AIMS Cloud-Hosted System Transition",
+          "type": "projects",
+          "memo_ids": [
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "IPS Group Meter Maintenance",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Nevada DMV Holds Setup",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Parking Program Updates",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Ashley Turney, Assistant City Manager",
+          "type": "people",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018",
+            "JAN-002"
+          ]
+        },
+        {
+          "name": "Ace Alvarez",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Adetomiwa Adesokan",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Ann Marie Benny",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Aren Normal",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Brandon Beverly",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Chantal Zuniga",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Cheyenne Straw",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "David Ohara",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Dawn Dougherty",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Emily Bowman",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Eric Tonkins",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Jaedyn Young",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Jessica Foehr",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Jessica Mendoza",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Jolene Olson",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Mataio Aiono",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Michael Shockley",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Miriam Rubio",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Nichole Williams",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Nicole Williams",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Reece Cordell",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Richard Kim",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Rosemarie Hefner",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020",
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Sarah Fisketjon",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Scott McManis",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Sharon Ann Gross",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Steve Van Zee",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Taylor Mccleery",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Tenaya Ideker",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Theresa M Moreno",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Thomas Daly",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Tiffany Wheeler",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Waseem Akhtar",
+          "type": "people",
+          "memo_ids": [
+            "JAN-004"
+          ]
+        },
+        {
+          "name": "Parks and Recreation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Brezina, Parks Manager",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Monica Kirch, Director of Housing and Neighborhood Development",
+          "type": "people",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Media Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Public Records Requests Weekly Report",
+          "type": "projects",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008",
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Washoe County Medical Examiner",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "City of Reno Finance Department",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Human Resources",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Nevada Department of Taxation",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Reno Municipal Court",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Urban Forestry Division",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Lear Theater",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Lucas Proctor, certified Tree Risk Assessor",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Basile, Urban Forester",
+          "type": "people",
+          "memo_ids": [
+            "FEB-002"
+          ]
+        },
+        {
+          "name": "Matt Taylor, Assistant Finance Director",
+          "type": "people",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Public Safety Dispatch",
+          "type": "departments",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Alyssa Leids",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Anil Balchandani",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Brittany Padilla",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Carley Turrietta",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Dan Almeida",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Dejanae Solley",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Edward Skaggs",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Haley Swift",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Heather Payne",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Holly Harwell",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Jonathan Saul",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Judi Gesh",
+          "type": "people",
+          "memo_ids": [
+            "APR-004",
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Julia Deng",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Keri Schnittker-Oetken",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Kyle Daters",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Kyle Genest",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Laurie Morrow",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Leah Berner",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Matt DeForest",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Michelle Manning",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Phil Jacobs",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Rachel Story",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Richard Haffke",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008",
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Robert Rollins",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Shirley Green",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Simon Paredes",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Steven Townsend",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Thomas Guinn",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "William Bean",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Wilson Higginsbury",
+          "type": "people",
+          "memo_ids": [
+            "FEB-008"
+          ]
+        },
+        {
+          "name": "Information Technology",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "2025-26 Quarterly Financial Report \u2013 2nd Quarter Ending December 31, 2025",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "Reno Tahoe Airport fire personnel regionalization",
+          "type": "projects",
+          "memo_ids": [
+            "FEB-012"
+          ]
+        },
+        {
+          "name": "California DMV",
+          "type": "departments",
+          "memo_ids": [
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "AIMS Expanded Reporting",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Nevada DMV Registered Owner Data Access",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005",
+            "FEB-018"
+          ]
+        },
+        {
+          "name": "Alia Mastin (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Andrea Gutierrez (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Ashlee Miller (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Berta Gallegos (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Beth Dory (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Bethany Johnson (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Bob Conrad (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Brenda Gomez (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Chad Kaylor (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Debra Perry (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "H Collins (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Hugh Ezzell (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Jeff Vanderbilt (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Jesse Banuelos (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Jordan Daker (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Joseph Winters (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Josie Zakrzewski (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Katarina Prieberova (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Kenneth Martinez (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Kenny Reen (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Lisa Hagar (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Malika Hill (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Maria Linares (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Matthew Lee (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Mercedes Green (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Michaele Franklin (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Nina Amico (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Reva S Archer (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Robert Brooks (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Ruby Cervantes (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Samuel Alfred (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Sarah Ubben (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Sierra Larason (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Stefano Hristov (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Stephanie DeGayner (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Susan Cole (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Tim Salisbury (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "Tuesday Lynch (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "FEB-020"
+          ]
+        },
+        {
+          "name": "ERP Replacement Initiative",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Mark Stone, Payroll Manager",
+          "type": "people",
+          "memo_ids": [
+            "MAR-005"
+          ]
+        },
+        {
+          "name": "Regional Hexagon CAD/RMS Modernization Project",
+          "type": "projects",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "Cody Shadle, Director of Public Safety Dispatch",
+          "type": "people",
+          "memo_ids": [
+            "MAR-009"
+          ]
+        },
+        {
+          "name": "John Doe",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Aaliyah Endsley (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Ana Casarin (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Annemarie Grant (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Ashley Burns (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Brandee Moran (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Brooke Wright (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Cheryl Hewlett (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Elizabeth Starks (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Emily Hedstrom (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Gina Abel (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Joseph Sparaco (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Kaitlyn Miller (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "LILA WENDY PEREZ FLORES (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Michael DeLeon (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Priscilla Maloncon (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Roderic Carucci (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Sharleen Barnes",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Steven Daughhetee (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Sydnee Rizo-Cantrell (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Tamara Teel (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Terra Schaupp (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Todd Copenhaver (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "chad plebo (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "charles wong (requestor)",
+          "type": "people",
+          "memo_ids": [
+            "APR-004"
+          ]
+        },
+        {
+          "name": "Nevada Department of Public Safety",
+          "type": "departments",
+          "memo_ids": [
+            "APR-005"
+          ]
+        },
+        {
+          "name": "California Mail Notifications for Unpaid Parking Citations",
+          "type": "projects",
+          "memo_ids": [
+            "APR-005"
+          ]
+        }
+      ],
+      "relationships": [
+        {
+          "source_id": "FEB-008",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-007",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-006",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-007",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "MAR-021",
+          "target_id": "APR-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): AIMS Expanded Reporting, IPS Group Meter Maintenance, Nevada DMV Holds Setup, Nevada DMV Registered Owner Data Access, Parking Program Updates"
+        },
+        {
+          "source_id": "FEB-018",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (FEB-018, 2026-02-24) is the January 2026 parking program update whose decisions and pending actions\u2014Nevada DMV holds awaiting DPS approval, IPS meter battery/solar replacements targeted by end of February, weekly revenue monitoring, and AIMS expanded reporting\u2014are directly carried forward an"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "APR-005",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, January 2026) is an earlier status update on the Parking Program establishing ongoing actions\u2014DMV holds setup, IPS technician support, weekly revenue monitoring\u2014that Memo B (APR-005, April 2026) directly continues and reports progress on, making A's decisions and actions the logical"
+        },
+        {
+          "source_id": "FEB-002",
+          "target_id": "MAR-011",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Lear Theater"
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "FEB-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "FEB-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "FEB-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-004, dated 2026-01-11) covers the reporting period of January 2\u20138, 2026, while Memo B (FEB-008, dated 2026-02-11) covers January 30\u2013February 5, 2026. Both are recurring weekly reports of the same type, making A's reporting period temporally prior to B's."
+        },
+        {
+          "source_id": "JAN-007",
+          "target_id": "FEB-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "FEB-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "FEB-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers January 30\u2013February 5, 2026, making Memo A's reporting period temporally prior to Memo B's within the same recurring weekly report series."
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "FEB-008",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "FEB-008",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 23\u201329, 2026, while Memo B covers January 30\u2013February 5, 2026. These are consecutive weekly reporting periods of the same recurring report type, making A's period temporally prior to B's."
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "MAR-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-008",
+          "target_id": "MAR-021",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): IPS Group Meter Maintenance, Nevada DMV Holds Setup, Parking Program Updates"
+        },
+        {
+          "source_id": "JAN-002",
+          "target_id": "FEB-018",
+          "rel_type": "precedes",
+          "evidence": "Memo A (JAN-002, 2026-01-11) is the December 2025 Parking Program update and explicitly states that IPS Group technician support began the week of January 5, 2026 and that DMV holds setup was pending, with updates to be provided in next month's memo. Memo B (FEB-018, 2026-02-24) is the January 2026 "
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-007",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-012",
+          "target_id": "FEB-020",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 16\u201322, 2026, while Memo B covers February 20\u201326, 2026. Both are recurring weekly informational transmittals of the same type (public records requests, media requests, and code enforcement service requests) to the Mayor and City Council, making A's report"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "FEB-020",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-016",
+          "target_id": "FEB-020",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 23\u201329, 2026, while Memo B covers February 20\u201326, 2026. Both are recurring weekly reports of the same type (public records requests, media requests, and code enforcement service requests) transmitted to the Mayor and City Council, making Memo A temporally"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-006",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of February 20\u201326, 2026, while Memo B covers February 27 through March 5, 2026. These are consecutive weekly reporting periods of the same recurring report series, making A's period temporally prior to B's."
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "FEB-020",
+          "target_id": "MAR-021",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report, Media Requests Weekly Report, Public Records Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-004",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-004",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the period December 26, 2025 through January 1, 2026, while Memo B covers January 2\u20138, 2026, making Memo A the temporally prior installment of the same recurring weekly reporting cycle."
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-007",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of December 26, 2025 through January 1, 2026, while Memo B covers January 9\u201315, 2026. Both are recurring weekly report transmittals of the same type (public records requests, media requests, and code enforcement service requests), making Memo A's reporting cycle te"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-012",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "JAN-016",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "MAR-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-001",
+          "target_id": "MAR-021",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "JAN-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "JAN-007",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 2\u20138, 2026, while Memo B covers January 9\u201315, 2026, making Memo A's reporting period temporally prior to Memo B's in the same recurring weekly report series."
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "JAN-012",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "JAN-012",
+          "rel_type": "precedes",
+          "evidence": "Memo A covers the reporting period of January 2\u20138, 2026 and was issued on January 11, 2026, while Memo B covers January 16\u201322, 2026 and was issued on January 26, 2026. Memo A temporally precedes Memo B as part of the same recurring weekly reporting series."
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "JAN-016",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "MAR-006",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "MAR-007",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "MAR-007",
+          "rel_type": "precedes",
+          "evidence": "JAN-004 (2026-01-11) covers the reporting period of January 2\u20138, 2026, while MAR-007 (2026-03-13) covers March 6\u201312, 2026. Both are recurring weekly report transmittals of the same type, making JAN-004 temporally prior to MAR-007 in the same reporting series."
+        },
+        {
+          "source_id": "JAN-004",
+          "target_id": "MAR-021",
+          "rel_type": "same_project",
+          "evidence": "Shared project(s): Code Enforcement Service Requests Weekly Report"
+        }
+      ],
+      "fields": {
+        "MAR-009": {
+          "title": "Monthly Hexagon Update - March 2026",
+          "department": "Public Safety Dispatch",
+          "category": "Public Safety",
+          "tldr": "The City of Reno's Public Safety Dispatch department provides the March 2026 monthly status update on the Regional Hexagon CAD/RMS Modernization Project, which is replacing aging dispatch and records systems for law enforcement, fire, EMS, and regional partners. Of the original 73 priority tickets, only 11 remain open (6 of which are blocker defects), and functional acceptance testing is actively underway. The project remains on schedule for a late summer/early fall go-live, with mandatory user training, 24/7 transition support, and final interface validation planned ahead of cutover.",
+          "key_stats": "73 initial priority tickets; 11 currently open; 6 of 11 open tickets are blocker defects; 4 of 6 blockers have patches pending or installed; go-live target is late summer/early fall 2026.",
+          "key_decisions": "No formal Council decisions requested in this memo; the update is provided for ongoing oversight and transparency. Minor timeline adjustments for testing alignment were made with no impact to the go-live date.",
+          "action_items": "Upcoming deliverables include: completion of remaining CAD/RMS testing cycles; release of first dispatcher and field user training curriculum (April 2026); integrated end-to-end and performance load testing; finalization of data migration and freeze date; and preparation of the final cutover/go-live readiness package and regional communications materials."
+        },
+        "MAR-005": {
+          "title": "Enterprise Resource Planning Software (ERP) Current State",
+          "department": "City Manager's Office",
+          "category": "Technology & Infrastructure",
+          "tldr": "The City of Reno's current ERP system, Tyler Technologies' New World, is approaching end-of-life and will no longer be supported, creating significant compliance, payroll, and operational risks. The system already requires extensive manual workarounds for FLSA overtime, contractual pay changes, fire shift trades, budgeting, financial reporting, and HR management. Staff recommends proactive action to evaluate and procure a modern ERP replacement before the sunset date is confirmed. Council is asked to authorize budget allocation for procurement, implementation, and training.",
+          "key_stats": "Six major operational pain points identified: FLSA overtime miscalculations, contractual pay manual adjustments, fire shift trade recording errors, inadequate budget module, insufficient financial reporting capability, and deficient HR/personnel management module. No exact end-of-life date has been provided by Tyler Technologies.",
+          "key_decisions": "Council is asked to authorize budget allocation to support procurement, implementation, and training for a replacement ERP system to ensure a planned, seamless transition before the current system reaches end-of-life.",
+          "action_items": "Authorize budget allocation for ERP procurement, implementation, and training; initiate evaluation and selection process for a modern ERP replacement system before Tyler Technologies' New World reaches its sunset date."
+        },
+        "FEB-018": {
+          "title": "Parking Program Updates - January 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "This memo updates the Mayor and Council on the City of Reno Parking Program as of January 2026. Since regaining access to Nevada DMV registered owner data on June 20, 2025, the City has collected $579,281.10 in parking fines and fees. New access to California DMV data has been established, Nevada DMV holds setup is in progress, and IPS Group technicians are actively replacing solar panels and batteries on single-space meters with resolution expected by end of February 2026.",
+          "key_stats": "15,655 tickets paid ($530,534.89) from June 20\u2013Dec 31, 2025; 1,295 tickets paid ($48,746.21) in January 2026; total collected: $579,281.10. January 2026 adjudications: 89 cases, original violation balance $8,914.00 reduced to $3,545.00 after adjudication.",
+          "key_decisions": "Council previously approved (November 19, 2025) an agreement with IPS Group for gateway merchant fees and meter maintenance parts for one year with up to four renewal options, not to exceed $200,000.",
+          "action_items": "Staff to monitor revenue collections weekly and send unpaid citations to collections as needed; AIMS awaiting Department of Public Safety approval for Nevada DMV holds; staff working with AIMS on expanded reporting metrics; IPS Group technicians continuing meter battery/solar panel replacements with full resolution targeted by end of February 2026."
+        },
+        "FEB-012": {
+          "title": "Quarterly Financial Report \u2013 December 31, 2025",
+          "department": "Finance",
+          "category": "Financial Report",
+          "tldr": "The City of Reno's second quarter financial report for FY2025-26 (October 1 \u2013 December 31, 2025) shows total General Fund revenues at 44.7% of budget, up from 40.0% at the same point last year, representing a 7.81% year-over-year increase. Property tax, business licenses, charges for services, and fines and forfeits are all trending favorably. Expenditures are at 46.8% of budget, within expected range for the midpoint of the fiscal year. Ongoing challenges with the Nevada Department of Taxation's new financial system continue to complicate CTax distribution reporting and revenue projections.",
+          "key_stats": "Total General Fund revenues: $139,899,319 (44.7% of $313,119,191 amended budget); Total General Fund expenditures: $153,401,600 (46.8% of $327,567,822 amended budget); Revenue growth year-over-year: 7.81%; Property tax actuals: $47,902,919 (up 10.5% YoY); Consolidated Tax actuals: $35,614,370 (up 7.5% YoY); Charges for Services actuals: $15,103,344 (up 23.8% YoY); Franchise Fees actuals: $9,767,427 (down 23.8% YoY); Intergovernmental actuals: $4,446,485 (down 27.6% YoY)",
+          "key_decisions": "No formal decisions requested; report is informational. Council is being updated on fiscal status and budget-to-actual performance for Q2 FY2025-26.",
+          "action_items": "Report to be published on reno.gov for public review. City management should continue monitoring revenue and expenditure variances, particularly CTax distributions affected by the Department of Taxation's new financial system, to support accurate projections for the remainder of FY2025-26 and next year's budget."
+        },
+        "FEB-002": {
+          "title": "Planned Tree Removals at Lear Theater",
+          "department": "Parks and Recreation",
+          "category": "Parks and Recreation",
+          "tldr": "The City of Reno's Urban Forestry Division is recommending the removal of two American Linden trees in the parkway strip along Ralston Street adjacent to the Lear Theater at 528 W 1st Street. Despite five rounds of pruning since 2000 and supplemental irrigation efforts, the trees have continued to decline due to severe dieback, poor soil conditions, and inadequate irrigation. A certified Tree Risk Assessor confirmed a moderate risk of branch failure, posing potential hazards to parked cars and pedestrians. Removal is scheduled to be completed by the end of April 2026.",
+          "key_stats": "Two American Linden (Tilia americana) trees; largest of their species in the City of Reno; pruned five times since 2000, most recently in 2024; moderate risk of branch failure identified; removal scheduled by end of April 2026.",
+          "key_decisions": "Approval of the planned removal of two American Linden trees located in the parkway strip along Ralston Street adjacent to the Lear Theater, based on declining health and public safety risk.",
+          "action_items": "Remove the two American Linden trees by the end of April 2026."
+        },
+        "FEB-020": {
+          "title": "02.27.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative Reports",
+          "tldr": "This memo transmits weekly reports to the Mayor and City Council covering the period of February 20\u201326, 2026. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The attached logs detail dozens of individual requests spanning police records, fire prevention records, building permits, 911 dispatch logs, and other general public records categories.",
+          "key_stats": "The visible portion of the public records log (pages 1\u20132 of 13) shows at least 57 requests logged between February 20\u201322, 2026, spanning Police Department Records, General Public Records, and Fire Department Records categories. The most common request types include Police Reports, Body Worn Camera Video, Building Plans/Permits/Inspections, and 911/Dispatch Calls.",
+          "key_decisions": null,
+          "action_items": "No action items required of the Mayor or City Council; memo is informational only. Attached reports (Attachments A, B, and C) are provided for awareness."
+        },
+        "JAN-002": {
+          "title": "Parking Program Updates - December 2025",
+          "department": "City Manager's Office",
+          "category": "Operations",
+          "tldr": "This memo updates the Mayor and Council on the Parking Program as of December 2025. Since reinstating access to Nevada DMV registered owner data on June 20, 2025, the City has collected $530,534.89 in parking fines and fees. The Parking Program has also completed a transition from an on-site to a cloud-hosted software system with vendor AIMs, and IPS Group technician support for single space meter maintenance began the week of January 5, 2026.",
+          "key_stats": "Total collected since June 20, 2025 DMV data reinstatement: $530,534.89 across 15,655 parking tickets paid. Monthly breakdown: June 20\u201330 ($15,611.39, 490 tickets), July ($120,735.94, 3,972 tickets), August ($128,398.64, 4,436 tickets), September ($100,946.34, 2,488 tickets), October ($65,130.45, 1,844 tickets), November ($43,736.32, 1,165 tickets), December ($55,975.81, 1,260 tickets). IPS Group agreement approved November 19, 2025, not to exceed $200,000 for one year with up to four renewal options.",
+          "key_decisions": "Council approved an agreement with IPS Group on November 19, 2025 for gateway merchant fees and parking meter maintenance parts, not to exceed $200,000 for a one-year term with up to four additional renewal years.",
+          "action_items": "Parking Program staff to continue monitoring revenue collections weekly and may send unpaid citations to collections. AIMs is awaiting the Department of Public Safety at the state level to process the request to finalize DMV holds setup. Updates on IPS Group technician support progress to be provided in next month's memo."
+        },
+        "APR-005": {
+          "title": "Parking Program Updates \u2013 February 2026",
+          "department": "City Manager's Office",
+          "category": "Parking",
+          "tldr": "The City of Reno's Parking Program update for February 2026 reports $633,339.85 in total parking fines and fees collected since DMV registered owner data access was reinstated on June 20, 2025. Adjudication activity in January and February 2026 reduced original violation balances by roughly 55\u201360%. Software vendor AIMS is pursuing California mail notifications and awaiting state action on Nevada DMV holds. IPS technicians are ongoing in replacing solar panels and batteries on single-space meters, with all critical issues expected resolved by end of March 2026.",
+          "key_stats": "Total collected since June 20, 2025: $633,339.85 across 18,156 tickets paid. February 2026: 1,206 tickets paid, $54,058.75 collected. January 2026 adjudications: 89 cases, original balance $8,914.00 reduced to $3,545.00. February 2026 adjudications: 119 cases, original balance $11,441.00 reduced to $5,813.00.",
+          "key_decisions": "Staff will continue monitoring revenue collections weekly and may send unpaid citations to collections. Staff will review AIMS quote for California mail notifications before proceeding. Nevada DMV holds remain pending state-level action from the Nevada Department of Public Safety.",
+          "action_items": "1. Monitor parking revenue collections weekly. 2. Review AIMS quote for California registered owner mail notifications and determine next steps. 3. Await Nevada Department of Public Safety action to complete DMV holds setup. 4. Work with AIMS to develop expanded reports with additional metrics for future memos. 5. Ensure IPS resolves all battery-critical meter issues by end of March 2026."
+        },
+        "APR-004": {
+          "title": "04.14.26 Weekly Reports Public Records Request, Media Requests, and Code Enforcement Services Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative / Operational Reports",
+          "tldr": "This memorandum transmits weekly reports to the Mayor and City Council covering April 3\u20139, 2026, from three city offices. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The bulk of the attached detail visible in the memo consists of public records requests, predominantly for police department records such as police reports, body worn camera video, background requests, and 911 dispatch logs.",
+          "key_stats": "Public records requests logged from April 3\u20135, 2026 alone span at least pages 1\u20133 of 13, with the majority being Police Department Records requests. Frequent requestors include CRU LexisNexis (multiple requests per day), WCHSA CPS, OPM, and FIREARMSHELP@DPS.STATE.NV.US. Request types include Police Reports, Body Worn Camera Video, Background Requests, 911/Dispatch Calls, Fire Incident/Investigation Reports, and Building Plans/Permits.",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "FEB-008": {
+          "title": "02.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative / Reporting",
+          "tldr": "This memo transmits weekly reports to the Mayor and City Council covering the period of January 30 through February 5, 2026. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The attached logs detail individual requests by reference number, date, requester, and category.",
+          "key_stats": "The visible portion of the public records log (pages 1\u20133 of 15) shows at least 21 Police Department Records requests, at least 15 Fire Department Records requests (all from CRU LexisNexis on 2/1/2026), and at least 14 General Public Records requests submitted between January 30 and February 1, 2026. Common request categories include Police Reports, Background Requests, FBI NICS, Body Worn Camera Video, Traffic Accidents, 911 Transcripts/Logs, Building Plans/Permits, and Fire Incident Reports.",
+          "key_decisions": null,
+          "action_items": null
+        },
+        "JAN-001": {
+          "title": "Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative Reports",
+          "tldr": "This memo transmits weekly reports to the Mayor and City Council covering the period of December 26, 2025 through January 1, 2026. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The attached logs detail dozens of individual public records requests spanning police reports, 911 dispatch logs, building records, fire prevention records, and background checks.",
+          "key_stats": "Approximately 60+ public records requests logged across the partial report (pages 1-3 of 9), submitted between December 26\u201329, 2025; request types include Police Department Records, General Public Records, and Fire Department Records; notable volume of requests from WCHSA CPS (10+ requests) and OPM (5 requests) on their respective dates.",
+          "key_decisions": null,
+          "action_items": "Mayor and City Council to review attached reports: (A) Public records requests from City Clerk's Office, (B) Weekly media requests from Strategic Communications, (C) Weekly code enforcement service requests from Code Enforcement."
+        },
+        "JAN-004": {
+          "title": "01.11.26 Weekly Reports Public Records Requests, Media Requests, and Code Enforcement Service Requests",
+          "department": "City Manager's Office",
+          "category": "Administrative",
+          "tldr": "This memo from the City Manager's Office transmits weekly reports to the Mayor and City Council covering January 2\u20138, 2026. The reports include public records requests received by the City Clerk's Office, media requests handled by Strategic Communications, and code enforcement service requests. The attached logs detail individual requests by reference number, date, requester, and category across police, fire, and general public records.",
+          "key_stats": "The public records log (partial, pages 1\u20133 of 13) shows over 55 requests logged on January 2\u20134, 2026 alone, spanning police reports, fire incident reports, fire prevention records, background requests, 911 dispatch logs, building permits/plans, traffic accident records, body worn camera video, FBI NICS checks, employment/payroll data, and environmental site assessments.",
+          "key_decisions": null,
+          "action_items": "Mayor and City Council to review attached reports: (A) Public records requests from City Clerk's Office, (B) Weekly media requests from Strategic Communications, (C) Weekly code enforcement service requests from Code Enforcement."
+        }
+      }
+    },
+    "retrieved_chunk_ids": [
+      "MAR-009",
+      "MAR-005",
+      "FEB-018",
+      "FEB-012",
+      "FEB-002",
+      "FEB-020",
+      "JAN-002",
+      "APR-005",
+      "APR-004",
+      "FEB-008",
+      "JAN-001",
+      "JAN-004"
+    ]
+  },
+  "error": null
+}

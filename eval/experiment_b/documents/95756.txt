@@ -1,0 +1,57 @@
+Memorandum 
+DATE:  April 21, 2026  
+TO:   Mayor and City Council    
+THROUGH: Jackie Bryant, City Manager 
+FROM:  John Flansberg, Regional Infrastructure Administrator 
+    Kayla Garcia, Senior Management Analyst  
+DEPT:   Regional Infrastructure       
+SUBJECT:  Sewer Connection Fee Sufficiency Analysis  
+The Sewer Connection Fee Sufficiency Analysis has been completed with the resulting 
+recommendation that the current connection fees are sufficient for the three sewer service areas 
+Truckee Meadows Water Reclamation Facility (TMWRF), Truckee Meadows Water 
+Reclamation Facility (TMWRF)  + Verdi, and Reno Stead Water Reclamation Facility (RSWRF) 
+and no additional increases outside of annual Consumer Price Index (CPI) adjustments for 
+inflation are recommended at this time. 
+ 
+Sewer connection fees are calculated based on the cost of past and future capital improvements 
+to the sewer collection system and treatment plants divided by the remaining sewer capacity 
+available in equivalent dwelling units (single-family home).  Currently, a single-family home 
+consumes an average capacity of 165 gallons per day.  The analysis utilizes a minimum planning 
+horizon of 20 years.   
+ 
+Truckee Meadows Water Reclamation Facility (TMWRF): 
+• Reno Existing Capacity = 25.1 million gallons per day (MGD) 
+• Reno Total Utilized Capacity = 19.0 MGD 
+• Reno Remaining Capacity = 6.1 MGD; equivalent of 36,970 homes 
+• Historical growth (TMWRF): 1,200 homes per year; sewer capacity = +/- 30 years. 
+ 
+Reno-Stead Water Reclamation Facility (RSWRF): 
+• Existing Capacity = 4.0 MGD (after completion of APWF) 
+• Total Utilized Capacity = 2.1 MGD 
+• Remaining Capacity = 1.9 MGD; equivalent of 11,515 homes 
+• Historical growth (RSWRF): 380 homes per year; sewer capacity = +/- 30 years. 
+ 
+
+In prior connection fee models, the RSWRF sewershed area had planned for growth up to 6 
+MGD.  Based on the historical growth over the past 6 years of approximately 380 homes per 
+year, it is reasonable to assume that 4 MGD RSWRF sewer capacity will meet our 20-year need.  
+This change removed a significant amount of costs related to expansion projects to expand 
+RSWRF from 4MGD to 6MGD in the later years of the 20-year model.   
+ 
+The model also had the Advanced Purified Water Facility (APWF) project costs allocated at a 
+50/50 cost share between user fees and connection fees.  This cost share was used based on the 
+perspective of treatment capacity at RSWRF (water-in) with the capacity increasing from 2 
+MGD to 4 MGD.  Upon further review and adjusting costs based on the perspective of “water 
+out”, the new connections will receive a larger benefit because a portion of the existing effluent 
+flows out of RSWRF go to irrigation of Sierra Sage Golf Course, North Valleys Sports Complex, 
+and Mayors Park as well as non-potable construction water which are all costs the current users 
+pay.  The existing users primarily benefit from APWF during the late fall through early spring 
+when water currently flows to Swan Lake.  APWF will now take those flows and treat to 
+drinking water standards for injection into the American Flat aquifer reducing the discharge into 
+Swan Lake.  For these reasons, the cost share allocation of APWF was changed to 30% user fee / 
+70% connection fee to equitably reflect the benefit of the project to the project benefactor. 
+ 
+Staff will be reaching out to industry groups to share the results of the sewer connection fee 
+analysis including The Builders Association and Associated General Contractors.  We will 
+collect feedback regarding growth projections and sewer financial modeling and then inform 
+Council about any concerns that arise. 

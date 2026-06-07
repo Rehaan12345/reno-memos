@@ -1,0 +1,61 @@
+{
+  "global_id": "APR-006",
+  "month": "APR",
+  "memo_id": 6,
+  "date_published": "2026-04-15",
+  "title": "Roadway Debris and Litter",
+  "source_url": "https://www.reno.gov/home/showpublisheddocument/95742/639137583069670000",
+  "doc_id": "95742",
+  "resolved_text": "Memorandum\nDATE: April 15, 2026\nTO: Mayor and City Council\nTHROUGH: Jackie Bryant, City Manager\nFROM: Suzanne Groneman, Environmental Services Manager\nCynthia Esparza, Director\nDEPT: Community Engagement & Services\nSUBJECT: Roadway Debris and Litter\n\nThis memo provides an overview of the issue of unsecured loads contributing to roadway debris and litter in Reno, summarizes applicable Nevada rules, outlines actions taken to date, and outlines the next steps to reduce public safety risks and environmental impacts.\n\nUnsecured and uncovered loads from both commercial haulers and other vehicles contribute to roadway debris along key corridors, particularly Interstate 80 and routes leading to the landfill. Roadway debris creates safety hazards, vehicle damage, cleanup costs, and negatively impacts the environment, including air quality from particulate matters.\n\nNevada Regulations\nCurrently Nevada Revised Statutes (NRS) 444.615 and the Nevada Administrative Code (NAC) 444.629 prohibit the unlawful disposal of waste, including littering, in the public right-of-way. Waste must be stored or loaded to prevent any part from falling from a vehicle. Waste storage and loading includes the use of tarps, covers, or other securing mechanisms.\n\nEnforcement\nCommunity Engagement & Services staff requested records from the Nevada Department of Public Safety, which the Nevada Department of Public Safety provided. In the last 24 months, 75 citations were issued related to NRS 444.615 and NAC 444.629. While enforcement is occurring, roadway debris continues to be an issue in the region, indicating that education and prevention are needed to complement enforcement.\n\nWaste Management has the authority at Lockwood Landfill to refuse service to any customer with an unsecured load and may also issue citations and fines. Waste Management has committed to tracking instances of unsecured loads to better evaluate the scale of the issue.\n\nCurrent Efforts\n\nTo facilitate prompt resolution, City of Reno, Waste Management, and Nevada Department of Transportation staff met to discuss reporting needs and maintenance schedules. As a result, several areas reported by residents along I-80 were addressed on March 7, 2026. Additionally, several other efforts are in progress:\n\n\u2022 Regional Coordination: Community Engagement & Services staff is developing a contact list of commercial haulers operating in the region to hold a planning coordination call to align expectations, share requirements, and reinforce compliance standards, as well as address ongoing communication.\n\u2022 Public Communications: The City of Reno will post reminders ahead of Waste Management's free dump days, occurring April 16-25, 2026. Messaging will focus on safety and requirements for securing loads.\n\u2022 Franchise Partner Support: Waste Management included messaging in a recent bill insert to remind customers to cover and secure their loads.\n\u2022 Funding Support: Community Engagement & Services staff is seeking funding to support a more comprehensive program, including enforcement tracking, public education, and clean-ups with regional partners. Community Engagement & Services staff submitted a funding application and are awaiting an update.\n\nFurther updates will be provided as information becomes available.",
+  "fields": {
+    "department": "Community Engagement & Services",
+    "authors": "Suzanne Groneman, Environmental Services Manager; Cynthia Esparza, Director",
+    "category": "Public Works / Environmental Services",
+    "subcategory": "Roadway Debris & Litter Enforcement",
+    "tldr": "Unsecured vehicle loads are causing roadway debris and safety hazards along I-80 and routes to the Lockwood Landfill. Nevada statutes prohibit unsecured loads, and 75 citations were issued over the past 24 months, but enforcement alone has not resolved the problem. The City is coordinating with Waste Management and NDOT, launching public communications around free dump days, and pursuing additional funding for a broader education and cleanup program.",
+    "key_stats": "75 citations issued in the last 24 months under NRS 444.615 and NAC 444.629; free dump days run April 16\u201325, 2026; cleanup of I-80 areas reported by residents completed March 7, 2026.",
+    "key_decisions": "No formal council votes requested in this memo; memo is informational. Waste Management has committed to tracking unsecured-load instances at Lockwood Landfill. City will post public reminders ahead of free dump days.",
+    "action_items": "1) Community Engagement & Services to develop a commercial hauler contact list and hold a planning coordination call. 2) City to post load-securing reminders ahead of April 16\u201325 free dump days. 3) Community Engagement & Services to await outcome of submitted funding application for enforcement tracking, public education, and regional cleanups. 4) Waste Management to begin tracking unsecured-load instances at Lockwood Landfill.",
+    "keywords": [
+      "unsecured loads",
+      "roadway debris",
+      "litter",
+      "I-80",
+      "Lockwood Landfill",
+      "NRS 444.615",
+      "NAC 444.629",
+      "citations",
+      "Waste Management",
+      "free dump days",
+      "public safety",
+      "environmental impact",
+      "particulate matter",
+      "enforcement",
+      "public education"
+    ],
+    "entities": {
+      "departments": [
+        "Community Engagement & Services",
+        "Nevada Department of Public Safety",
+        "Nevada Department of Transportation (NDOT)"
+      ],
+      "projects": [
+        "Regional Coordination \u2013 commercial hauler contact list and planning call",
+        "Public Communications campaign for free dump days",
+        "Franchise Partner Support \u2013 Waste Management bill insert messaging",
+        "Funding application for comprehensive debris/litter program"
+      ],
+      "dollar_amounts": [],
+      "dates": [
+        "April 15, 2026 (memo date)",
+        "March 7, 2026 (I-80 cleanup completed)",
+        "April 16\u201325, 2026 (Waste Management free dump days)"
+      ],
+      "people": [
+        "Jackie Bryant, City Manager",
+        "Suzanne Groneman, Environmental Services Manager",
+        "Cynthia Esparza, Director (Community Engagement & Services)"
+      ]
+    }
+  }
+}

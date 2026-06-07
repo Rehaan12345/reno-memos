@@ -1,0 +1,26 @@
+{
+  "run_id": "P09__A-vanilla__2026-06-07T21-53-36Z",
+  "prompt_id": "P09",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:53:36.456683+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Technology Systems Being Replaced or Upgraded\n\nBased on the context provided, only **one technology system** is explicitly mentioned as being replaced or upgraded:\n\n### 1. Tyler Technologies' New World ERP System *(mar-005)*\n- The city's **Enterprise Resource Planning (ERP) software** is approaching **end-of-life**\n- Current pain points include:\n  - FLSA overtime calculation errors\n  - Manual pay adjustments\n  - Fire shift trade issues\n  - Lacks robust budgeting and HR tools\n- Council has been asked to **authorize budget for procurement and implementation** of a replacement\n- Affects **1,538.50 FTE** currently on the system\n\n---\n\n### Most Urgent System\nThe **ERP replacement** is clearly the most urgent (and only) system identified in the context. Its urgency is driven by:\n- Active **payroll calculation errors** affecting over 1,500 employees\n- The system approaching **end-of-life** (with no confirmed date from the vendor, adding uncertainty)\n- The need for immediate **council budget authorization** to begin procurement\n\n> Note: The RPD Real Time Information Center (RTIC) received **$1.2M in federal funding** *(feb-005)*, suggesting an upgrade, but no details about the nature of that technology upgrade are provided in the context.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "JAN-009#0",
+      "MAR-005#0",
+      "JAN-011#0",
+      "MAR-011#0",
+      "MAR-008#0",
+      "FEB-005#0",
+      "FEB-014#0",
+      "MAR-016#0"
+    ]
+  },
+  "error": null
+}

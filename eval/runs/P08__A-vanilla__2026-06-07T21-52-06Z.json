@@ -1,0 +1,26 @@
+{
+  "run_id": "P08__A-vanilla__2026-06-07T21-52-06Z",
+  "prompt_id": "P08",
+  "system_id": "A-vanilla",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:52:06.532451+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:fa74cb89b16268c4",
+  "document_set_hash": null,
+  "output": {
+    "answer": "## Affordable Housing Update\n\n### What's in the Pipeline\n\nBased on the available memos, the city has several active affordable housing efforts:\n\n- **Hi-Way 40 Motel Conversion** (feb-014): A 28-unit permanent supportive housing project for homeless individuals (income \u226430% AMI with disability) is nearing completion, with construction expected by **end of March 2026** and lease-up in **April 2026**. The city invested $2.35M in SLFRF funds, and NAHA awarded an additional **$1.479M** to cover cost overruns from asbestos remediation.\n\n- **Vintage at Redfield & Vintage at Stoker** (feb-015): Two developments totaling **703 units** received city sewer and permit fee waivers worth $2.497M, with NAHA reimbursing $1.248M. An additional **$891,404** in NAHA funding may be available in 2026.\n\n- **Love Your Block** (jan-011): Home improvement grants launching May 2026 in Ward 1 address neighborhood-level housing conditions, though this is maintenance-focused rather than new supply.\n\n---\n\n### Is the Pipeline Keeping Pace with Rising Rents?\n\n**Almost certainly not**, based on the economic data:\n\n- Average rents have risen for **11\u201312 consecutive months** (as of Feb\u2013Mar 2026 updates), reaching **$1,769/month (+8.4% YoY)** in March 2026\n- Average home values sit at **~$560\u2013567K**, remaining largely flat but still unaffordable for many\n- Mortgage rates are at **5.98%**\n\nAgainst this backdrop, **28 PSH units** and **703 units** (the latter already built and simply receiving fee reimbursements, not new starts) represent a **very limited supply response** to sustained, significant rent increases. The context does not provide data on the total housing supply gap or broader pipeline, so a definitive conclusion cannot be drawn \u2014 but nothing in these memos suggests supply is keeping pace with demand.",
+    "cited_sources": [],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "FEB-014#0",
+      "JAN-006#0",
+      "FEB-015#0",
+      "MAR-023#0",
+      "MAR-001#0",
+      "JAN-011#0",
+      "MAR-009#0",
+      "JAN-014#0"
+    ]
+  },
+  "error": null
+}

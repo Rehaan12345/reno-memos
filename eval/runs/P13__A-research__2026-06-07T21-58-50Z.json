@@ -1,0 +1,91 @@
+{
+  "run_id": "P13__A-research__2026-06-07T21-58-50Z",
+  "prompt_id": "P13",
+  "system_id": "A-research",
+  "experiment": "A",
+  "timestamp": "2026-06-07T21:58:50.069231+00:00",
+  "generation_model_version": "claude-sonnet-4-6",
+  "config_hash": "sha256:8c83b92ba0df0cdf",
+  "document_set_hash": null,
+  "output": {
+    "answer": "# Governance & Appointments: Complete Quarter Picture\n\n## The Core Problem: Vacancies Are Persistent and Getting Worse\n\nThe memos show a governance gap that did not resolve itself across the quarter. Two vacancy reports \u2014 JAN-002 (as of January 1) and APR-013 (as of April 1) \u2014 bookend the quarter, and comparing them reveals that several boards remained critically understaffed throughout with no visible improvement.\n\n---\n\n## Boards With Chronic, Unresolved Vacancies\n\n**Access Advisory Board** is the clearest failure case. It carried **6 vacancies** in JAN-002 and still showed **6 vacancies** in APR-013 \u2014 identical numbers three months apart. The escalation flag in the curated analysis confirms this is a recurring pattern. There is no memo in the set indicating any appointments were made to this board during the quarter.\n\n**Senior Residents Advisory Board** had **4 vacancies** in JAN-002 and still showed **4 vacancies** in APR-013. Again, no change.\n\n**Ward 6 NAB** had **6 vacancies** in JAN-002 and **6 vacancies** in APR-013. The curated analysis flags Ward 6 NAB as \"consistently understaffed.\"\n\n**Ward 4 NAB** had **5 vacancies** in JAN-002 and **6 vacancies** in APR-013 \u2014 it actually got *worse* by one seat over the quarter.\n\n**Ward 1 NAB** shows **4 vacancies** in APR-013 but was not flagged in JAN-002, so it is unclear whether this is new or was simply not highlighted in January.\n\n**Urban Forestry Commission** shows **4 current vacancies** in APR-013 but was not called out in JAN-002, so the quarter-start baseline is unclear.\n\n---\n\n## Reno City Charter Committee: The Largest Single Vacancy Cluster\n\nJAN-002 reported **9 vacancies** on the Reno City Charter Committee \u2014 the largest single vacancy count of any board in the January report. APR-013 does not mention this board at all. The memos do not explain why it disappeared from the April report. It is unclear whether those seats were filled, the committee was dissolved or restructured, or the April report simply omitted it. This is a gap worth flagging.\n\n---\n\n## Imminent Term Expirations Requiring Action\n\nAPR-013 identifies several boards with terms expiring at the end of April and May 2026 \u2014 meaning Council action was needed essentially at the time the memo was written:\n\n- **Human Rights Commission (HRC):** 3 terms expiring **April 30**\n- **Ward 2 NAB:** 2 terms expiring **April 30**\n- **Ward 4 NAB:** 1 term expiring **April 30** (on top of its existing 6 vacancies)\n- **Civil Service Commission:** 2 terms expiring **May 31**\n- **Arts & Culture Board:** terms expiring **May 31** (referenced in the action items of APR-013)\n\nThe Financial Advisory Board also had a term expiring **February 28, 2026** per JAN-002. There is no memo in the set confirming whether that seat was filled.\n\n---\n\n## Process: What Was Supposed to Happen\n\nJAN-002 stated that staff planned to meet individually with Council Members during Q3 to review vacancies and support timely appointments. There is no memo in the set confirming those meetings occurred or that they produced appointments. The April vacancy report (APR-013) showing identical or worsened vacancy counts on several boards suggests the intended process either did not happen or did not produce results.\n\n---\n\n## Summary Table\n\n| Board | Jan 1 Vacancies | Apr 1 Vacancies | Direction | Imminent Expirations |\n|---|---|---|---|---|\n| Access Advisory | 6 | 6 | No change | Not noted |\n| Senior Residents Advisory | 4 | 4 | No change | Not noted |\n| Ward 6 NAB | 6 | 6 | No change | Not noted |\n| Ward 4 NAB | 5 | 6 | Worse | 1 expiring Apr 30 |\n| Ward 1 NAB | Not flagged | 4 | Unknown | Not noted |\n| Urban Forestry | Not flagged | 4 | Unknown | Not noted |\n| Reno City Charter Committee | 9 | Not mentioned | Unknown | \u2014 |\n| Financial Advisory | 1 + 1 upcoming | Not mentioned | Unknown | Feb 28 expired |\n| HRC | Not flagged | 3 expiring | \u2014 | Apr 30 |\n| Civil Service Commission | Not flagged | 2 expiring | \u2014 | May 31 |\n\n*Sources: JAN-002, APR-013*\n\n---\n\n## Bottom Line\n\nThe memos suggest a systemic appointments problem, not a one-time oversight. The same boards appear understaffed at the start and end of the quarter (JAN-002, APR-013). The process intended to address this \u2014 individual Council Member meetings \u2014 has no documented follow-through in the memo set. And the quarter ends with a new wave of term expirations (HRC, Ward 2 NAB, Ward 4 NAB by April 30; Civil Service and Arts Board by May 31) that, if not acted on promptly, will add to already-chronic vacancy counts.",
+    "cited_sources": [
+      {
+        "memo_id": "APR-002",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95720/639114289095530000"
+      },
+      {
+        "memo_id": "APR-004",
+        "title": "Parking Program Updates \u2014 February 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95740/639117766748100000"
+      },
+      {
+        "memo_id": "APR-010",
+        "title": "Reno Seniors EngAGED Quarterly Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95754/639123702505330000"
+      },
+      {
+        "memo_id": "APR-011",
+        "title": "Reno Direct & Service Requests Report \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95752/639123702500100000"
+      },
+      {
+        "memo_id": "APR-013",
+        "title": "City of Reno Boards & Commissions 2026 Q4 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95758/639124654434230000"
+      },
+      {
+        "memo_id": "APR-014",
+        "title": "Clean & Safe Team Homeless Actions & Outcomes \u2014 March 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95762/639124654440770000"
+      },
+      {
+        "memo_id": "FEB-018",
+        "title": "Parking Program Updates \u2014 January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95511/639076062744270000"
+      },
+      {
+        "memo_id": "JAN-002",
+        "title": "City of Reno Boards and Commissions 2025 Q3 Vacancy Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95257/639038034123830000"
+      },
+      {
+        "memo_id": "JAN-003",
+        "title": "Parking Program Updates \u2013 December 2025",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95256/639038033812430000"
+      },
+      {
+        "memo_id": "JAN-008",
+        "title": "Reno Seniors EngAGED Program Update",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95291/639046102085270000"
+      },
+      {
+        "memo_id": "JAN-014",
+        "title": "Monthly Economic Update: January 2026",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95312/639052803780270000"
+      },
+      {
+        "memo_id": "JAN-015",
+        "title": "December 2025 Reno Direct & Service Requests Report",
+        "source_url": "https://www.reno.gov/home/showpublisheddocument/95313/639052803983630000"
+      }
+    ],
+    "extracted_data": null,
+    "retrieved_chunk_ids": [
+      "APR-002",
+      "APR-004",
+      "APR-010",
+      "APR-011",
+      "APR-013",
+      "APR-014",
+      "FEB-018",
+      "JAN-002",
+      "JAN-003",
+      "JAN-008",
+      "JAN-014",
+      "JAN-015"
+    ]
+  },
+  "error": null
+}
