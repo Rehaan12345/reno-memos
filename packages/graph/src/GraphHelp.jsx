@@ -32,6 +32,7 @@ export default function GraphHelp({ filterable = false }) {
           explicitly cites another.
         </li>
         <li><b>Hover</b> a line to see the evidence behind it; hover a dot for its title.</li>
+        <li><b>Click a memo</b> to open it in a new tab.</li>
         {filterable && (
           <li>
             <b>Tip:</b> click a relation type in the legend to hide it. Turn off{" "}

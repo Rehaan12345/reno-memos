@@ -69,6 +69,7 @@ export default function GraphExplorer() {
         linkColor={(l) => REL_COLORS[l.rel_type] || "#999"}
         linkLabel={(l) => l.evidence || l.rel_type}
         isDirected={(l) => DIRECTED.has(l.rel_type)}
+        nodeHref={(n) => `/memo/${n.id}`}
       />
     </div>
   );

@@ -50,7 +50,7 @@ function buildGraph(extracted, memoIds, mode) {
 
 // `memoIds` defaults to the keys of extracted.fields, which are exactly the
 // retrieved memos — so callers that only have extracted_data can omit it.
-export default function ResponseGraph({ extracted = {}, memoIds }) {
+export default function ResponseGraph({ extracted = {}, memoIds, nodeHref }) {
   const ids = memoIds || Object.keys(extracted.fields || {});
   const [mode, setMode] = useState("memos");
   const graphData = useMemo(() => buildGraph(extracted, ids, mode), [extracted, ids, mode]);
@@ -97,6 +97,7 @@ export default function ResponseGraph({ extracted = {}, memoIds }) {
         linkColor={(l) => (l.rel_type === "appears_in" ? APPEARS_IN : REL_COLORS[l.rel_type] || "#999")}
         linkLabel={(l) => l.evidence || l.rel_type}
         isDirected={(l) => DIRECTED.has(l.rel_type)}
+        nodeHref={nodeHref}
       />
     </div>
   );

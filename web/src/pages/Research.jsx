@@ -109,7 +109,11 @@ function ResearchResult({ result }) {
       )}
 
       <h3 className="evidence-title">Evidence graph</h3>
-      <ResponseGraph extracted={extracted_data || {}} memoIds={retrieved_chunk_ids} />
+      <ResponseGraph
+        extracted={extracted_data || {}}
+        memoIds={retrieved_chunk_ids}
+        nodeHref={(n) => (n.kind === "memo" ? `/memo/${n.id}` : null)}
+      />
 
       <h3 className="evidence-title">Memos ({memos.length})</h3>
       <div className="memo-grid">

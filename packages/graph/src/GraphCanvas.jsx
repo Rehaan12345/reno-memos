@@ -40,6 +40,7 @@ export default function GraphCanvas({
   linkColor,
   linkLabel,
   isDirected,
+  nodeHref,
   className = "graph-canvas",
 }) {
   const wrapRef = useRef(null);
@@ -67,6 +68,15 @@ export default function GraphCanvas({
           nodeColor={nodeColor}
           nodeLabel={nodeLabel}
           nodeRelSize={5}
+          onNodeClick={(node) => {
+            const href = nodeHref?.(node);
+            if (href) window.open(href, "_blank", "noopener,noreferrer");
+          }}
+          onNodeHover={(node) => {
+            if (wrapRef.current) {
+              wrapRef.current.style.cursor = node && nodeHref?.(node) ? "pointer" : "default";
+            }
+          }}
           nodeCanvasObjectMode={() => "after"}
           nodeCanvasObject={(node, ctx, scale) => {
             const label = drawLabel?.(node);

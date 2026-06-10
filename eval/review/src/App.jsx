@@ -117,7 +117,7 @@ export default function App() {
                           </li>))}</ul>}
                   </div>
 
-                  {o.extracted_data && <ExtractedData data={o.extracted_data} />}
+                  {o.extracted_data && <ExtractedData data={o.extracted_data} sources={o.cited_sources} />}
                 </section>
               ))}
             </div>
@@ -142,7 +142,7 @@ export default function App() {
   );
 }
 
-function ExtractedData({ data }) {
+function ExtractedData({ data, sources }) {
   const [open, setOpen] = useState(false);
   const [graphOpen, setGraphOpen] = useState(false);
   const ents = data.entities || [];
@@ -157,7 +157,7 @@ function ExtractedData({ data }) {
         </button>
         <button className="ex-graph-btn" onClick={() => setGraphOpen(true)}>◓ View graph</button>
       </div>
-      {graphOpen && <GraphModal extracted={data} onClose={() => setGraphOpen(false)} />}
+      {graphOpen && <GraphModal extracted={data} sources={sources} onClose={() => setGraphOpen(false)} />}
       {open && (
         <div className="ex-body">
           <div className="ex-col">
