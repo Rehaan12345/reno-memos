@@ -29,6 +29,7 @@ CLI:
 """
 
 import json
+import os
 import re
 import sqlite3
 import sys
@@ -355,8 +356,16 @@ def query_b(question):
             f"Context block — {len(memos)} memos:\n\n{context}\n\n"
             "Answer the question by reasoning across these memos. Cite global_ids."
         )
-        answer = generate(user_msg, system=query.SYSTEM_PROMPT) if memos else \
-            "No memos matched this query, so there is nothing to reason over."
+        if not memos:
+            answer = "No memos matched this query, so there is nothing to reason over."
+        elif not os.environ.get("ANTHROPIC_API_KEY"):
+            # Mirror query.reason(): degrade gracefully so retrieval + the
+            # relationship graph are still usable when no key is configured.
+            cited = ", ".join(m["global_id"] for m in memos)
+            answer = ("[Reasoning layer unavailable: ANTHROPIC_API_KEY is not set.]\n\n"
+                      f"Retrieved and ready for synthesis: {cited}")
+        else:
+            answer = generate(user_msg, system=query.SYSTEM_PROMPT)
 
         used_ids = [m["global_id"] for m in memos]
         rels = [dict(r) for r in conn.execute(
@@ -381,6 +390,24 @@ def query_b(question):
             "extracted_data": {"entities": entities, "relationships": rels, "fields": fields},
             "retrieved_chunk_ids": used_ids,
         }
+    finally:
+        conn.close()
+
+
+def graph_b():
+    """All memos + relationship edges from reno_b.db as node-link JSON for the UI."""
+    conn = _connect()
+    try:
+        nodes = [{"id": r["global_id"], "title": r["title"],
+                  "department": r["department"], "category": r["category"],
+                  "month": r["month"]}
+                 for r in conn.execute(
+                     "SELECT global_id, title, department, category, month FROM memos")]
+        links = [{"source": r["source_id"], "target": r["target_id"],
+                  "rel_type": r["rel_type"], "evidence": r["evidence"]}
+                 for r in conn.execute(
+                     "SELECT source_id, target_id, rel_type, evidence FROM relationships")]
+        return {"nodes": nodes, "links": links}
     finally:
         conn.close()
 

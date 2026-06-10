@@ -11,7 +11,8 @@ export default function MemoCard({ memo, compact = false }) {
           {memo.global_id}
         </Link>
         <span className="memo-meta">
-          {memo.date_published} · {memo.department}
+          {memo.date_published ? `${memo.date_published} · ` : ""}
+          {memo.department}
         </span>
       </header>
       <Link to={`/memo/${memo.global_id}`} className="memo-title">

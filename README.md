@@ -65,6 +65,36 @@ otherwise           -> FTS5 keyword search -> one-hop graph walk -> Claude synth
 Direct-lookup routes never call the LLM. Reasoning is reserved for genuine
 cross-document questions.
 
+### Graph views
+
+Two pages visualize the relationship graph (memos joined by typed edges).
+Both render with `@reno/graph`, a shared React package (`packages/graph/`)
+consumed by the web app and the eval review UI from source — edit it once and
+both apps pick the change up live.
+
+- **Research** (`/research`) — answers a question and draws the *per-answer*
+  evidence graph: just the memos that fed the answer, plus a toggle to add the
+  entities (departments / projects / people) they mention.
+- **Graph** (`/graph`) — the *whole* knowledge base: all 77 memos and 165 typed
+  edges, with a per-relation-type filter.
+
+**How to read it** (also shown in-app under "How to read this graph"):
+
+- **Dots are memos**, labeled by ID and colored by department. In the
+  "Memos + entities" view, unlabeled dots are entities — blue = department,
+  green = project, orange = person.
+- **Lines are relationships**, colored by type. An **arrowhead** means
+  direction (source → target).
+  - **Blue, no arrow — `same_project`**: the memos share a named project. ~75%
+    of edges are these, so the default view is mostly topic clustering.
+  - **Orange, arrow — `precedes`**: the source memo comes before the target in
+    time or logic. Follow arrow chains to read a storyline.
+  - **Purple, arrow — `references`**: one memo explicitly cites another.
+- **Hover** a line for the evidence behind it; hover a dot for its title.
+- On the global graph, **click `same_project` off in the legend** to strip the
+  clustering edges and see the `precedes` chains — the real cross-document
+  structure.
+
 ---
 
 ## Part 2 — The evaluation harness (`eval/`)
@@ -121,7 +151,8 @@ cd eval/review && npm install && npm run dev                          # http://l
 - Pick a prompt, toggle Experiment A / B, judge the two blinded outputs, **Save**.
 - Left/right order is randomized once and persisted (`eval/review/blind_map.json`).
 - Experiment B also shows the structured data each system built (entities /
-  relationships / fields).
+  relationships / fields), with a **View graph** button that pops out the same
+  evidence graph as the Research page.
 - **Unblind** is a separate, confirm-gated action; system identity is never shown
   by default.
 - Answers save to `eval/review/responses/{prompt}__{experiment}.json` with the

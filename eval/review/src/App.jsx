@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
+import { GraphModal } from "@reno/graph";
 
 const EMPTY = {
   more_accurate: "", accuracy_reason: "",
@@ -143,15 +144,20 @@ export default function App() {
 
 function ExtractedData({ data }) {
   const [open, setOpen] = useState(false);
+  const [graphOpen, setGraphOpen] = useState(false);
   const ents = data.entities || [];
   const rels = data.relationships || [];
   const fields = data.fields || {};
   return (
     <div className="extracted">
-      <button className="ex-toggle" onClick={() => setOpen(!open)}>
-        {open ? "▾" : "▸"} Extracted data behind this answer
-        <span className="ex-counts"> · {ents.length} entities · {rels.length} relationships · {Object.keys(fields).length} memos</span>
-      </button>
+      <div className="ex-head">
+        <button className="ex-toggle" onClick={() => setOpen(!open)}>
+          {open ? "▾" : "▸"} Extracted data behind this answer
+          <span className="ex-counts"> · {ents.length} entities · {rels.length} relationships · {Object.keys(fields).length} memos</span>
+        </button>
+        <button className="ex-graph-btn" onClick={() => setGraphOpen(true)}>◓ View graph</button>
+      </div>
+      {graphOpen && <GraphModal extracted={data} onClose={() => setGraphOpen(false)} />}
       {open && (
         <div className="ex-body">
           <div className="ex-col">
