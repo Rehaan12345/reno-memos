@@ -9,9 +9,10 @@ reno.db
 # Source workbook is large binary input data
 CityThread_Q1_2026_Master.xlsx
 
-# Frontend
-web/node_modules/
-web/dist/
+# Frontend — npm workspaces hoist deps to the root; ignore node_modules/dist
+# and build output at every level.
+node_modules/
+dist/
 
 # OS
 .DS_Store

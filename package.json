@@ -1,0 +1,10 @@
+{
+  "name": "reno-memos",
+  "private": true,
+  "version": "0.1.0",
+  "workspaces": [
+    "packages/graph",
+    "web",
+    "eval/review"
+  ]
+}

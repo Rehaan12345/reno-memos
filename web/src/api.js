@@ -17,6 +17,8 @@ async function get(path) {
 export const api = {
   stats: () => get("/api/stats"),
   search: (q) => get(`/api/search?q=${encodeURIComponent(q)}`),
+  research: (q) => get(`/api/research?q=${encodeURIComponent(q)}`),
+  researchGraph: () => get("/api/research/graph"),
   threads: () => get("/api/threads"),
   flags: () => get("/api/flags"),
   metrics: () => get("/api/metrics"),

@@ -2,6 +2,8 @@ import { Routes, Route, NavLink, Link } from "react-router-dom";
 import { useEffect, useState } from "react";
 import { api } from "./api.js";
 import Ask from "./pages/Ask.jsx";
+import Research from "./pages/Research.jsx";
+import GraphExplorer from "./pages/GraphExplorer.jsx";
 import Memo from "./pages/Memo.jsx";
 import History from "./pages/History.jsx";
 import { Threads, Flags, Metrics, Decisions } from "./pages/Browse.jsx";
@@ -22,6 +24,8 @@ export default function App() {
           <NavLink to="/" end>
             Ask
           </NavLink>
+          <NavLink to="/research">Research</NavLink>
+          <NavLink to="/graph">Graph</NavLink>
           <NavLink to="/threads">Threads</NavLink>
           <NavLink to="/flags">Flags</NavLink>
           <NavLink to="/metrics">Metrics</NavLink>
@@ -33,6 +37,8 @@ export default function App() {
       <main className="content">
         <Routes>
           <Route path="/" element={<Ask />} />
+          <Route path="/research" element={<Research />} />
+          <Route path="/graph" element={<GraphExplorer />} />
           <Route path="/threads" element={<Threads />} />
           <Route path="/flags" element={<Flags />} />
           <Route path="/metrics" element={<Metrics />} />

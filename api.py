@@ -14,11 +14,18 @@ The Vite dev server proxies /api to this port (see web/vite.config.js).
 
 import json
 import os
+import sys
+from pathlib import Path
 
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 import query
+
+# experiment_b_research.py imports its sibling `contract` from eval/, so that
+# directory must be on the path before we import it here.
+sys.path.insert(0, str(Path(__file__).parent / "eval"))
+import experiment_b_research as bresearch  # noqa: E402
 
 app = FastAPI(title="Reno Memo RAG")
 
@@ -88,6 +95,19 @@ def search(q: str = ""):
         if key in result:
             payload[key] = [_expand(row) for row in result[key]]
     return payload
+
+
+@app.get("/api/research")
+def research(q: str = ""):
+    q = q.strip()
+    if not q:
+        raise HTTPException(status_code=400, detail="missing query parameter 'q'")
+    return bresearch.query_b(q)
+
+
+@app.get("/api/research/graph")
+def research_graph():
+    return bresearch.graph_b()
 
 
 @app.get("/api/threads")
