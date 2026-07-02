@@ -37,6 +37,14 @@ PAIR_SYSTEMS = {
     "B": ["B-research", "B-vanilla"],
 }
 
+# The other axis of the 2x2: fix the grounding, vary the data source. These are
+# UNBLINDED inspection views, not part of the judged experiment — no blind map,
+# no expert form, no saved responses.
+COMPARE_SYSTEMS = {
+    "research": ["A-research", "B-research"],
+    "vanilla": ["A-vanilla", "B-vanilla"],
+}
+
 app = FastAPI(title="Reno RAG — Blinded Comparison Review")
 app.add_middleware(
     CORSMiddleware, allow_origins=["http://localhost:5190", "http://127.0.0.1:5190"],
@@ -114,6 +122,27 @@ def pair(prompt_id: str, experiment: str):
     saved = _load_response(prompt_id, experiment)
     return {"prompt_id": prompt_id, "experiment": experiment,
             "prompt": prompt["prompt"], "outputs": outputs, "saved_response": saved}
+
+
+@app.get("/api/compare")
+def compare(prompt_id: str, axis: str):
+    """Unblinded side-by-side of the same grounding across data sources
+    (A-research vs B-research, or A-vanilla vs B-vanilla). Inspection only."""
+    if axis not in COMPARE_SYSTEMS:
+        raise HTTPException(400, "axis must be 'research' or 'vanilla'")
+    runs = _latest_runs()
+    outputs = []
+    for system_id in COMPARE_SYSTEMS[axis]:
+        out = _output_for(runs, prompt_id, system_id)
+        outputs.append({
+            "label": system_id,  # unblinded — system identity is the whole point here
+            "answer": out["answer"],
+            "cited_sources": out.get("cited_sources", []),
+            "extracted_data": out.get("extracted_data") or None,
+        })
+    prompt = next(p for p in contract.load_prompts() if p["id"] == prompt_id)
+    return {"prompt_id": prompt_id, "axis": axis,
+            "prompt": prompt["prompt"], "outputs": outputs}
 
 
 class ExpertResponse(BaseModel):

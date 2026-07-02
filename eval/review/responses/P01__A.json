@@ -1,0 +1,16 @@
+{
+  "prompt_id": "P01",
+  "experiment": "A",
+  "more_accurate": "",
+  "accuracy_reason": "",
+  "wrong_output1": "",
+  "wrong_output2": "",
+  "invents_output1": "",
+  "invents_output2": "",
+  "extraction_output1": "",
+  "extraction_output2": "",
+  "blind_mapping": {
+    "Output 1": "A-research",
+    "Output 2": "A-vanilla"
+  }
+}

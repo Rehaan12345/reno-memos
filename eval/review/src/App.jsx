@@ -13,11 +13,15 @@ const EMPTY = {
 export default function App() {
   const [prompts, setPrompts] = useState([]);
   const [promptId, setPromptId] = useState(null);
-  const [experiment, setExperiment] = useState("A");
+  // "A" | "B" = blinded judged experiment; "research" | "vanilla" = unblinded
+  // cross-data-source inspection (not part of the judged evaluation).
+  const [view, setView] = useState("A");
   const [pair, setPair] = useState(null);
   const [form, setForm] = useState(EMPTY);
   const [savedAt, setSavedAt] = useState(null);
   const [unblind, setUnblind] = useState(null);
+
+  const isCompare = view === "research" || view === "vanilla";
 
   useEffect(() => {
     fetch("/api/prompts").then((r) => r.json()).then((d) => {
@@ -30,13 +34,16 @@ export default function App() {
     if (!promptId) return;
     setUnblind(null);
     setSavedAt(null);
-    fetch(`/api/pair?prompt_id=${promptId}&experiment=${experiment}`)
+    const url = isCompare
+      ? `/api/compare?prompt_id=${promptId}&axis=${view}`
+      : `/api/pair?prompt_id=${promptId}&experiment=${view}`;
+    fetch(url)
       .then((r) => r.json())
       .then((d) => {
         setPair(d);
         setForm(d.saved_response ? { ...EMPTY, ...d.saved_response } : EMPTY);
       });
-  }, [promptId, experiment]);
+  }, [promptId, view]);
 
   const set = (k) => (e) => setForm({ ...form, [k]: e.target.value });
 
@@ -44,7 +51,7 @@ export default function App() {
     fetch("/api/response", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ prompt_id: promptId, experiment, ...form }),
+      body: JSON.stringify({ prompt_id: promptId, experiment: view, ...form }),
     })
       .then((r) => r.json())
       .then(() => setSavedAt(new Date().toLocaleTimeString()));
@@ -54,7 +61,7 @@ export default function App() {
     if (!window.confirm(
       "Reveal which system produced each output? Do this only after you have " +
       "recorded your judgment — it cannot be un-seen.")) return;
-    fetch(`/api/unblind?prompt_id=${promptId}&experiment=${experiment}`, { method: "POST" })
+    fetch(`/api/unblind?prompt_id=${promptId}&experiment=${view}`, { method: "POST" })
       .then((r) => r.json())
       .then((d) => setUnblind(d.mapping));
   };
@@ -83,13 +90,29 @@ export default function App() {
               <div className="exp-toggle">
                 {["A", "B"].map((x) => (
                   <button key={x}
-                          className={x === experiment ? "on" : ""}
-                          onClick={() => setExperiment(x)}>
+                          className={x === view ? "on" : ""}
+                          onClick={() => setView(x)}>
                     Experiment {x}
                   </button>
                 ))}
+                <span className="toggle-sep" />
+                <button className={view === "research" ? "on" : ""}
+                        onClick={() => setView("research")}>
+                  Compare research (A↔B)
+                </button>
+                <button className={view === "vanilla" ? "on" : ""}
+                        onClick={() => setView("vanilla")}>
+                  Compare vanilla (A↔B)
+                </button>
               </div>
               <div className="prompt-banner">{pair.prompt}</div>
+              {isCompare && (
+                <p className="compare-note">
+                  Unblinded inspection — same grounding, different data source
+                  (A = spreadsheet, B = raw PDFs). Not part of the judged
+                  experiment; no judgment is recorded here.
+                </p>
+              )}
             </div>
 
             <div className="outputs">
@@ -122,19 +145,23 @@ export default function App() {
               ))}
             </div>
 
-            <ExpertForm experiment={experiment} form={form} set={set}
-                        setForm={setForm} />
+            {!isCompare && (
+              <>
+                <ExpertForm experiment={view} form={form} set={set}
+                            setForm={setForm} />
 
-            <div className="actions">
-              <button className="save" onClick={save}>Save judgment</button>
-              {savedAt && <span className="saved-msg">Saved at {savedAt}</span>}
-              <button className="unblind" onClick={doUnblind}>Unblind ▸</button>
-              {unblind && (
-                <span className="unblind-msg">
-                  Output 1 = {unblind["Output 1"]} · Output 2 = {unblind["Output 2"]}
-                </span>
-              )}
-            </div>
+                <div className="actions">
+                  <button className="save" onClick={save}>Save judgment</button>
+                  {savedAt && <span className="saved-msg">Saved at {savedAt}</span>}
+                  <button className="unblind" onClick={doUnblind}>Unblind ▸</button>
+                  {unblind && (
+                    <span className="unblind-msg">
+                      Output 1 = {unblind["Output 1"]} · Output 2 = {unblind["Output 2"]}
+                    </span>
+                  )}
+                </div>
+              </>
+            )}
           </>
         )}
       </main>
